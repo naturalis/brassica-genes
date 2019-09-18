@@ -1,0 +1,55 @@
+## Vergadering: Naturalis Biodiversity Center
+###### Voorzitter:		Rik Frijmann
+###### Notulist:		Esther Kockelmans
+###### Datum:		11-09-2019
+###### Tijd:			14:00 – 15:00
+###### Locatie:		Naturalis: Darwinweg 2, Leiden
+###### Aanwezig:		Daphne van Ginneken, Esther Kockelmans, Nino Vrolijk, Rik Frijmann, 
+###### 			Rutger Vos, Frederic Lens
+###### Afwezig:		-
+
+#### Opening
+###### De vergadering wordt geopend om 15:00 uur. De groep houdt een voorstelronde.
+
+#### Vaststellen notulist
+###### Tijdens de vergaderingen rouleert de rol van notulist volgens een schema.
+###### De notulist gedurende deze vergadering is Esther Kockelmans.
+
+#### Onderzoek/Experiment
+###### De projectbegeleiders, Rutger Vos en Frederic Lens, vertellen over het vooronderzoek en de vragen die beantwoord moeten worden in dit project. Het is (nog) niet duidelijk waarom er zoveel fenotypische verschillen zijn tussen houtige en kruidachtige planten. Door middel van een kruising met een houtachtige koolsoort met een kruidachtige koolsoort zijn de regio’s die te maken hebben met deze fenotypische verschillen gevonden. De uitkomst is een pathway met de relaties tussen de genen, er moet nog gekeken worden naar de relaties tot de andere kopieën, dit wordt gedaan door te blasten (pairwise).
+
+###### Er moet in dit project gekeken worden naar welke genen er verantwoordelijk zijn voor het verschil in bloeitijd.
+
+###### Het vooronderzoek wordt naar de projectgroep gestuurd zodat hiermee verder gewerkt kan worden. (Een gedetailleerdere uitwerking van het vooronderzoek en het experiment is te vinden in het PvA).
+
+###### Rutger en Frederic werken samen in de groep “Understanding Evolution”. De tussen en eindpresentaties moeten ook aan deze groep gegeven worden. De groep moet dit wel vroegtijdig (ongeveer een maand vantevoren) melden zodat er nog geoefend kan worden.
+
+#### Discussie punten
+##### 1. Wat wordt er van ons verwacht/welke producten moeten er worden geleverd?
+###### Tussentijdse presentaties en een eindverslag (zie deadlines bij puntje 3). Verder moeten alle scripts worden opgeslagen in een projectfolder met Read Me bestanden bijgevoegd.
+
+##### 2. In welke taal moet er gewerkt worden?
+###### De eindproducten (alle code en data) moeten goed gedocumenteerd worden. Om de scripts te kunnen volgen moeten Read Me bestanden bijgevoegd worden (wat gaat erin, wat wordt ermee gedaan en wat komt er vervolgens weer uit?). Alle eindproducten (inclusief het PvA) moeten in het Engels opgeleverd worden zodat het werk opgepakt kan worden. Communicatie (vergaderingen, E-mail, WhatsApp, notulen enzovoorts) mogen in het Nederlands.
+
+##### 3. Zijn er specifieke deadlines?
+###### De deadlines voor het PvA staat op 16 september 2019. De presentaties worden gehouden in week 1 of week 2 van periode 2. De eindproducten moeten op 26 januari 2020 ingeleverd worden en de eindpresentatie vindt plaats in periode 2 in lesweek 8.
+
+##### 4. Hoe gaat de communicatie verlopen?
+###### Er moet wekelijks vergaderd worden. Elke week notuleert een project lid tijdens deze vergaderingen. De notulen moeten gedeeld worden. Wanneer de projectleden bij de Git kunnen moeten de notulen hier aan toegevoegd worden. Ook is het handig om een groepsapp aan te maken om zo snel vragen te kunnen stellen. Deze zal zo snel mogelijk aangemaakt worden.
+
+###### Rutger: 0627085806 
+###### Frederic: 0683172643
+
+##### 5. Wie is ons hoofd-contactpersoon? (Hoe en voor wat?)
+###### Voor Cloud vragen kan de projectgroep terecht bij de ICT support desk (deze kan ook gemaild worden: ICT Support Web Naturalis.nl). Voor overige vragen kan de projectgroep contact opnemen met Rutger en Frederic.
+
+##### 6. Wanneer zullen de volgende vergaderingen plaatsvinden?
+###### Er is elke week (afwisselend de dinsdag en de woensdag) een dag uitgeroosterd om aan het project te werken. Het is handig om ook op die dagen de vergaderingen te plannen maar dit is lastig te zeggen. Er zal na elke vergadering gekeken worden wanneer het de projectgroep en de project begeleiders het beste schikt om een vergadering in te plannen.
+
+##### 7. Is er een werkplek waar de projectgroep gezamenlijk aan het project kan werken?
+###### Er is een studentenruimte lab beschikbaar voor de projectgroep maar omdat Naturalis erg krap is qua werkruimte en omdat de cloud ook van buitenaf beschikbaar is, is het aan te raden om op de Hogeschool te werken aan het project.
+
+##### Planning volgende vergadering
+ Om overal aan dit project te kunnen werken moet elke student zijn of haar public key ssh verbinding mailen. Deze kan dan aan de virtuele machine toegevoegd worden en dan kan er overal aan het project gewerkt worden.
+
+###### Elk project lid moet een account aanmaken op GitHub.com en zijn of haar accountnaam naar Rutger mailen.
