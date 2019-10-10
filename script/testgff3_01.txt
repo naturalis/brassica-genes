@@ -1,0 +1,6 @@
+##gff-version 3
+chromosome_01	.	gene	4	12	.	+	.	test=range
+chromosome_02	.	mRNA	4	12	.	+	.	test=range
+chromosome_02	.	exon	4	6	.	+	.	test=range,overlap
+chromosome_02	.	exon	7	9	.	+	.	test=range,overlap
+chromosome_02	.	exon	4	9	.	-	.	test=rev_comp
