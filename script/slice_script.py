@@ -1,12 +1,16 @@
 # Created by Rik Frijmann and Esther Kockelmans.
-# Last edit 10-OCT-2019.
+# Last edit 14-OCT-2019.
 # Short changelog:
+# 14-OCT-2019: changed header for output fasta file to the information
+#   line of the GFF3 file, making it more informative and a unique
+#   identifier.
 # 10-OCT-2019: added support for multi-line fasta-files.
 # 30-SEP-2019: added predicted framework and documentation.
 #
 # Current issues:
 # Script can not accept external variables for genome filepath, GFF3-
-# filepath and output filepath.
+# filepath and output filepath. A argument parser will have to be
+# added at a later date.
 
 from Bio import SeqIO
 
@@ -44,7 +48,7 @@ def import_gff3(filepath):
         next(iterdata)
         for line in iterdata:
             line = line.strip("\n").split("\t")
-            feature_list.append([line[0], line[2], int(line[3]), int(line[4]), line[5], line[6]])
+            feature_list.append([line[0], line[2], int(line[3]), int(line[4]), line[5], line[6], line[-1]])
     return feature_list
 
 
@@ -65,6 +69,6 @@ if __name__ == "__main__":
         for feature in feature_list:
             # print(feature)  # debug
             sequence = fetch_strand(feature, genome[feature[0]])
-            outfile.write(">%s_%s"%(feature[0], feature[1])+"\n")
+            outfile.write(">%s\n"%(feature[-1]))
             outfile.write(str(sequence.seq)+"\n")
             # print(sequence.seq)  # debug
