@@ -1,6 +1,18 @@
-##gff-version 3
-chromosome_01	.	gene	4	12	.	+	.	test=range
-chromosome_02	.	mRNA	4	12	.	+	.	test=range
-chromosome_02	.	exon	4	6	.	+	.	test=range,overlap
-chromosome_02	.	exon	7	9	.	+	.	test=range,overlap
-chromosome_02	.	exon	4	9	.	-	.	test=rev_comp
+##gff-version 3 end start-1, end-1
+chromosome_01	test	gene	4	12	.	+	.	ID=gene:1;biotype=protein;morenonsense
+chromosome_01	test	exon	4	6	.	+	.	id=1,test=range
+chromosome_01	test	exon	10	12	.	+	.	id=1,test=range	
+chromosome_02	test	gene	1	21	.	+	.	id=2,test=range,overlap
+chromosome_02	test	exon	4	6	.	+	.	id=2,test=range,overlap
+chromosome_02	test	exon	8	15	.	+	.	id=2,test=range,overlap
+chromosome_02	test	exon	7	9	.	+	.	id=2,test=range,overlap
+chromosome_03	test	gene	1	15	.	-	.	id=3,test=revcomp
+chromosome_03	test	exon	4	6	.	-	.	id=3,test=revcomp
+chromosome_03	test	exon	10	12	.	-	.	id=3,test=revcomp
+chromosome_04	test	gene	4	15	.	+	.	id=4,test=frame
+chromosome_01	test	exon	7	9	.	+	.	id=1,test=range
+chromosome_04	test	exon	7	9	.	+	1	id=4,test=frame
+chromosome_04	test	exon	10	15	.	+	2	id=4,test=frame
+chromosome_01	test	gene	1	15	.	-	.	id=5,test=frame+revcomp
+chromosome_01	test	exon	4	7	.	-	1	id=5,test=frame+revcomp
+chromosome_01	test	exon	10	12	.	-	2	id=5,test=frame+revcomp
