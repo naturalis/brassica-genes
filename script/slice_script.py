@@ -7,6 +7,11 @@
 # 10-OCT-2019: added support for multi-line fasta-files.
 # 30-SEP-2019: added predicted framework and documentation.
 #
+#28-10-2019 Changes that need to be made:
+#To slice the consensus sequence there will be another file deliverd.
+#This file contains locations in which deletions or insertions have ocurred.
+#This location has to be accounted for in the slicing method.
+
 # Current issues:
 # Script can not accept external variables for genome filepath, GFF3-
 # filepath and output filepath. A argument parser will have to be
@@ -53,9 +58,9 @@ def import_gff3(filepath):
 
 
 if __name__ == "__main__":
-    testgff3 = "testgff3_01.txt"  # variable used to test code
-    testfasta = "testfasta_01.txt"  # variable used to test code
-    outfasta = "testoutput_01.fasta" # variable used to test code
+    testgff3 = "../shortlist/tussenproduct/gff3_short_list.txt"  # variable used to test code
+    testfasta = "../data/jerseykale_consensus.fa"  # variable used to test code
+    outfasta = "jk_sequences_output.fasta" # variable used to test code
     with open(outfasta, 'w') as outfile:
         pass  # wipes output file.
 
