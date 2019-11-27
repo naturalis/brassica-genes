@@ -1,0 +1,23 @@
+## Notulen Vergadering Naturalis
+##### Datum:	27/11/2019
+##### Aanwezig:	Rutger Vos, Rik Frijmann, Nino Vrolijk, Esther Kockelmans, Daphne van Ginneken
+##### Notulist: Rik Frijmann
+
+#### Voortgang
+Fasta bestanden zijn inmiddels aangemaakt, deze hoeven enkel nog naar GitHub gestuurd te worden. Verder is
+er voorgang met interpreteren van snpEff resultaten. snpEff maakt een uitgebreide lijst aan informatie over
+SNPs en het resultaat op het genoom van elke SNP. Er wordt nog gezocht naar een methode om deze informatie
+dusdanig te filteren dat alleen de informatie van SNPs op de genen van interesse overblijven. Ondanks dat
+snpEff veelbelovend lijkt is het plan nog steeds om met MUSCLE de alignments van alle fasta bestanden aan te
+maken.
+
+#### Planning
+- Fasta bestanden op GitHub zetten.
+- Alignments maken van fasta bestanden en op GitHub zetten.
+
+#### Streven
+Het streven is nu om de analyses afgerond te hebben met de kerstvakantie, zodat verslagen schrijven, 
+documenteren en een presentatie opstellen allemaal na de vakantie kan.
+
+#### Volgende vergadering
+Dinsdag 03-12-2019 om 11:00 uur.
