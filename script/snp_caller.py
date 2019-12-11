@@ -85,3 +85,23 @@ if __name__ == "__main__":
             find_syn_nonsyn([seq1, seq2])
 
         print(snp_dict)
+
+        indel, silent, syn, nonsyn = [], [], [], []
+        for file in snp_dict.keys():
+            indel.append(snp_dict[file]["indel"])
+            silent.append(snp_dict[file]["silent"])
+            syn.append(snp_dict[file]["syn"])
+            nonsyn.append(snp_dict[file]["nonsyn"])
+        print(indel, silent, syn, nonsyn)
+
+        with open("funky_snp_stats.txt", 'w') as outfile:
+            outfile.write("filename\tindel\tsilent\tsynonimous\tnonsynonimous\n")
+            for file in snp_dict.keys():
+                outstring = "%s\t%i\t%i\t%i\t%i\n"%(
+                    file,
+                    snp_dict[file]["indel"],
+                    snp_dict[file]["silent"],
+                    snp_dict[file]["syn"],
+                    snp_dict[file]["nonsyn"]
+                )
+                outfile.write(outstring)
