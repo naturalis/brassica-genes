@@ -1,22 +1,3 @@
-# Created by Rik Frijmann and Esther Kockelmans.
-# Last edit 14-OCT-2019.
-# Short changelog:
-# 14-OCT-2019: changed header for output fasta file to the information
-#   line of the GFF3 file, making it more informative and a unique
-#   identifier.
-# 10-OCT-2019: added support for multi-line fasta-files.
-# 30-SEP-2019: added predicted framework and documentation.
-#
-#28-10-2019 Changes that need to be made:
-#To slice the consensus sequence there will be another file deliverd.
-#This file contains locations in which deletions or insertions have ocurred.
-#This location has to be accounted for in the slicing method.
-
-# Current issues:
-# Script can not accept external variables for genome filepath, GFF3-
-# filepath and output filepath. A argument parser will have to be
-# added at a later date.
-
 from Bio import SeqIO
 
 
@@ -58,22 +39,27 @@ def import_gff3(filepath):
 
 
 if __name__ == "__main__":
-    testgff3 = "../shortlist/tussenproduct/gff3_short_list.txt"  # variable used to test code
-    testfasta = "../data/jerseykale_consensus.fa"  # variable used to test code
-    outfasta = "jk_sequences_output.fasta" # variable used to test code
-    with open(outfasta, 'w') as outfile:
-        pass  # wipes output file.
+   for i in range (2):
+        if i == 0 :
+             gff3_file = raw_input("Specifiy the filename of the reference GFF3 file. ")
+             genome_pathway = raw_input("Specify the name of the Brassica  fasta file. ")
+        else:
+             gff3_file = raw_input("Specifiy the filename of the Jersey Kale GFF3 file. ")
+             genome_pathway = raw_input("Specify the name of the Jersey Kale fasta file. ")
+        output = raw_input("Specify the name of the output fasta file. ")
 
-    with open(testfasta, "rU") as handle:
-        genome = SeqIO.to_dict(SeqIO.parse(handle, "fasta"))
+        with open(output, 'w') as outfile:
+             pass  # wipes output file.
 
-    feature_list = import_gff3(testgff3)
-    # print(feature_list)  # debug
+        with open(genome_pathway, "rU") as handle:
+             genome = SeqIO.to_dict(SeqIO.parse(handle, "fasta"))
 
-    with open(outfasta, 'a') as outfile:
-        for feature in feature_list:
-            # print(feature)  # debug
-            sequence = fetch_strand(feature, genome[feature[0]])
-            outfile.write(">%s\n"%(feature[-1]))
-            outfile.write(str(sequence.seq)+"\n")
-            # print(sequence.seq)  # debug
+        feature_list = import_gff3(gff3_file)
+
+        with open(output, 'a') as outfile:
+            teller = 0
+            for feature in feature_list:
+                sequence = fetch_strand(feature, genome[feature[0]])
+                outfile.write(">Feature:"+str(teller)+"\t%s\n"%(feature[-1]))
+                outfile.write(str(sequence.seq)+"\n")
+                teller+=1
