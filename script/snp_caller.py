@@ -1,11 +1,16 @@
 # Created by Rik Frijmann.
-# Last edit 07-12-2019.
+# Last edit 11-12-2019.
 # A rudimentary script counting the most common types of SNPs.
 # The script currently counts synonimous, non-synonimous and indels.
 # Short changelog:
-#
+# 11-12-2019: Added multi-alignment functionality, added framework
+# 	to write summaries on groups of alignments, counting
+#	properties such as average and mean counts per SNP type.
 # Current issues:
-#
+# 1 - Aminoacid alignments need to be written before the script, as
+#	translating seems to introduce frameshifts or misplace gaps.
+#	As aligning is done elsewhere; translating, realigning and
+#	outputting the new alignment should too.
 
 import os
 from Bio import AlignIO
@@ -79,12 +84,12 @@ if __name__ == "__main__":
 
         snp_dict[filename]["indel"] = find_indel([seq1, seq2])
 
-        #seq1 = seq1.ungap("-")
-        #seq2 = seq2.ungap("-")
+        #seq1 = seq1.ungap("-") #  does not seem to work as intended, kept the line in as a reminder
+        #seq2 = seq2.ungap("-") #  does not seem to work as intended, kept the line in as a reminder
         snp_dict[filename]["syn"], snp_dict[filename]["nonsyn"] = \
             find_syn_nonsyn([seq1, seq2])
 
-        print(snp_dict)
+        #print(snp_dict)
 
         indel, silent, syn, nonsyn = [], [], [], []
         for file in snp_dict.keys():
@@ -92,7 +97,7 @@ if __name__ == "__main__":
             silent.append(snp_dict[file]["silent"])
             syn.append(snp_dict[file]["syn"])
             nonsyn.append(snp_dict[file]["nonsyn"])
-        print(indel, silent, syn, nonsyn)
+        #print(indel, silent, syn, nonsyn)
 
         with open("funky_snp_stats.txt", 'w') as outfile:
             outfile.write("filename\tindel\tsilent\tsynonimous\tnonsynonimous\n")
