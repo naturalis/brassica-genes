@@ -12,13 +12,13 @@ The effect impact is used to determine the impact the variant has on the genes. 
 The effects and annotations that SnpEff can calculate are listed in Tabel 1 below.
 
  #### Tabel 1 Effect types SnpEff can calculate and their meanings
- |Effect type | Meaning                          | Example                              |
- |--------------------------------------------------------------------------------------|
- |SNP 	      | Single-Nucleotide Polymorphism   | Reference = 'A', Sample = 'C'        |
- |Ins         | Insertion                        | Reference = 'A', Sample = 'AGT'      |
- |Del         | Deletion                         | Reference = 'AC', Sample = 'C'       |
- |MNP         | Multiple-nucleotide polymorphism | Reference = 'ATA', Sample = 'GTC'    |
- |MIXED       | Multiple-nucleotide and an InDel | Reference = 'ATA', Sample = 'GTCAGT' |
+|Effect type  | Meaning                          | Example                              |
+|-------------|----------------------------------|--------------------------------------|
+|SNP 	      | Single-Nucleotide Polymorphism   | Reference = 'A', Sample = 'C'        |
+|Ins          | Insertion                        | Reference = 'A', Sample = 'AGT'      |
+|Del          | Deletion                         | Reference = 'AC', Sample = 'C'       |
+|MNP          | Multiple-nucleotide polymorphism | Reference = 'ATA', Sample = 'GTC'    |
+|MIXED        | Multiple-nucleotide and an InDel | Reference = 'ATA', Sample = 'GTCAGT' |
 
 
 Variants are the differences between a genome and a reference genome1. The places in the genome where the sample differs from the reference genome are called “genomic variants” or “variants”. Variants can be categorized as shown in Table 1.
