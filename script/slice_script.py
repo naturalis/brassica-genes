@@ -60,6 +60,6 @@ if __name__ == "__main__":
             teller = 0
             for feature in feature_list:
                 sequence = fetch_strand(feature, genome[feature[0]])
-                outfile.write(">Feature:"+str(teller)+"\t%s\n"%(feature[-1]))
+                outfile.write(feature[-1]+"@"+str(feature[2])+"@"+str(feature[3])+"\n")
                 outfile.write(str(sequence.seq)+"\n")
                 teller+=1
