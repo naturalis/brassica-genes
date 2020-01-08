@@ -41,8 +41,7 @@ SnpEff examines the input variants and returns the variants after annotating and
 |variants_effect_conservative_inframe_deletion	 	| Count number of variants for each effect type
 |variants_effect_conservative_inframe_insertion		| X	
 |variants_effect_disruptive_inframe_deletion 		| One codon is changed and one or more codons are deleted
-e.g.: A deletion of size multiple of three, not at codon boundary MODERATE |
-
+e.g.: A deletion of size multiple of three, not at codon boundary MODERATE 
 |variants_effect_disruptive_inframe_insertion 		| One codon is changed and one or many codons are inserted
 e.g.: An insert of size multiple of three, not at codon boundary MODERATE |
 
