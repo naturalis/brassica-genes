@@ -1,14 +1,14 @@
 ## Notulen project Bpexa
 
-### Datum: 08-01-2020 
-### Tijd: 11:00-12:00
-### Locatie: Naturalis
-### Voorzitter: Nino Vrolijk
-### Notulist: Esther Kockelmans
-### Aanwezig: Esther Kockelmans, Rik Frijmann, Daphne van Ginneken, Nino Vrolijk
-### Afwezig: -
+#### Datum: 08-01-2020 
+#### Tijd: 11:00-12:00
+#### Locatie: Naturalis
+#### Voorzitter: Nino Vrolijk
+#### Notulist: Esther Kockelmans
+#### Aanwezig: Esther Kockelmans, Rik Frijmann, Daphne van Ginneken, Nino Vrolijk
+#### Afwezig: -
 
-## Voortgang
+### Voortgang
 In de vakantie zijn de projectleden verder gegaan met het afronden van het project. Een van de punten die afgerond moest worden was het blasten van het referentiegenoom tegen de Jersey Kale via het slicing script om zo de beste hits (dichtstbijzijnde qua locatie) eruit te pakken. Dit gedeelte lukte niet via Python dus dit wordt nu via de commandline uitgevoerd.
 
 SnpEff werkt, er is vanuit het genoom van Naturalis een database gebouwd en daarop is SnpEff uitgevoerd, hieruit komt dezelfde tabel maar met andere resultaten. Versie van het genoom dat SnpEff gebruikt is nog steeds niet bekend, vandaar dat er gekozen is om te werken met een eigen database. Nu moeten alleen de genen van interesse nog gefilterd worden en moet het gedocumenteerd worden.
@@ -17,22 +17,22 @@ Rutger vertelt dat de SnpEff resultaten precies bevatten wat hij zocht en wannee
 
 22 januari moet het verslag ingeleverd worden bij Rutger zodat deze nog nagekeken kan worden, vervolgens moet het verslag 26 januari ingeleverd worden bij de Hogeschool.
 
-## Planning
-| Wie?	 | Wat?                                                    | Deadline    |
-| ------ | ------------------------------------------------------- | ----------- |
-| Rik    |	- Slice script afronden                                |             |
-|        | - GitHub opschonen	                                     | 14-01-2020  |
-| Daphne |	- Genen van interesse filteren                         |             |
-|        | - Begin maken aan verslag (Resultaten)	                 | 14-01-2020  |
-| Esther |	- Documentatie SnpEff bijwerken                        |             |
-|        | - Begin maken aan verlag (Samenvatting en inleiding)    | 14-01-2020  |
-| Nino	 | Pipeline shellscript*	                                 | 14-01-2020  |
-
+### Planning
+| Wie?	    | Wat?                                                    | Deadline    |
+| --------- | ------------------------------------------------------- | ----------- |
+| Rik       |	- Slice script afronden                                 |             |
+|           | - GitHub opschonen	                                    | 14-01-2020  |
+| Daphne    |	- Genen van interesse filteren                          |             |
+|           | - Begin maken aan verslag (Resultaten)	                | 14-01-2020  |
+| Esther    |	- Documentatie SnpEff bijwerken                         |             |
+|           | - Begin maken aan verlag (Samenvatting en inleiding)    | 14-01-2020  |
+| Nino	    | Pipeline shellscript*	                                  | 14-01-2020  |
+ 
 #### * Er wordt gewerkt aan een pipeline shellscript dat alle script op volgorde aanroept. Rik helpt hierbij.
 
-## Datum en tijdstip volgende vergadering
+### Datum en tijdstip volgende vergadering
 De volgende vergadering vindt plaats op 14 januari om 13:00 uur.
 
-## Afsluiting vergadering
+### Afsluiting vergadering
 De vergadering wordt gesloten om 11:17 uur.
 
