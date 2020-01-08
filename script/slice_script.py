@@ -1,4 +1,45 @@
+# Created by Rik Frijmann and Esther Kockelmans.
+# Last edit 14-OCT-2019.
+# Short changelog:
+# 08-JAN-2020: removed functionality to slice on both reference and
+#   target at the same time. Instead split the script's function into
+#   two parts. It now slices from a genome, gff3 and geneid file; or
+#   from a genome, and a file with filenames and locations.
+# 14-OCT-2019: changed header for output fasta file to the information
+#   line of the GFF3 file, making it more informative and a unique
+#   identifier.
+# 10-OCT-2019: added support for multi-line fasta-files.
+# 30-SEP-2019: added predicted framework and documentation.
+#
+# Current issues:
+# Script can not accept external variables for genome filepath, GFF3-
+# filepath and output filepath. An argument parser will have to be
+# added at a later date.
+
 from Bio import SeqIO
+from os import path
+import os
+import glob
+
+
+def input_file_location(message):
+    """
+    This function performs basic quality control of user input. It
+    calls for a filepath with a pre-specified message. The function
+    then checks if the given filepath leads to an actual existing
+    file. If no file exists at the given location, the function will
+    throw an error message and ask for a new file location.
+    :param message: String. Contains the message asking for a filepath
+    :return filepath: String. Contains a filepath leading to the file.
+    """
+    filepath = input(message)
+    flag = path.isfile(filepath)
+    while not flag:
+        filepath = input("Error: file not found! \n"
+                         "Please specify full relative filepath leading to the required file")
+        flag = path.isfile(filepath)
+    print("%s succesfully located"%(filepath))
+    return filepath
 
 
 def fetch_strand(feature_list, in_sequence):
@@ -39,27 +80,96 @@ def import_gff3(filepath):
 
 
 if __name__ == "__main__":
-   for i in range (2):
-        if i == 0 :
-             gff3_file = raw_input("Specifiy the filename of the reference GFF3 file. ")
-             genome_pathway = raw_input("Specify the name of the Brassica  fasta file. ")
-        else:
-             gff3_file = raw_input("Specifiy the filename of the Jersey Kale GFF3 file. ")
-             genome_pathway = raw_input("Specify the name of the Jersey Kale fasta file. ")
-        output = raw_input("Specify the name of the output fasta file. ")
+    # Create clean output folder
+    try:
+        os.mkdir("temp")
+    except FileExistsError:
+        tempfiles = glob.glob("temp/*")
+        for file in tempfiles:
+            print(file)
+            if path.isfile(file):
+                os.remove(file)
 
-        with open(output, 'w') as outfile:
-             pass  # wipes output file.
+    while True:
+        mode = input("### Bpexa slice script\n"
+                     "Choose the mode to run this slicing programm in by entering one of the following numbers:\n"
+                     "1) Input is a genome in fasta format and a related GFF3-file.\n"
+                     "2) Input is a genome in fasta format and a list of start- and stop locations.\n"
+                     "3) Quit without running.\n"
+                     "Mode: ")
+        if mode == "1":
+            # Fetch input file location
+            genome_file = input_file_location("Specify the location of the genome fasta file: ")
+            gff3_file = input_file_location("Specify the location of the related GFF3 file: ")
+            goi_file = input_file_location("Specify the location of the file with gene IDs of interest: ")
 
-        with open(genome_pathway, "rU") as handle:
-             genome = SeqIO.to_dict(SeqIO.parse(handle, "fasta"))
+            # Fetch and modify input
+            with open(genome_file, "rU") as handle:
+                genome = SeqIO.to_dict(SeqIO.parse(handle, "fasta"))
+            feature_list = import_gff3(gff3_file)
+            with open(goi_file, 'r') as handle:
+                goi = []
+                for record in handle.readlines():
+                    goi.append(record.rstrip("\n"))
 
-        feature_list = import_gff3(gff3_file)
-
-        with open(output, 'a') as outfile:
-            teller = 0
+            # Slice sequences
+            exon_counter = {}
             for feature in feature_list:
                 sequence = fetch_strand(feature, genome[feature[0]])
-                outfile.write(feature[-1]+"@"+str(feature[2])+"@"+str(feature[3])+"\n")
-                outfile.write(str(sequence.seq)+"\n")
-                teller+=1
+                # Write output file name
+                out_gene = "unknown"
+                for gene_id in goi:
+                    if gene_id in feature[-1]:
+                        out_gene = gene_id
+                if feature[1] == "exon":
+                    try:
+                        exon_counter[out_gene] += 1
+                    except KeyError:
+                        exon_counter[out_gene] = 1
+                    feature[1] = "exon"+str(exon_counter[out_gene])
+                outfilename = "temp/%s_%s.fa"%(out_gene, feature[1])
+                # Write output file
+                with open(outfilename, 'w') as outfile:
+                    outfile.write("geneid:%s;feature:%s;seqstart:%i;seqstop:%i\n"%(
+                        out_gene,
+                        feature[1],
+                        feature[2],
+                        feature[3]
+                    ))
+                    outfile.write(str(sequence.seq) + "\n")
+            quit()
+        if mode == "2":
+            # Fetch input file location
+            genome_file = input_file_location("Specify the location of the genome fasta file: ")
+            locations_file = input_file_location("Specify the filename of the target sequence locations: ")
+
+            # Fetch input
+            with open(genome_file, "rU") as handle:
+                genome = SeqIO.to_dict(SeqIO.parse(handle, "fasta"))
+            locations = []
+            with open(locations_file, 'r') as handle:
+                for record in handle.readlines():
+                    # a record should be:
+                    # filename \t contig \t start \t end \n
+                    locations.append(record.rstrip("\n").split("\t"))
+
+            # Gather parameters for slicing in a mock feature list.
+            for location in locations:
+                mock_feature = [location[1], "",
+                                min(location[2], location[3]),
+                                max(location[2], location[3]),
+                                "", "+", ""]
+                if location[2] > location[3]:
+                    mock_feature[5] = "-"
+
+                # Slice sequence using mock feature list
+                sequence = fetch_strand(mock_feature, mock_feature[0])
+
+                # Write sequence away to appropriate file
+                with open("temp/"+location[0], 'a') as outfile:
+                    outfile.write(">seqstart:%i;seqstop%i+\n"%(mock_feature[2],
+                                                               mock_feature[3]))
+                    outfile.write(str(sequence.seq) + "\n")
+            quit()
+        if mode == "3":
+            quit()
