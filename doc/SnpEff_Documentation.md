@@ -40,24 +40,24 @@ SnpEff examines the input variants and returns the variants after annotating and
 |variants_impact_MODIFIER 				| Number of variants for modifier impact
 |variants_effect_conservative_inframe_deletion	 	| Number of variants for each effect type
 |variants_effect_conservative_inframe_insertion		| X	
-|variants_effect_disruptive_inframe_deletion 		| One codon is changed and one or more codons are deleted e.g.: A deletion of size multiple of three, not at codon boundary MODERATE 
-|variants_effect_disruptive_inframe_insertion 		| One codon is changed and one or many codons are inserted e.g.: An insert of size multiple of three, not at codon boundary = moderate effect |
-|variants_effect_downstream_gene_variant 		| Downstream of a gene (default length: 5K bases)  = moderate effect |
-|variants_effect_exon_loss_variant 			| A deletion removes the whole exon  = high effect
-|variants_effect_frameshift_variant 			| Insertion or deletion causes a frame shift e.g.: An indel size is not multple of 3 = high effect |
-|variants_effect_initiator_codon_variant 		| Variant causes start codon to be mutated into another start codon (the new codon produces a different AA). e.g.: Atg/Ctg, M/L (ATG and CTG can be START codons) = low effect |
-|variants_effect_intron_variant 			| Variant hits and intron. Technically, hits no exon in the transcript = modifier effect |	
-|variants_effect_missense_variant 			| Variant causes a codon that produces a different amino acid e.g.: Tgg/Cgg, W/R 	= moderate effect |
+|variants_effect_disruptive_inframe_deletion 		| One codon is changed and one or more codons are deleted e.g.: A deletion of size multiple of three, not at codon boundary = *moderate*
+|variants_effect_disruptive_inframe_insertion 		| One codon is changed and one or many codons are inserted e.g.: An insert of size multiple of three, not at codon boundary = *moderate* |
+|variants_effect_downstream_gene_variant 		| Downstream of a gene (default length: 5K bases)  = *moderate* |
+|variants_effect_exon_loss_variant 			| A deletion removes the whole exon  = *high*
+|variants_effect_frameshift_variant 			| Insertion or deletion causes a frame shift e.g.: An indel size is not multple of 3 = *high* |
+|variants_effect_initiator_codon_variant 		| Variant causes start codon to be mutated into another start codon (the new codon produces a different AA). e.g.: Atg/Ctg, M/L (ATG and CTG can be START codons) = *low* |
+|variants_effect_intron_variant 			| Variant hits and intron. Technically, hits no exon in the transcript = *modifier* |	
+|variants_effect_missense_variant 			| Variant causes a codon that produces a different amino acid e.g.: Tgg/Cgg, W/R 	= *moderate*  |
 |variants_effect_non_canonical_start_codon 		| X	
 |variants_effect_non_coding_transcript_exon_variant 	| X
-|variants_effect_splice_acceptor_variant 		| The variant hits a splice acceptor site (defined as two bases before exon start, except for the first exon) = high effect |	
-|variants_effect_splice_donor_variant 			| The variant hits a Splice donor site (defined as two bases after coding exon end, except for the last exon) = high effect |
-|variants_effect_splice_region_variant 			| A sequence variant in which a change has occurred within the region of the splice site, either within 1-3 bases of the exon or 3-8 bases of the intron = low effect |	
-|variants_effect_start_lost 				| Variant causes start codon to be mutated into a non-start codon. e.g.: aTg/aGg, M/R 	= high effect |
-|variants_effect_stop_gained 				| Variant causes a STOP codon e.g.: Cag/Tag, Q/* 	= high effect |
-|variants_effect_stop_lost 				| Variant causes stop codon to be mutated into a non-stop codon e.g.: Tga/Cga, */R 	= high effect |
-|variants_effect_stop_retained_variant 			| Variant causes stop codon to be mutated into another stop codon. e.g.: taA/taG, */* 	= low effect |
-|variants_effect_synonymous_variant 			| Variant causes a codon that produces the same amino acid e.g.: Ttg/Ctg, L/L 	= low effect |	
-|variants_effect_upstream_gene_variant 			| Upstream of a gene (default length: 5K bases) 	= modifier effect |
+|variants_effect_splice_acceptor_variant 		| The variant hits a splice acceptor site (defined as two bases before exon start, except for the first exon) = *high* |	
+|variants_effect_splice_donor_variant 			| The variant hits a Splice donor site (defined as two bases after coding exon end, except for the last exon) = *high* |
+|variants_effect_splice_region_variant 			| A sequence variant in which a change has occurred within the region of the splice site, either within 1-3 bases of the exon or 3-8 bases of the intron = *low* |	
+|variants_effect_start_lost 				| Variant causes start codon to be mutated into a non-start codon. e.g.: aTg/aGg, M/R 	= *high* |
+|variants_effect_stop_gained 				| Variant causes a STOP codon e.g.: Cag/Tag, Q/* 	= *high* |
+|variants_effect_stop_lost 				| Variant causes stop codon to be mutated into a non-stop codon e.g.: Tga/Cga, */R 	= *high* |
+|variants_effect_stop_retained_variant 			| Variant causes stop codon to be mutated into another stop codon. e.g.: taA/taG, */* 	= *low* |
+|variants_effect_synonymous_variant 			| Variant causes a codon that produces the same amino acid e.g.: Ttg/Ctg, L/L 	= *low* |	
+|variants_effect_upstream_gene_variant 			| Upstream of a gene (default length: 5K bases) 	= *modifier* |
 
  #### Source: http://snpeff.sourceforge.net/SnpEff_manual.html
