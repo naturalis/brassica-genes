@@ -1,6 +1,12 @@
  #### SnpEff Documentation
+ ##### Summary
 
-SnpEff is a tool used to annotate and predict the effect of genetic variants.
+SnpEff is a tool used in order to annotate and predict the effects of genetic variants.
+-- why is this important --
+
+ #### Download and install
+Downloading and installing is very simple and can be done using/via the next URL: http://snpeff.sourceforge.net/download.html
+Follow these simple steps and you can start using SnpEff.
 
  #### Input
 SnpEff takes a VCF (variant call format) file as input (usually obtained after a sequencing experiment) . This file contains the predicted variants like SNPs, insertions, deletions and MNPs.
@@ -11,20 +17,20 @@ The effect impact is used to determine the impact the variant has on the genes. 
 
 The effects and annotations that SnpEff can calculate are listed in Tabel 1 below.
 
- #### Tabel 1 Effect types SnpEff can calculate and their meanings
+ #### Table 1 Effect types SnpEff can calculate and their meanings
 |Effect type  | Meaning                          | Example                              |
 |-------------|----------------------------------|--------------------------------------|
-|SNP 	      | Single-Nucleotide Polymorphism   | Reference = 'A', Sample = 'C'        |
+|SNP 	        | Single-Nucleotide Polymorphism   | Reference = 'A', Sample = 'C'        |
 |Ins          | Insertion                        | Reference = 'A', Sample = 'AGT'      |
 |Del          | Deletion                         | Reference = 'AC', Sample = 'C'       |
 |MNP          | Multiple-nucleotide polymorphism | Reference = 'ATA', Sample = 'GTC'    |
 |MIXED        | Multiple-nucleotide and an InDel | Reference = 'ATA', Sample = 'GTCAGT' |
+ #### Source: http://snpeff.sourceforge.net/SnpEff_manual.html
 
-
-Variants are the differences between a genome and a reference genome1. The places in the genome where the sample differs from the reference genome are called “genomic variants” or “variants”. Variants can be categorized as shown in Table 1.
+Variants are the differences between a genome and a reference genome[1]. The places in the genome where the sample differs from the reference genome are called “genomic variants” or “variants”. Variants can be categorized as shown in Table 1.
 
  #### Output
-SnpEff examines the input variants and returns the variants after annotating and calculating the effects on (known) genes1. The output of SnpEff is a huge file, it contains the differences between the used sample and the reference genome. The output is a bit similar to the VCF file used as input, the main difference is that the INFO-section is added to it. This section tells a bit more about the effect of the variant.
+SnpEff examines the input variants and returns the variants after annotating and calculating the effects on (known) genes[1]. The output of SnpEff is a huge file, it contains the differences between the used sample and the reference genome, displayed in a table. The output is a bit similar to the VCF file used as input, the main difference is that the INFO-section is added to it. This section tells a bit more about the effect of the variant.
 
 
  #### Output headers explained
@@ -59,5 +65,9 @@ SnpEff examines the input variants and returns the variants after annotating and
 |variants_effect_stop_retained_variant 			| Variant causes stop codon to be mutated into another stop codon. e.g.: taA/taG, */* 	= *low* |
 |variants_effect_synonymous_variant 			| Variant causes a codon that produces the same amino acid e.g.: Ttg/Ctg, L/L 	= *low* |	
 |variants_effect_upstream_gene_variant 			| Upstream of a gene (default length: 5K bases) 	= *modifier* |
+ #### Source: http://snpeff.sourceforge.net/SnpEff_manual.html
+
+ ### Project specific - how did we use SnpEff?
+[which commands? and what do they do]
 
  #### Source: http://snpeff.sourceforge.net/SnpEff_manual.html
