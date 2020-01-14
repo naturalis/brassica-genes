@@ -1,0 +1,8 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo9g173370;contig:C9;feature:exon2;seqstart:51014365;seqstop:51014422
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+geneid:Bo9g173370;contig:C9;feature:exon2;seqstart:51014365;seqstop:51014422	C9	98.18	55	1	0	4	58	51054378	51054432	9e-20	97.1
+geneid:Bo9g173370;contig:C9;feature:exon2;seqstart:51014365;seqstop:51014422	C9	98.18	55	1	0	4	58	51076289	51076343	9e-20	97.1
+# BLAST processed 1 queries

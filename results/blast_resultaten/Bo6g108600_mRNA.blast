@@ -1,0 +1,21 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 15 hits found
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C6	96.98	3711	52	14	1	3691	33908363	33904693	0.0	6178
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C6	80.04	1017	114	42	2321	3282	30121298	30122280	0.0	671
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C6	77.85	966	114	66	1203	2133	30120220	30121120	4e-141	507
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C6	91.17	351	27	3	1	348	30119100	30119449	4e-131	473
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C6	83.73	209	25	8	3489	3691	30122558	30122763	1e-45	189
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C6	84.82	191	18	8	1012	1192	30120050	30120239	3e-43	182
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C2	78.20	991	129	54	1213	2143	18349805	18348842	5e-155	553
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C2	76.83	1027	136	63	2309	3274	18348692	18347707	2e-134	484
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C2	84.19	234	28	6	3465	3691	18347442	18347211	2e-54	219
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C2	84.29	191	26	3	1	189	50654004	50653816	7e-44	183
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C2	92.04	113	9	0	1055	1167	18349925	18349813	1e-36	159
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C9	85.86	191	23	3	1	189	4333328	4333140	7e-49	200
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C7	84.08	201	27	4	1	198	38371354	38371156	1e-45	189
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C4	87.90	124	15	0	23	146	4017916	4018039	9e-33	147
+geneid:Bo6g108600;contig:C6;feature:mRNA;seqstart:33883667;seqstop:33887357	C5	82.73	110	17	2	23	131	17148673	17148781	9e-18	97.1
+# BLAST processed 1 queries

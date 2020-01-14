@@ -1,0 +1,12 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo3g038880;contig:C3;feature:mRNA;seqstart:15404837;seqstop:15407277
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+geneid:Bo3g038880;contig:C3;feature:mRNA;seqstart:15404837;seqstop:15407277	C3	98.28	2441	16	6	1	2441	15429184	15426770	0.0	4252
+geneid:Bo3g038880;contig:C3;feature:mRNA;seqstart:15404837;seqstop:15407277	C4	79.26	1755	236	62	393	2096	4028113	4026436	0.0	1107
+geneid:Bo3g038880;contig:C3;feature:mRNA;seqstart:15404837;seqstop:15407277	C4	77.51	1561	212	81	960	2441	53061729	53060229	0.0	809
+geneid:Bo3g038880;contig:C3;feature:mRNA;seqstart:15404837;seqstop:15407277	C4	86.24	407	32	15	1	396	4028537	4028144	3e-115	420
+geneid:Bo3g038880;contig:C3;feature:mRNA;seqstart:15404837;seqstop:15407277	C4	81.90	525	52	22	1	502	53062646	53062142	3e-110	403
+geneid:Bo3g038880;contig:C3;feature:mRNA;seqstart:15404837;seqstop:15407277	C4	88.79	214	21	3	2228	2441	4026292	4026082	7e-67	259
+# BLAST processed 1 queries

@@ -1,0 +1,11 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo1g002460;contig:C1;feature:mRNA;seqstart:205351;seqstop:206116
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+geneid:Bo1g002460;contig:C1;feature:mRNA;seqstart:205351;seqstop:206116	C1	93.77	786	17	4	10	766	206557	205775	0.0	1151
+geneid:Bo1g002460;contig:C1;feature:mRNA;seqstart:205351;seqstop:206116	C6	85.94	441	29	17	150	579	9357951	9358369	8e-122	440
+geneid:Bo1g002460;contig:C1;feature:mRNA;seqstart:205351;seqstop:206116	C6	84.13	441	29	18	150	579	13830755	13831165	3e-106	388
+geneid:Bo1g002460;contig:C1;feature:mRNA;seqstart:205351;seqstop:206116	C3	81.41	425	60	9	347	764	53666462	53666874	2e-88	329
+geneid:Bo1g002460;contig:C1;feature:mRNA;seqstart:205351;seqstop:206116	C3	78.96	328	27	18	1	290	53666122	53666445	4e-45	185
+# BLAST processed 1 queries

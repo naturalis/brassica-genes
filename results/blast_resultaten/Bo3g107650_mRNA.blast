@@ -1,0 +1,21 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 15 hits found
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C3	100.00	1396	0	0	1	1396	38165619	38167014	0.0	2579
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C3	100.00	30	0	0	767	796	63074116	63074087	6e-06	56.5
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C2	89.45	379	37	3	1021	1396	51319212	51318834	4e-132	475
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C2	85.90	383	40	11	596	974	51319691	51319319	3e-108	396
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C6	82.29	192	26	8	711	899	16310744	16310558	4e-37	159
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C6	78.70	169	32	4	730	896	34253324	34253158	4e-22	110
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C6	85.71	56	8	0	767	822	1963965	1964020	5e-07	60.2
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C8	79.88	169	32	2	730	897	24606473	24606640	6e-26	122
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C5	79.41	170	33	2	730	898	15197087	15196919	7e-25	119
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C5	81.20	133	23	2	730	861	15211391	15211260	6e-21	106
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C7	84.42	77	12	0	767	843	38991181	38991257	5e-12	76.8
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C9	77.45	102	21	2	743	843	504848	504948	5e-07	60.2
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C9	79.75	79	14	2	767	844	11032845	11032768	6e-06	56.5
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C1	94.44	36	1	1	764	798	8623903	8623938	2e-05	54.7
+geneid:Bo3g107650;contig:C3;feature:mRNA;seqstart:38121464;seqstop:38122859	C1	100.00	28	0	0	767	794	590682	590655	8e-05	52.8
+# BLAST processed 1 queries

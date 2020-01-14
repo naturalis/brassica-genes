@@ -1,0 +1,9 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo9g139490;contig:C9;feature:mRNA;seqstart:42455005;seqstop:42455834
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+geneid:Bo9g139490;contig:C9;feature:mRNA;seqstart:42455005;seqstop:42455834	C9	96.39	830	13	4	1	830	42485250	42484438	0.0	1351
+geneid:Bo9g139490;contig:C9;feature:mRNA;seqstart:42455005;seqstop:42455834	C2	87.76	825	91	6	13	830	7846608	7847429	0.0	955
+geneid:Bo9g139490;contig:C9;feature:mRNA;seqstart:42455005;seqstop:42455834	C2	81.30	262	38	9	278	533	47859090	47858834	4e-50	202
+# BLAST processed 1 queries

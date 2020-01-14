@@ -1,0 +1,19 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 13 hits found
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C2	97.44	3089	44	14	245	3306	50653791	50650711	0.0	5234
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C2	98.68	228	3	0	1	228	50654004	50653777	1e-110	405
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C2	100.00	43	0	0	2636	2678	50651331	50651289	8e-13	80.5
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C2	95.92	49	1	1	2685	2733	50651378	50651331	3e-12	78.7
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C7	87.70	366	38	6	2946	3306	38368521	38368158	4e-115	420
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C7	94.33	194	11	0	1	194	38371354	38371161	2e-78	298
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C7	81.14	334	37	19	523	846	38370975	38370658	3e-62	244
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C7	79.92	244	30	12	2314	2555	38369425	38369199	3e-37	161
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C9	93.42	228	15	0	1	228	4333328	4333101	1e-90	339
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C9	80.00	445	69	15	2054	2484	4331792	4331354	3e-82	311
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C9	82.56	344	45	10	1351	1689	4332297	4331964	1e-75	289
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C9	79.93	304	35	14	523	825	4332955	4332677	6e-49	200
+geneid:Bo2g161210;contig:C2;feature:mRNA;seqstart:50609126;seqstop:50612431	C9	98.44	64	0	1	2481	2544	4331308	4331246	3e-22	111
+# BLAST processed 1 queries

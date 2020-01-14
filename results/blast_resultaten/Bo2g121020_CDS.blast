@@ -1,0 +1,8 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo2g121020;contig:C2;feature:CDS;seqstart:37801515;seqstop:37801708
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+geneid:Bo2g121020;contig:C2;feature:CDS;seqstart:37801515;seqstop:37801708	C2	100.00	194	0	0	1	194	37827746	37827553	5e-98	359
+geneid:Bo2g121020;contig:C2;feature:CDS;seqstart:37801515;seqstop:37801708	C5	95.14	185	9	0	1	185	20772900	20772716	5e-78	292
+# BLAST processed 1 queries

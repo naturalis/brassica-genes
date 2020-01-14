@@ -1,0 +1,10 @@
+# BLASTN 2.2.31+
+# Query: geneid:Bo7g117660;contig:C7;feature:exon1;seqstart:47086456;seqstop:47087122
+# Database: jerseykale_consensus.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+geneid:Bo7g117660;contig:C7;feature:exon1;seqstart:47086456;seqstop:47087122	C7	99.40	667	4	0	1	667	47119491	47120157	0.0	1210
+geneid:Bo7g117660;contig:C7;feature:exon1;seqstart:47086456;seqstop:47087122	C7	84.68	124	9	6	549	667	4602002	4601884	4e-24	115
+geneid:Bo7g117660;contig:C7;feature:exon1;seqstart:47086456;seqstop:47087122	C3	83.99	656	60	17	27	667	55848371	55848996	2e-166	588
+geneid:Bo7g117660;contig:C7;feature:exon1;seqstart:47086456;seqstop:47087122	C1	81.59	679	59	23	10	667	1787578	1786945	3e-140	501
+# BLAST processed 1 queries
