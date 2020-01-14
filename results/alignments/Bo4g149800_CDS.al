@@ -1,0 +1,2 @@
+>geneid:Bo4g149800;contig:C4;feature:CDS;seqstart:40726276;seqstop:40726294
+CTTACCGTATGGCGGTTAG
