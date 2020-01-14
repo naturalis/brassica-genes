@@ -18,8 +18,7 @@ def list_blast_files(dir):
     dir_content = listdir(dir)
     blast_files = []
     for file in dir_content:
-        if file.isfile():
-            blast_files.append(file)
+         blast_files.append(file)
     return blast_files
 
 
@@ -43,7 +42,8 @@ def read_blast_file(location):
             # for pos in range(3, 10):
             #    line[pos] = int(line[pos])
             # line[11] = int(line[11])
-        blast_result.append(line)
+            blast_result.append(line)
+    #print(blast_result)
     return blast_result
 
 
@@ -53,38 +53,40 @@ def select_chrom(results):
     for record in results:
         if query[2] == record[2]:
             blast_results.append(record)
+    #print (blast_results) #NIET GOED
     return results
 
 
 if __name__ == "__main__":
     # Make it easier for the argument parsing
     blast_dr = "blast_resultaten/"
-
     # Prepare output file. Clear if exists; add header
-    if isfile(dir+"target_gene_locations.txt"):
-        remove(dir+"target_gene_locations.txt")
-    with open(dir+"target_gene_locations.txt", 'a') as outfile:
+    outfilepath = "target_gene_locations.txt"
+    if isfile(outfilepath):
+        remove(outfilepath)
+    with open(outfilepath, 'w') as outfile:
         outfile.write("filename\tcontig\tstart\tend\n")
 
     # List all subject BLAST files
     blast_files = list_blast_files(blast_dr)
-
     # Loop over BLAST files
     for file in blast_files:
         # Open the current BLAST file
-        blast_results = read_blast_file(dir+file)
+        blast_results = read_blast_file(blast_dr+file)
+        #print (blast_results)
         # If there is a BLAST result, start filtering
         if blast_results != []:
             blast_results = select_chrom(blast_results)
         if blast_results != []:
             # BLAST sorting guarantees highest bit-score comes first
             final_result = blast_results[0]
-            with open(dir+"target_gene_locations.txt" 'a') as outfile:
+            #print("Check",final_result)
+            with open(outfilepath, 'a') as outfile:
                 outfile.write(
                     "%s\t%s\t%s\t%s\n"%(file,
-                                        blast_results[1],
-                                        blast_results[8],
-                                        blast_results[9],)
+                                        final_result[1],
+                                        final_result[8],
+                                        final_result[9])
                 )
         if blast_results == []:
             print("No BLAST results found for file: %s"%(file))
