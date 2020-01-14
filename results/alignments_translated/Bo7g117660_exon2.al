@@ -1,0 +1,2 @@
+>geneid:Bo7g117660;contig:C7;feature:exon2;seqstart:47087231;seqstop:47087256
+AYTNELEL

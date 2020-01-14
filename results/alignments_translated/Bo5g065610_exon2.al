@@ -1,0 +1,4 @@
+>geneid:Bo5g065610;contig:C5;feature:exon2;seqstart:20757268;seqstop:20757321
+EERRMSLPKYKVHDETSQ
+>seqstart:20771263;seqstop20771316+
+EERRMSLPKYKVHDETSQ

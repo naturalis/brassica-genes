@@ -1,0 +1,4 @@
+>geneid:Bo4g024850;contig:C4;feature:exon5;seqstart:4022348;seqstop:4022409
+HLKHEAANMMKKIEQLEASK
+>seqstart:4026933;seqstop4026994+
+HLKHEAANMMKKIEQLEASK

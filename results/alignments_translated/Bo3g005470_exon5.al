@@ -1,0 +1,4 @@
+>geneid:Bo3g005470;contig:C3;feature:exon5;seqstart:2127822;seqstop:2127883
+DLQSKALSYGSHNELLELVD
+>seqstart:2131451;seqstop2131512+
+DLQSKALSYGSHNELLELVD

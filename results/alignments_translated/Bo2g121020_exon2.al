@@ -1,0 +1,4 @@
+>geneid:Bo2g121020;contig:C2;feature:exon2;seqstart:37799924;seqstop:37799977
+EERRMFLPKYKVHDETSQ
+>seqstart:37825935;seqstop37825988+
+EERRMSLPKYKVHDETSQ

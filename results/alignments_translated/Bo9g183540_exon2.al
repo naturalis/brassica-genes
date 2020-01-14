@@ -1,0 +1,4 @@
+>geneid:Bo9g183540;contig:C9;feature:exon2;seqstart:54262700;seqstop:54262768
+VPEASSYCSAAYDHQARS
+>seqstart:54308075;seqstop54308143+
+VPEASSYCSAAYDHQARS

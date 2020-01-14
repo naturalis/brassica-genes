@@ -1,0 +1,4 @@
+>geneid:Bo2g012820;contig:C2;feature:exon4;seqstart:3819533;seqstop:3819598
+VQSIQLGSLPPGTVSLHFPK
+>seqstart:3827195;seqstop3827260+
+VQSIQLGSLPPGTVSLHFPK

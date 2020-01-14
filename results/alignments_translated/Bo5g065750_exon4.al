@@ -1,0 +1,4 @@
+>geneid:Bo5g065750;contig:C5;feature:exon4;seqstart:20909228;seqstop:20909281
+FELMHQQQQRDDPKGKGK
+>seqstart:20922889;seqstop20922942+
+FELMHQQQQRDDPKGKGK

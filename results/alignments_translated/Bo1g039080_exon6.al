@@ -1,0 +1,4 @@
+>geneid:Bo1g039080;contig:C1;feature:exon6;seqstart:11756799;seqstop:11756860
+LENCNLSRLSKEVEDKTKQL
+>seqstart:11777121;seqstop11777182+
+LENCNLSRLSKEVEDKTKQL

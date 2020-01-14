@@ -1,0 +1,4 @@
+>geneid:Bo8g045980;contig:C8;feature:exon5;seqstart:15424726;seqstop:15424774
+QPTSSETPVLSFSQSS
+>seqstart:15422566;seqstop15422614+
+QPTSSETPVLSFSQSS

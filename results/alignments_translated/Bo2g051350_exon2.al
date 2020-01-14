@@ -1,0 +1,4 @@
+>geneid:Bo2g051350;contig:C2;feature:exon2;seqstart:14746596;seqstop:14746657
+VMVDPDVPSPSNPHLREYLH
+>seqstart:14767625;seqstop14767686+
+VMVDPDVPSPSNPHLREYLH

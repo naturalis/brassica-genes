@@ -1,0 +1,4 @@
+>geneid:Bo9g159960;contig:C9;feature:exon5;seqstart:47229100;seqstop:47229160
+VWGGSDG-QQIPQGSQSSS
+>seqstart:47262585;seqstop47262645+
+VWGGSDGRQQIPQGSQSSS
