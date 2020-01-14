@@ -1,0 +1,4 @@
+>geneid:Bo3g019340;contig:C3;feature:exon2;seqstart:6595194;seqstop:6595263
+LSKIWRFDSNVGPEEDMDPSSFQ
+>seqstart:6606920;seqstop6606989+
+LSKIWRFDSNVGPEEDMDPSSFQ

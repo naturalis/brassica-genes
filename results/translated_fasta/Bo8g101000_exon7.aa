@@ -1,0 +1,4 @@
+>geneid:Bo8g101000;contig:C8;feature:exon7;seqstart:35303907;seqstop:35303971
+LVENSDHALLSKEIAGKSHRL
+>seqstart:35322470;seqstop35322534+
+LVENSDHALLSKEIAGKSHRL

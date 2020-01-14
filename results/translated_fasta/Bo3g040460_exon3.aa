@@ -1,0 +1,4 @@
+>geneid:Bo3g040460;contig:C3;feature:exon3;seqstart:16626009;seqstop:16626070
+VMTDPDVPGPSDPYLREHLH
+>seqstart:44055994;seqstop44056055+
+VMTDPDVPGPSDPYLREHLH

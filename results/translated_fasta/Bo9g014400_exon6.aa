@@ -1,0 +1,4 @@
+>geneid:Bo9g014400;contig:C9;feature:exon6;seqstart:4324225;seqstop:4324289
+ENWVLEHAKLKARVEVLEKNK
+>seqstart:4332027;seqstop4332091+
+ENWVLEHAKLKARVEVLEKNK

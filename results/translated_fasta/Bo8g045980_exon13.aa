@@ -1,0 +1,4 @@
+>geneid:Bo8g045980;contig:C8;feature:exon13;seqstart:15426079;seqstop:15426134
+PSFLPRCLSYKIRAKGKR
+>seqstart:15423923;seqstop15423978+
+PSFLPRCLSYKIRAKGKR

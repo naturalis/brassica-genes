@@ -1,0 +1,4 @@
+>geneid:Bo4g149800;contig:C4;feature:exon3;seqstart:40724801;seqstop:40724865
+LVENSENSRLSKEIADKSHQL
+>seqstart:40753671;seqstop40753735+
+LVENSENSRLSKEIADKSHQL

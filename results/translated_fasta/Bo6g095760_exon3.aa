@@ -1,0 +1,4 @@
+>geneid:Bo6g095760;contig:C6;feature:exon3;seqstart:30104273;seqstop:30104337
+TNWSMEYNRLKAKIELLERNQ
+>seqstart:30120797;seqstop30120861+
+TNWSMEYNRLKAKIELLERNQ
