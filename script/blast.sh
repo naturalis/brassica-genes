@@ -4,7 +4,7 @@
 #A loop is created over the directory that contains these FASTA files.
 #Each individual FASTA file is used by the BLAST algorithm to detect the most similar sequences.
 
-#makeblastdb -in jerseykale_consensus.fa -dbtype nucl
+makeblastdb -in jerseykale_consensus.fa -dbtype nucl
 
 rm -f blast_resultaten/*
 mkdir -p  blast_resultaten
