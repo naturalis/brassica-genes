@@ -9,7 +9,15 @@ input:
 output:
 1. Tabular (version 7) BLAST results, one file for each sequence in "fasta_resultaten", stored in the directory "blast_resultaten".
 
-# Slice script
+# blast_selector.py
+This script filters every BLAST result in the directory "blast_resultaten" for the one record that most likely reflects the same sequence of the query. As of right now, this selection method is rather rudementary, choosing the hit with the highest bit score that is located on the exact same chromosome as the query. 
+- input: 
+1. A directory "blast_resultaten" with all BLAST results to be filtered in the same directory as this script is located in. 
+- output:
+1. A single file "target_gene_locations.txt", sharing the same directory as this script. It is formated as follows:
+- filename_of_query_sequence \t contig_of_target_sequence \t start_position_target_sequence \t stop_postion_target_sequence \n
+
+# slice_script.py
 This script can run in either of two modes. Mode 1 slices all positions from a given GFF3-file and it's related fasta genome file. 
 - input mode 1:
 1. genome of species 1 in fasta format.
