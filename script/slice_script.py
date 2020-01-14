@@ -1,6 +1,9 @@
 # Created by Rik Frijmann and Esther Kockelmans.
-# Last edit 14-OCT-2019.
+# Last edit 12-JAN-2020
 # Short changelog:
+# 12-JAN-2020: added more information to header and ID line of output
+#   fasta files. Adding contig identifier to fasta header was
+#   required in particular.
 # 08-JAN-2020: removed functionality to slice on both reference and
 #   target at the same time. Instead split the script's function into
 #   two parts. It now slices from a genome, gff3 and geneid file; or
@@ -17,6 +20,7 @@
 # added at a later date.
 
 from Bio import SeqIO
+from Bio.Seq import Seq
 from os import path
 import os
 import glob
@@ -82,9 +86,9 @@ def import_gff3(filepath):
 if __name__ == "__main__":
     # Create clean output folder
     try:
-        os.mkdir("temp")
+        os.mkdir("fasta_resultaten")
     except FileExistsError:
-        tempfiles = glob.glob("temp/*")
+        tempfiles = glob.glob("fasta_resulaten/*")
         for file in tempfiles:
             print(file)
             if path.isfile(file):
@@ -127,11 +131,12 @@ if __name__ == "__main__":
                     except KeyError:
                         exon_counter[out_gene] = 1
                     feature[1] = "exon"+str(exon_counter[out_gene])
-                outfilename = "temp/%s_%s.fa"%(out_gene, feature[1])
+                outfilename = "fasta_resultaten/%s_%s.fa"%(out_gene, feature[1])
                 # Write output file
                 with open(outfilename, 'w') as outfile:
-                    outfile.write("geneid:%s;feature:%s;seqstart:%i;seqstop:%i\n"%(
+                    outfile.write(">geneid:%s;contig:%s;feature:%s;seqstart:%i;seqstop:%i\n"%(
                         out_gene,
+                        feature[0],
                         feature[1],
                         feature[2],
                         feature[3]
@@ -148,10 +153,15 @@ if __name__ == "__main__":
                 genome = SeqIO.to_dict(SeqIO.parse(handle, "fasta"))
             locations = []
             with open(locations_file, 'r') as handle:
-                for record in handle.readlines():
+                record_list = iter(handle.readlines())
+                next(record_list)
+                for record in record_list:
                     # a record should be:
                     # filename \t contig \t start \t end \n
-                    locations.append(record.rstrip("\n").split("\t"))
+                    record = record.rstrip("\n").split("\t")
+                    record[2] = int(record[2])
+                    record[3] = int(record[3])
+                    locations.append(record)
 
             # Gather parameters for slicing in a mock feature list.
             for location in locations:
@@ -163,10 +173,11 @@ if __name__ == "__main__":
                     mock_feature[5] = "-"
 
                 # Slice sequence using mock feature list
-                sequence = fetch_strand(mock_feature, mock_feature[0])
+                sequence = fetch_strand(mock_feature, genome[mock_feature[0]])
 
                 # Write sequence away to appropriate file
-                with open("temp/"+location[0], 'a') as outfile:
+                location[0] = location[0].split(".")[0]+".fa"
+                with open("fasta_resultaten/"+location[0], 'a') as outfile:
                     outfile.write(">seqstart:%i;seqstop%i+\n"%(mock_feature[2],
                                                                mock_feature[3]))
                     outfile.write(str(sequence.seq) + "\n")
