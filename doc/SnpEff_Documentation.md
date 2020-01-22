@@ -1,16 +1,37 @@
  #### SnpEff Documentation
  ##### Summary
 
-SnpEff is a tool used in order to annotate and predict the effects of genetic variants.
--- why is this important --
+SnpEff is a tool used in order to annotate and predict the effects of genetic variants and explains the differences between the genome and the reference genome.
+SnpEff usually takes a VCF (Variant Call Format) file as input and generates a VCF file as output. 
+This tool does not only tell you the differences between the genome and the reference genome but also gives a lot more information about these variants because of the annotation step. SnpEff provides simple annotations as well as complex annotations, increasing the computational predictions when chosing te complex annotations.
+Also, these computational predictions can not be relied on without analyzing and validating by wet-lab experiments.
+
+SnpEff is an open source tool and cam be installed on local computers as well as servers. The tool is written in Java and runs on Unix/Limnux, OS.X and Windows [source]. 
+
 
  #### Download and install
 Downloading and installing is very simple and can be done using/via the next URL: http://snpeff.sourceforge.net/download.html
-Follow these simple steps and you can start using SnpEff.
+Follow these simple steps (just a double click on a ZIP file) and you can start using SnpEff.
+
+ #### Usage
+SnpEff requires a database for the annotation step. The user can choose to use a built-in database or to create their own database by following a few steps. The last case can be useful when using an organism which is not currently supported. If you want to know whether you need to built your own database or if the database you need is supported by SnpEff, just type in the following database command:
+
+$ java -jar snpEff.jar databases | less
+
+This will show the name of the database and some info about it.
+- Building own database -
+
 
  #### Input
-SnpEff takes a VCF (variant call format) file as input (usually obtained after a sequencing experiment) . This file contains the predicted variants like SNPs, insertions, deletions and MNPs.
-The location of the variant is discribed by the chromosome name and position.
+SnpEff takes a VCF (variant call format) file as input (created after a sequencing experiment). This file contains the predicted variants like SNPs, insertions, deletions and MNPs. 
+
+Annotating the VCF file is done by running the next command line:
+$ java -Xmx4g -jar snpEff.jar GRCh37.75 examples/test.chr22.vcf > test.chr22.ann.vcf
+
+The verbose (-v option) can be useful for debugging since it shows a lot information, if you would like to use this mode, your input will look a bit like this:
+$ java -Xmx4g -jar snpEff.jar -v GRCh37.75 examples/test.chr22.vcf > test.chr22.ann.vcf
+[ This mode will also create a .html page containing the basic statistics about the analyzed variants ]
+
 
  #### Processing
 The effect impact is used to determine the impact the variant has on the genes. The main difference between a HIGH and a LOW impact is that a HIGH impact means that, according tot he SnpEff program, the variant results in damaging effects on the gene, while a LOW impact means that the variant has no damaging effects on the gene. A MODERATE impact has a more harmful effect on the gene than the LOW impact, but not as high as the HIGH impact.
@@ -30,7 +51,9 @@ The effects and annotations that SnpEff can calculate are listed in Tabel 1 belo
 Variants are the differences between a genome and a reference genome[1]. The places in the genome where the sample differs from the reference genome are called “genomic variants” or “variants”. Variants can be categorized as shown in Table 1.
 
  #### Output
-SnpEff examines the input variants and returns the variants after annotating and calculating the effects on (known) genes[1]. The output of SnpEff is a huge file, it contains the differences between the used sample and the reference genome, displayed in a table. The output is a bit similar to the VCF file used as input, the main difference is that the INFO-section is added to it. This section tells a bit more about the effect of the variant.
+SnpEff examines the input variants and returns the variants after annotating and calculating the effects on (known) genes[1]. SnpEff generates a VCF file similar to the input file but the main difference is that the eight column is added to it, this is the INFO section with all the annotation information.
+
+SnpEff also creates a gene counts summary table. This is a huge file with the differences between the genome and the reference genome used as input. The name of the file is 'snpeff_genes.txt' by default but can be changed by the -stats option.
 
 
  #### Output headers explained
