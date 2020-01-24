@@ -35,9 +35,9 @@ filename_of_query_fasta \t contig_of_query_sequence \t query_start \t query_stop
 Updates on all fasta files in directory "fasta_resultaten", appending every sequence of the second parent to the fasta file of the first parent. 
 
 # Shortlist_script.sh
-This is the first step in the pipeline. The original gff3 file contains features for the entire genome.\n 
-Shortlist_script.sh filters the genes of interest out of the large gff3 file.\n
-The script needs two input files.
+This is the first step in the pipeline. The original gff3 file contains features for the entire genome. \n 
+Shortlist_script.sh filters the genes of interest out of the large gff3 file. \n
+The script needs two input files and delivers a single gff3 output file.
 - Input:
 1. gff3 file (whole genome)
 2. A list with names of genes that are interesting.
