@@ -80,8 +80,8 @@ This line contains the snpEff exon variance and exon indel observations.
 1. snpEff.tsv file
 
 # TSV_creator.py
-TSV_creatpr.py creates a count table that resembles the snpEff format. \n
-In order to do this the script needs summary gene files that were finished after running the Total_variance.sh script. \n
+TSV_creatpr.py creates a count table that resembles the snpEff format.
+In order to do this the script needs summary gene files that were finished after running the Total_variance.sh script.
 - input:
 1. Any number of summary files containg summarized alignment results (Alignment length, identical nucleotides and indel frequency.)
 - output:
