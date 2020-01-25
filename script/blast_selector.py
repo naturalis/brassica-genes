@@ -37,13 +37,7 @@ def read_blast_file(location):
     for line in content:
         if line[0] != "#":
             line = line.rstrip("\n").split("\t")
-            # temporarily commented out for testing!
-            # line[2] = float(line[2])
-            # for pos in range(3, 10):
-            #    line[pos] = int(line[pos])
-            # line[11] = int(line[11])
             blast_result.append(line)
-    #print(blast_result)
     return blast_result
 
 
@@ -53,7 +47,6 @@ def select_chrom(results):
     for record in results:
         if query[2] == record[2]:
             blast_results.append(record)
-    #print (blast_results) #NIET GOED
     return results
 
 
@@ -73,14 +66,12 @@ if __name__ == "__main__":
     for file in blast_files:
         # Open the current BLAST file
         blast_results = read_blast_file(blast_dr+file)
-        #print (blast_results)
         # If there is a BLAST result, start filtering
         if blast_results != []:
             blast_results = select_chrom(blast_results)
         if blast_results != []:
             # BLAST sorting guarantees highest bit-score comes first
             final_result = blast_results[0]
-            #print("Check",final_result)
             with open(outfilepath, 'a') as outfile:
                 outfile.write(
                     "%s\t%s\t%s\t%s\n"%(file,
