@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo2g108720_mRNA.aln	345.0	342	0
+Bo2g108720_exon2.aln	168.0	167	0
+Bo2g108720_gene.aln	345.0	342	0
+Bo2g108720_CDS.aln	168.0	167	0
+Bo2g108720_exon1.aln	75.0	75	0
+Total	1101	1093	0
+Bo2g108720.var: Exon variant:	GENE_Bo2g108720.1_exon_1 198	Exon indelsGENE_Bo2g108720.1_exon_1 0
+Bo2g108720.var: Gene variant:	gene:Bo2g108720 199	Gene indelsgene:Bo2g108720 0

@@ -1,0 +1,21 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo8g045980_gene.aln	2485.0	2472	3
+Bo8g045980_exon9.aln	63.0	63	0
+Bo8g045980_exon7.aln	131.0	130	0
+Bo8g045980_exon2.aln	90.0	90	0
+Bo8g045980_CDS.aln	132.0	132	0
+Bo8g045980_exon4.aln	84.0	84	0
+Bo8g045980_exon5.aln	49.0	49	0
+Bo8g045980_exon6.aln	172.0	172	0
+Bo8g045980_exon13.aln	56.0	56	0
+Bo8g045980_exon1.aln	208.0	208	0
+Bo8g045980_exon10.aln	78.0	78	0
+Bo8g045980_exon12.aln	68.0	68	0
+Bo8g045980_exon8.aln	44.0	44	0
+Bo8g045980_mRNA.aln	2485.0	2472	3
+Bo8g045980_exon11.aln	53.0	53	0
+Bo8g045980_exon14.aln	132.0	132	0
+Bo8g045980_exon3.aln	86.0	86	0
+Total	6416	6389	6
+Bo8g045980.var: Exon variant:	GENE_Bo8g045980.1_exon_14 254	Exon indelsGENE_Bo8g045980.1_exon_14 0
+Bo8g045980.var: Gene variant:	gene:Bo8g045980 259	Gene indelsgene:Bo8g045980 0

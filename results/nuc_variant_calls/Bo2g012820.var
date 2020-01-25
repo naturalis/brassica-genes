@@ -1,0 +1,18 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo2g012820_exon1.aln	162.0	162	0
+Bo2g012820_exon6.aln	102.0	102	0
+Bo2g012820_mRNA.aln	2727.0	2678	9
+Bo2g012820_exon11.aln	428.0	411	2
+Bo2g012820_exon7.aln	75.0	75	0
+Bo2g012820_CDS.aln	428.0	411	2
+Bo2g012820_exon2.aln	91.0	91	0
+Bo2g012820_exon3.aln	144.0	144	0
+Bo2g012820_exon5.aln	138.0	138	0
+Bo2g012820_exon10.aln	77.0	76	0
+Bo2g012820_exon9.aln	70.0	70	0
+Bo2g012820_exon8.aln	81.0	81	0
+Bo2g012820_exon4.aln	66.0	66	0
+Bo2g012820_gene.aln	2727.0	2678	9
+Total	7316	7183	22
+Bo2g012820.var: Exon variant:	GENE_Bo2g012820.1_exon_11 206	Exon indelsGENE_Bo2g012820.1_exon_11 1
+Bo2g012820.var: Gene variant:	gene:Bo2g012820 214	Gene indelsgene:Bo2g012820 0

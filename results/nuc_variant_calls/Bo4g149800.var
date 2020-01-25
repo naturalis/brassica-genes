@@ -1,0 +1,13 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo4g149800_mRNA.aln	2877.0	2814	8
+Bo4g149800_exon4.aln	100.0	99	0
+Bo4g149800_exon8.aln	155.0	154	0
+Bo4g149800_gene.aln	2877.0	2814	8
+Bo4g149800_exon1.aln	182.0	182	0
+Bo4g149800_exon2.aln	79.0	78	0
+Bo4g149800_exon3.aln	65.0	65	0
+Bo4g149800_exon6.aln	42.0	41	0
+Bo4g149800_exon5.aln	42.0	42	0
+Total	6419	6289	16
+Bo4g149800.var: Exon variant:	GENE_Bo4g149800.1_exon_1 297	Exon indelsGENE_Bo4g149800.1_exon_1 0
+Bo4g149800.var: Gene variant:	gene:Bo4g149800 307	Gene indelsgene:Bo4g149800 0

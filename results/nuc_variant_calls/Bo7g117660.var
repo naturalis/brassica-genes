@@ -1,0 +1,7 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo7g117660_gene.aln	801.0	797	0
+Bo7g117660_mRNA.aln	801.0	797	0
+Bo7g117660_exon1.aln	667.0	663	0
+Total	2269	2257	0
+Bo7g117660.var: Exon variant:	GENE_Bo7g117660.1_exon_1 61	Exon indelsGENE_Bo7g117660.1_exon_1 0
+Bo7g117660.var: Gene variant:	gene:Bo7g117660 65	Gene indelsgene:Bo7g117660 0

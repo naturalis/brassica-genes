@@ -1,0 +1,25 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g024250_exon5.aln	97.0	97	0
+Bo3g024250_exon1.aln	185.0	184	0
+Bo3g024250_exon2.aln	59.0	59	0
+Bo3g024250_mRNA.aln	6711.0	3622	53
+Bo3g024250_CDS.aln	102.0	102	0
+Bo3g024250_exon6.aln	42.0	42	0
+Bo3g024250_exon8.aln	102.0	102	0
+Bo3g024250_exon4.aln	62.0	62	0
+Bo3g024250_gene.aln	6711.0	3622	53
+Total	14071	7892	106
+Bo3g024250.var: Exon variant:	GENE_Bo3g024250.1_exon_1 126
+GENE_Bo3g024250.1_exon_1 126
+GENE_Bo3g024250.1_exon_1 126
+GENE_Bo3g024250.1_exon_1 126	Exon indelsGENE_Bo3g024250.1_exon_1 0
+GENE_Bo3g024250.1_exon_1 0
+GENE_Bo3g024250.1_exon_1 0
+GENE_Bo3g024250.1_exon_1 0
+Bo3g024250.var: Gene variant:	gene:Bo3g024250 128
+gene:Bo3g024250 128
+gene:Bo3g024250 128
+gene:Bo3g024250 128	Gene indelsgene:Bo3g024250 0
+gene:Bo3g024250 0
+gene:Bo3g024250 0
+gene:Bo3g024250 0

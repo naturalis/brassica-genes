@@ -1,0 +1,23 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo2g161210_exon6.aln	65.0	65	0
+Bo2g161210_exon2.aln	104.0	103	0
+Bo2g161210_exon1.aln	109.0	109	0
+Bo2g161210_mRNA.aln	3333.0	3009	17
+Bo2g161210_exon5.aln	100.0	100	0
+Bo2g161210_exon4.aln	42.0	42	0
+Bo2g161210_exon3.aln	42.0	42	0
+Bo2g161210_CDS.aln	185.0	183	0
+Bo2g161210_exon7.aln	79.0	78	0
+Bo2g161210_gene.aln	3333.0	3009	17
+Bo2g161210_exon8.aln	185.0	183	0
+Total	7577	6923	34
+Bo2g161210.var: Exon variant:	GENE_Bo2g161210.1_exon_8 270
+GENE_Bo2g161210.1_exon_8 270
+GENE_Bo2g161210.1_exon_8 270	Exon indelsGENE_Bo2g161210.1_exon_8 0
+GENE_Bo2g161210.1_exon_8 0
+GENE_Bo2g161210.1_exon_8 0
+Bo2g161210.var: Gene variant:	gene:Bo2g161210 276
+gene:Bo2g161210 276
+gene:Bo2g161210 276	Gene indelsgene:Bo2g161210 0
+gene:Bo2g161210 0
+gene:Bo2g161210 0

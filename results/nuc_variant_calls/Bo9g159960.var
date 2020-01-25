@@ -1,0 +1,12 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo9g159960_exon1.aln	444.0	442	0
+Bo9g159960_gene.aln	1929.0	1918	2
+Bo9g159960_CDS.aln	48.0	48	0
+Bo9g159960_exon6.aln	48.0	48	0
+Bo9g159960_mRNA.aln	1929.0	1918	2
+Bo9g159960_exon3.aln	87.0	87	0
+Bo9g159960_exon5.aln	61.0	60	0
+Bo9g159960_exon4.aln	705.0	704	0
+Total	5251	5225	4
+Bo9g159960.var: Exon variant:	GENE_Bo9g159960.1_exon_1 245	Exon indelsGENE_Bo9g159960.1_exon_1 0
+Bo9g159960.var: Gene variant:	gene:Bo9g159960 249	Gene indelsgene:Bo9g159960 0

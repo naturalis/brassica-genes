@@ -1,0 +1,12 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g012730_gene.aln	1943.0	1892	4
+Bo3g012730_exon1.aln	42.0	42	0
+Bo3g012730_mRNA.aln	1943.0	1892	4
+Bo3g012730_CDS.aln	558.0	553	0
+Bo3g012730_exon3.aln	474.0	470	0
+Bo3g012730_exon6.aln	558.0	553	0
+Bo3g012730_exon4.aln	87.0	87	0
+Bo3g012730_exon2.aln	61.0	61	0
+Total	5666	5550	8
+Bo3g012730.var: Exon variant:	GENE_Bo3g012730.1_exon_6 232	Exon indelsGENE_Bo3g012730.1_exon_6 0
+Bo3g012730.var: Gene variant:	gene:Bo3g012730 241	Gene indelsgene:Bo3g012730 0

@@ -1,0 +1,10 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo8g043460_mRNA.aln	846.0	845	0
+Bo8g043460_gene.aln	846.0	845	0
+Bo8g043460_CDS.aln	129.0	129	0
+Bo8g043460_exon2.aln	453.0	452	0
+Bo8g043460_exon1.aln	99.0	99	0
+Bo8g043460_exon3.aln	129.0	129	0
+Total	2502	2499	0
+Bo8g043460.var: Exon variant:	GENE_Bo8g043460.1_exon_3 104	Exon indelsGENE_Bo8g043460.1_exon_3 0
+Bo8g043460.var: Gene variant:	gene:Bo8g043460 105	Gene indelsgene:Bo8g043460 0

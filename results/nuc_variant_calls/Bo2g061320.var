@@ -1,0 +1,8 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo2g061320_exon1.aln	1032.0	1032	0
+Bo2g061320_mRNA.aln	1032.0	1032	0
+Bo2g061320_gene.aln	1032.0	1032	0
+Bo2g061320_CDS.aln	1032.0	1032	0
+Total	4128	4128	0
+Bo2g061320.var: Exon variant:	GENE_Bo2g061320.1_exon_1 25	Exon indelsGENE_Bo2g061320.1_exon_1 0
+Bo2g061320.var: Gene variant:	gene:Bo2g061320 25	Gene indelsgene:Bo2g061320 0

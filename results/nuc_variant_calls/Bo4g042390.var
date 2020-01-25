@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo4g042390_mRNA.aln	557.0	550	1
+Bo4g042390_gene.aln	557.0	550	1
+Bo4g042390_CDS.aln	332.0	327	1
+Bo4g042390_exon2.aln	332.0	327	1
+Bo4g042390_exon1.aln	142.0	141	0
+Total	1920	1895	4
+Bo4g042390.var: Exon variant:	GENE_Bo4g042390.1_exon_2 105	Exon indelsGENE_Bo4g042390.1_exon_2 0
+Bo4g042390.var: Gene variant:	gene:Bo4g042390 110	Gene indelsgene:Bo4g042390 0

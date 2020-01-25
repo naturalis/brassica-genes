@@ -1,0 +1,11 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo5g004560_exon3.aln	225.0	224	0
+Bo5g004560_exon4.aln	313.0	292	2
+Bo5g004560_CDS.aln	313.0	292	2
+Bo5g004560_gene.aln	2666.0	2530	12
+Bo5g004560_mRNA.aln	2666.0	2530	12
+Bo5g004560_exon1.aln	486.0	470	1
+Bo5g004560_exon2.aln	710.0	703	0
+Total	7379	7041	29
+Bo5g004560.var: Exon variant:	GENE_Bo5g004560.1_exon_4 221	Exon indelsGENE_Bo5g004560.1_exon_4 2
+Bo5g004560.var: Gene variant:	gene:Bo5g004560 248	Gene indelsgene:Bo5g004560 0

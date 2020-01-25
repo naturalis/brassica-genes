@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo8g101580_gene.aln	774.0	756	3
+Bo8g101580_mRNA.aln	774.0	756	3
+Bo8g101580_exon2.aln	390.0	380	1
+Bo8g101580_exon1.aln	114.0	113	0
+Bo8g101580_CDS.aln	390.0	380	1
+Total	2442	2385	8
+Bo8g101580.var: Exon variant:	GENE_Bo8g101580.1_exon_1 142	Exon indelsGENE_Bo8g101580.1_exon_1 1
+Bo8g101580.var: Gene variant:	gene:Bo8g101580 148	Gene indelsgene:Bo8g101580 0

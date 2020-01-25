@@ -1,0 +1,10 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo4g159930_exon2.aln	479.0	429	4
+Bo4g159930_mRNA.aln	2878.0	2686	18
+Bo4g159930_exon4.aln	1014.0	955	3
+Bo4g159930_gene.aln	2878.0	2686	18
+Bo4g159930_exon1.aln	225.0	224	0
+Bo4g159930_CDS.aln	1014.0	955	3
+Total	8488	7935	46
+Bo4g159930.var: Exon variant:	GENE_Bo4g159930.1_exon_1 299	Exon indelsGENE_Bo4g159930.1_exon_1 8
+Bo4g159930.var: Gene variant:	gene:Bo4g159930 345	Gene indelsgene:Bo4g159930 0

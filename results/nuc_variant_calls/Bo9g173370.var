@@ -1,0 +1,18 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo9g173370_mRNA.aln	4994.0	4763	29
+Bo9g173370_exon5.aln	42.0	42	0
+Bo9g173370_exon7.aln	81.0	79	0
+Bo9g173370_CDS.aln	414.0	400	2
+Bo9g173370_exon1.aln	185.0	182	0
+Bo9g173370_exon8.aln	414.0	400	2
+Bo9g173370_exon4.aln	100.0	100	0
+Bo9g173370_gene.aln	4994.0	4763	29
+Bo9g173370_exon6.aln	42.0	41	0
+Bo9g173370_exon2.aln	58.0	54	1
+Total	11324	10824	63
+Bo9g173370.var: Exon variant:	GENE_Bo9g173370.1_exon_1 440
+GENE_Bo9g173370.1_exon_1 440	Exon indelsGENE_Bo9g173370.1_exon_1 1
+GENE_Bo9g173370.1_exon_1 1
+Bo9g173370.var: Gene variant:	gene:Bo9g173370 453
+gene:Bo9g173370 453	Gene indelsgene:Bo9g173370 0
+gene:Bo9g173370 0

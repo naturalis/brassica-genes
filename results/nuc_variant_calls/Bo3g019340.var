@@ -1,0 +1,15 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g019340_gene.aln	2653.0	1907	14
+Bo3g019340_exon3.aln	544.0	536	0
+Bo3g019340_exon4.aln	308.0	286	0
+Bo3g019340_mRNA.aln	2653.0	1907	14
+Bo3g019340_exon5.aln	743.0	736	0
+Bo3g019340_CDS.aln	743.0	736	0
+Bo3g019340_exon2.aln	70.0	70	0
+Total	7714	6178	28
+Bo3g019340.var: Exon variant:	GENE_Bo3g019340.1_exon_1 257
+GENE_Bo3g019340.1_exon_1 257	Exon indelsGENE_Bo3g019340.1_exon_1 0
+GENE_Bo3g019340.1_exon_1 0
+Bo3g019340.var: Gene variant:	gene:Bo3g019340 293
+gene:Bo3g019340 293	Gene indelsgene:Bo3g019340 0
+gene:Bo3g019340 0

@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo9g139490_CDS.aln	411.0	383	2
+Bo9g139490_exon2.aln	411.0	383	2
+Bo9g139490_mRNA.aln	830.0	799	3
+Bo9g139490_exon1.aln	339.0	338	0
+Bo9g139490_gene.aln	830.0	799	3
+Total	2821	2702	10
+Bo9g139490.var: Exon variant:	GENE_Bo9g139490.1_exon_2 144	Exon indelsGENE_Bo9g139490.1_exon_2 2
+Bo9g139490.var: Gene variant:	gene:Bo9g139490 160	Gene indelsgene:Bo9g139490 0

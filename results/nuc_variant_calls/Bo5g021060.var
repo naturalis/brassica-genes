@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo5g021060_gene.aln	1447.0	1428	3
+Bo5g021060_mRNA.aln	1447.0	1428	3
+Bo5g021060_exon1.aln	586.0	585	0
+Bo5g021060_exon2.aln	494.0	491	0
+Bo5g021060_CDS.aln	494.0	491	0
+Total	4468	4423	6
+Bo5g021060.var: Exon variant:	GENE_Bo5g021060.1_exon_2 326	Exon indelsGENE_Bo5g021060.1_exon_2 0
+Bo5g021060.var: Gene variant:	gene:Bo5g021060 330	Gene indelsgene:Bo5g021060 0

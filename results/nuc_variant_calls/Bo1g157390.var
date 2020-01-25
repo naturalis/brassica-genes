@@ -1,0 +1,8 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo1g157390_exon1.aln	942.0	938	0
+Bo1g157390_mRNA.aln	942.0	938	0
+Bo1g157390_gene.aln	942.0	938	0
+Bo1g157390_CDS.aln	942.0	938	0
+Total	3768	3752	0
+Bo1g157390.var: Exon variant:	GENE_Bo1g157390.1_exon_1 192	Exon indelsGENE_Bo1g157390.1_exon_1 0
+Bo1g157390.var: Gene variant:	gene:Bo1g157390 196	Gene indelsgene:Bo1g157390 0

@@ -1,0 +1,11 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo6g099320_exon1.aln	201.0	198	0
+Bo6g099320_exon2.aln	62.0	62	0
+Bo6g099320_gene.aln	2304.0	2222	14
+Bo6g099320_exon4.aln	224.0	223	0
+Bo6g099320_mRNA.aln	2304.0	2222	14
+Bo6g099320_exon3.aln	41.0	41	0
+Bo6g099320_CDS.aln	224.0	223	0
+Total	5360	5191	28
+Bo6g099320.var: Exon variant:	GENE_Bo6g099320.1_exon_1 172	Exon indelsGENE_Bo6g099320.1_exon_1 0
+Bo6g099320.var: Gene variant:	gene:Bo6g099320 176	Gene indelsgene:Bo6g099320 0

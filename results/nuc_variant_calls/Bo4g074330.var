@@ -1,0 +1,11 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo4g074330_exon1.aln	221.0	221	0
+Bo4g074330_exon2.aln	41.0	41	0
+Bo4g074330_mRNA.aln	1543.0	1543	0
+Bo4g074330_exon3.aln	62.0	62	0
+Bo4g074330_CDS.aln	204.0	204	0
+Bo4g074330_exon4.aln	204.0	204	0
+Bo4g074330_gene.aln	1543.0	1543	0
+Total	3818	3818	0
+Bo4g074330.var: Exon variant:	GENE_Bo4g074330.1_exon_4 90	Exon indelsGENE_Bo4g074330.1_exon_4 0
+Bo4g074330.var: Gene variant:	gene:Bo4g074330 90	Gene indelsgene:Bo4g074330 0

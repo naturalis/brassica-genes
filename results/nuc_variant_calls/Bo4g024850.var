@@ -1,0 +1,14 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo4g024850_CDS.aln	182.0	182	0
+Bo4g024850_gene.aln	2460.0	2421	5
+Bo4g024850_exon3.aln	42.0	42	0
+Bo4g024850_mRNA.aln	2460.0	2421	5
+Bo4g024850_exon6.aln	82.0	81	0
+Bo4g024850_exon5.aln	62.0	62	0
+Bo4g024850_exon4.aln	100.0	100	0
+Bo4g024850_exon1.aln	132.0	129	0
+Bo4g024850_exon2.aln	42.0	42	0
+Bo4g024850_exon7.aln	182.0	182	0
+Total	5744	5662	10
+Bo4g024850.var: Exon variant:	GENE_Bo4g024850.1_exon_7 337	Exon indelsGENE_Bo4g024850.1_exon_7 0
+Bo4g024850.var: Gene variant:	gene:Bo4g024850 342	Gene indelsgene:Bo4g024850 0

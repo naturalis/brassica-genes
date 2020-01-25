@@ -1,0 +1,8 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo2g012810_mRNA.aln	966.0	895	2
+Bo2g012810_gene.aln	966.0	895	2
+Bo2g012810_CDS.aln	966.0	895	2
+Bo2g012810_exon1.aln	966.0	895	2
+Total	3864	3580	8
+Bo2g012810.var: Exon variant:	GENE_Bo2g012810.1_exon_1 71	Exon indelsGENE_Bo2g012810.1_exon_1 2
+Bo2g012810.var: Gene variant:	gene:Bo2g012810 89	Gene indelsgene:Bo2g012810 0

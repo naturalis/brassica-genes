@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo2g164130_mRNA.aln	1534.0	1461	7
+Bo2g164130_gene.aln	1534.0	1461	7
+Bo2g164130_exon1.aln	780.0	774	0
+Bo2g164130_CDS.aln	102.0	99	0
+Bo2g164130_exon2.aln	102.0	99	0
+Total	4052	3894	14
+Bo2g164130.var: Exon variant:	GENE_Bo2g164130.1_exon_2 190	Exon indelsGENE_Bo2g164130.1_exon_2 0
+Bo2g164130.var: Gene variant:	gene:Bo2g164130 199	Gene indelsgene:Bo2g164130 0

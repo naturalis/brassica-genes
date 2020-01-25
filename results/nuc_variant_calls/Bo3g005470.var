@@ -1,0 +1,17 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g005470_exon7.aln	185.0	185	0
+Bo3g005470_exon2.aln	42.0	42	0
+Bo3g005470_gene.aln	3318.0	3210	14
+Bo3g005470_exon1.aln	105.0	104	0
+Bo3g005470_exon5.aln	62.0	62	0
+Bo3g005470_exon4.aln	100.0	100	0
+Bo3g005470_mRNA.aln	3318.0	3210	14
+Bo3g005470_CDS.aln	185.0	185	0
+Bo3g005470_exon3.aln	42.0	42	0
+Total	7357	7140	28
+Bo3g005470.var: Exon variant:	GENE_Bo3g005470.1_exon_7 209
+GENE_Bo3g005470.1_exon_7 209	Exon indelsGENE_Bo3g005470.1_exon_7 0
+GENE_Bo3g005470.1_exon_7 0
+Bo3g005470.var: Gene variant:	gene:Bo3g005470 215
+gene:Bo3g005470 215	Gene indelsgene:Bo3g005470 0
+gene:Bo3g005470 0

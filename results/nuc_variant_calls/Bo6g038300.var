@@ -1,0 +1,14 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo6g038300_exon4.aln	96.0	95	0
+Bo6g038300_exon6.aln	182.0	178	0
+Bo6g038300_mRNA.aln	2529.0	2367	14
+Bo6g038300_exon3.aln	146.0	137	1
+Bo6g038300_exon1.aln	36.0	31	0
+Bo6g038300_exon7.aln	185.0	178	2
+Bo6g038300_CDS.aln	185.0	178	2
+Bo6g038300_gene.aln	2529.0	2367	14
+Bo6g038300_exon5.aln	136.0	133	1
+Bo6g038300_exon2.aln	210.0	196	1
+Total	6234	5860	35
+Bo6g038300.var: Exon variant:	GENE_Bo6g038300.1_exon_1 253	Exon indelsGENE_Bo6g038300.1_exon_1 1
+Bo6g038300.var: Gene variant:	gene:Bo6g038300 300	Gene indelsgene:Bo6g038300 0

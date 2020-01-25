@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo1g006110_exon2.aln	708.0	708	0
+Bo1g006110_exon1.aln	135.0	134	0
+Bo1g006110_mRNA.aln	875.0	874	0
+Bo1g006110_CDS.aln	708.0	708	0
+Bo1g006110_gene.aln	875.0	874	0
+Total	3301	3298	0
+Bo1g006110.var: Exon variant:	GENE_Bo1g006110.1_exon_2 9	Exon indelsGENE_Bo1g006110.1_exon_2 0
+Bo1g006110.var: Gene variant:	gene:Bo1g006110 10	Gene indelsgene:Bo1g006110 0

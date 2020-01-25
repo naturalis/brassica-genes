@@ -1,0 +1,11 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo8g002920_gene.aln	2551.0	2539	4
+Bo8g002920_mRNA.aln	2551.0	2539	4
+Bo8g002920_exon4.aln	313.0	313	0
+Bo8g002920_exon1.aln	612.0	612	0
+Bo8g002920_exon3.aln	225.0	225	0
+Bo8g002920_exon2.aln	710.0	710	0
+Bo8g002920_CDS.aln	313.0	313	0
+Total	7275	7251	8
+Bo8g002920.var: Exon variant:	GENE_Bo8g002920.1_exon_4 134	Exon indelsGENE_Bo8g002920.1_exon_4 0
+Bo8g002920.var: Gene variant:	gene:Bo8g002920 134	Gene indelsgene:Bo8g002920 0

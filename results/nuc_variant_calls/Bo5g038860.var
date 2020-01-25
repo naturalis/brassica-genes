@@ -1,0 +1,20 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo5g038860_exon4.aln	143.0	142	0
+Bo5g038860_exon6.aln	56.0	56	0
+Bo5g038860_exon10.aln	69.0	69	0
+Bo5g038860_CDS.aln	333.0	333	0
+Bo5g038860_exon1.aln	93.0	91	0
+Bo5g038860_exon12.aln	93.0	93	0
+Bo5g038860_exon5.aln	263.0	263	0
+Bo5g038860_exon7.aln	238.0	238	0
+Bo5g038860_exon8.aln	151.0	151	0
+Bo5g038860_mRNA.aln	4691.0	4663	5
+Bo5g038860_exon13.aln	333.0	333	0
+Bo5g038860_exon2.aln	72.0	72	0
+Bo5g038860_exon9.aln	1731.0	1731	0
+Bo5g038860_gene.aln	4691.0	4663	5
+Bo5g038860_exon3.aln	55.0	55	0
+Bo5g038860_exon11.aln	219.0	219	0
+Total	13231	13172	10
+Bo5g038860.var: Exon variant:	GENE_Bo5g038860.1_exon_1 100	Exon indelsGENE_Bo5g038860.1_exon_1 0
+Bo5g038860.var: Gene variant:	gene:Bo5g038860 103	Gene indelsgene:Bo5g038860 0

@@ -1,0 +1,10 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g109270_exon2.aln	401.0	398	0
+Bo3g109270_CDS.aln	457.0	456	0
+Bo3g109270_mRNA.aln	2506.0	2478	5
+Bo3g109270_exon1.aln	390.0	389	0
+Bo3g109270_gene.aln	2506.0	2478	5
+Bo3g109270_exon3.aln	457.0	456	0
+Total	6717	6655	10
+Bo3g109270.var: Exon variant:	GENE_Bo3g109270.1_exon_3 105	Exon indelsGENE_Bo3g109270.1_exon_3 0
+Bo3g109270.var: Gene variant:	gene:Bo3g109270 110	Gene indelsgene:Bo3g109270 0

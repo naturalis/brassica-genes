@@ -1,0 +1,8 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g138550_mRNA.aln	1059.0	1059	0
+Bo3g138550_CDS.aln	1059.0	1059	0
+Bo3g138550_gene.aln	1059.0	1059	0
+Bo3g138550_exon1.aln	1059.0	1059	0
+Total	4236	4236	0
+Bo3g138550.var: Exon variant:	GENE_Bo3g138550.1_exon_1 11	Exon indelsGENE_Bo3g138550.1_exon_1 0
+Bo3g138550.var: Gene variant:	gene:Bo3g138550 11	Gene indelsgene:Bo3g138550 0

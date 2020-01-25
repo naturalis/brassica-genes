@@ -1,0 +1,14 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo2g062650_mRNA.aln	2191.0	2164	3
+Bo2g062650_CDS.aln	78.0	76	0
+Bo2g062650_exon4.aln	42.0	42	0
+Bo2g062650_exon5.aln	68.0	59	1
+Bo2g062650_exon3.aln	42.0	42	0
+Bo2g062650_exon6.aln	97.0	97	0
+Bo2g062650_exon2.aln	155.0	153	0
+Bo2g062650_gene.aln	2191.0	2164	3
+Bo2g062650_exon7.aln	78.0	76	0
+Bo2g062650_exon1.aln	142.0	140	0
+Total	5084	5013	7
+Bo2g062650.var: Exon variant:	GENE_Bo2g062650.1_exon_7 305	Exon indelsGENE_Bo2g062650.1_exon_7 1
+Bo2g062650.var: Gene variant:	gene:Bo2g062650 314	Gene indelsgene:Bo2g062650 0

@@ -1,0 +1,11 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo5g123510_mRNA.aln	3919.0	3913	0
+Bo5g123510_exon1.aln	253.0	252	0
+Bo5g123510_exon3.aln	808.0	806	0
+Bo5g123510_exon2.aln	291.0	291	0
+Bo5g123510_exon4.aln	2155.0	2152	0
+Bo5g123510_gene.aln	3919.0	3913	0
+Bo5g123510_CDS.aln	2155.0	2152	0
+Total	13500	13479	0
+Bo5g123510.var: Exon variant:	GENE_Bo5g123510.1_exon_4 9	Exon indelsGENE_Bo5g123510.1_exon_4 0
+Bo5g123510.var: Gene variant:	gene:Bo5g123510 15	Gene indelsgene:Bo5g123510 0

@@ -1,0 +1,8 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo9g163720_exon1.aln	1008.0	988	1
+Bo9g163720_gene.aln	1008.0	988	1
+Bo9g163720_mRNA.aln	1008.0	988	1
+Bo9g163720_CDS.aln	1008.0	988	1
+Total	4032	3952	4
+Bo9g163720.var: Exon variant:	GENE_Bo9g163720.1_exon_1 129	Exon indelsGENE_Bo9g163720.1_exon_1 1
+Bo9g163720.var: Gene variant:	gene:Bo9g163720 138	Gene indelsgene:Bo9g163720 0

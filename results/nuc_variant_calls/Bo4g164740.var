@@ -1,0 +1,15 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo4g164740_gene.aln	1794.0	1781	3
+Bo4g164740_exon2.aln	62.0	62	0
+Bo4g164740_CDS.aln	221.0	220	0
+Bo4g164740_exon4.aln	221.0	220	0
+Bo4g164740_exon3.aln	41.0	41	0
+Bo4g164740_exon1.aln	204.0	204	0
+Bo4g164740_mRNA.aln	1794.0	1781	3
+Total	4337	4309	6
+Bo4g164740.var: Exon variant:	GENE_Bo4g164740.1_exon_1 130
+GENE_Bo4g164740.1_exon_1 130	Exon indelsGENE_Bo4g164740.1_exon_1 0
+GENE_Bo4g164740.1_exon_1 0
+Bo4g164740.var: Gene variant:	gene:Bo4g164740 131
+gene:Bo4g164740 131	Gene indelsgene:Bo4g164740 0
+gene:Bo4g164740 0

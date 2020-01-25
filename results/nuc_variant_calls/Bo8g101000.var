@@ -1,0 +1,15 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo8g101000_exon3.aln	42.0	42	0
+Bo8g101000_exon9.aln	182.0	182	0
+Bo8g101000_exon6.aln	100.0	100	0
+Bo8g101000_exon8.aln	79.0	79	0
+Bo8g101000_exon2.aln	155.0	155	0
+Bo8g101000_CDS.aln	182.0	182	0
+Bo8g101000_mRNA.aln	3061.0	3060	0
+Bo8g101000_exon5.aln	42.0	42	0
+Bo8g101000_exon4.aln	42.0	42	0
+Bo8g101000_exon7.aln	65.0	65	0
+Bo8g101000_gene.aln	3061.0	3060	0
+Total	7011	7009	0
+Bo8g101000.var: Exon variant:	GENE_Bo8g101000.1_exon_9 69	Exon indelsGENE_Bo8g101000.1_exon_9 0
+Bo8g101000.var: Gene variant:	gene:Bo8g101000 69	Gene indelsgene:Bo8g101000 0

@@ -1,0 +1,8 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo5g043120_CDS.aln	1116.0	1115	0
+Bo5g043120_exon1.aln	1116.0	1115	0
+Bo5g043120_mRNA.aln	1116.0	1115	0
+Bo5g043120_gene.aln	1116.0	1115	0
+Total	4464	4460	0
+Bo5g043120.var: Exon variant:	GENE_Bo5g043120.1_exon_1 179	Exon indelsGENE_Bo5g043120.1_exon_1 0
+Bo5g043120.var: Gene variant:	gene:Bo5g043120 180	Gene indelsgene:Bo5g043120 0

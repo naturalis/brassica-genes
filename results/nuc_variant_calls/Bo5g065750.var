@@ -1,0 +1,13 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo5g065750_CDS.aln	216.0	216	0
+Bo5g065750_exon4.aln	54.0	54	0
+Bo5g065750_mRNA.aln	1853.0	1426	8
+Bo5g065750_gene.aln	1853.0	1426	8
+Bo5g065750_exon2.aln	76.0	75	0
+Bo5g065750_exon1.aln	188.0	187	0
+Bo5g065750_exon5.aln	42.0	42	0
+Bo5g065750_exon3.aln	177.0	177	0
+Bo5g065750_exon6.aln	216.0	216	0
+Total	4675	3819	16
+Bo5g065750.var: Exon variant:	GENE_Bo5g065750.1_exon_1 86	Exon indelsGENE_Bo5g065750.1_exon_1 0
+Bo5g065750.var: Gene variant:	gene:Bo5g065750 89	Gene indelsgene:Bo5g065750 0

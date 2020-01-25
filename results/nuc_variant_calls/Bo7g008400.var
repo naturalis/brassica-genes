@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo7g008400_CDS.aln	1603.0	1585	0
+Bo7g008400_mRNA.aln	2339.0	2288	4
+Bo7g008400_exon1.aln	221.0	219	0
+Bo7g008400_exon2.aln	1603.0	1585	0
+Bo7g008400_gene.aln	2339.0	2288	4
+Total	8105	7965	8
+Bo7g008400.var: Exon variant:	GENE_Bo7g008400.1_exon_1 396	Exon indelsGENE_Bo7g008400.1_exon_1 0
+Bo7g008400.var: Gene variant:	gene:Bo7g008400 417	Gene indelsgene:Bo7g008400 0

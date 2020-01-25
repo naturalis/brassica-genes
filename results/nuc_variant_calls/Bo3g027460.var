@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g027460_gene.aln	666.0	666	0
+Bo3g027460_mRNA.aln	666.0	666	0
+Bo3g027460_exon2.aln	97.0	97	0
+Bo3g027460_CDS.aln	97.0	97	0
+Bo3g027460_exon1.aln	467.0	467	0
+Total	1993	1993	0
+Bo3g027460.var: Exon variant:	GENE_Bo3g027460.1_exon_1 28	Exon indelsGENE_Bo3g027460.1_exon_1 0
+Bo3g027460.var: Gene variant:	gene:Bo3g027460 28	Gene indelsgene:Bo3g027460 0

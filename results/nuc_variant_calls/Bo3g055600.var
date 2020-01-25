@@ -1,0 +1,8 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g055600_exon1.aln	687.0	685	0
+Bo3g055600_mRNA.aln	687.0	685	0
+Bo3g055600_CDS.aln	687.0	685	0
+Bo3g055600_gene.aln	687.0	685	0
+Total	2748	2740	0
+Bo3g055600.var: Exon variant:	GENE_Bo3g055600.1_exon_1 180	Exon indelsGENE_Bo3g055600.1_exon_1 0
+Bo3g055600.var: Gene variant:	gene:Bo3g055600 182	Gene indelsgene:Bo3g055600 0

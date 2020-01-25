@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo9g163730_mRNA.aln	1288.0	1283	0
+Bo9g163730_exon1.aln	738.0	736	0
+Bo9g163730_CDS.aln	363.0	362	0
+Bo9g163730_exon2.aln	363.0	362	0
+Bo9g163730_gene.aln	1288.0	1283	0
+Total	4040	4026	0
+Bo9g163730.var: Exon variant:	GENE_Bo9g163730.1_exon_1 225	Exon indelsGENE_Bo9g163730.1_exon_1 0
+Bo9g163730.var: Gene variant:	gene:Bo9g163730 228	Gene indelsgene:Bo9g163730 0

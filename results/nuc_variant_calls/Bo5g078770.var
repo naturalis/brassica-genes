@@ -1,0 +1,13 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo5g078770_exon2.aln	171.0	160	2
+Bo5g078770_exon1.aln	47.0	45	0
+Bo5g078770_gene.aln	2062.0	1445	14
+Bo5g078770_CDS.aln	141.0	136	1
+Bo5g078770_exon7.aln	141.0	136	1
+Bo5g078770_exon3.aln	112.0	112	0
+Bo5g078770_exon6.aln	120.0	120	0
+Bo5g078770_exon4.aln	91.0	87	1
+Bo5g078770_mRNA.aln	2062.0	1445	14
+Total	4947	3686	33
+Bo5g078770.var: Exon variant:	GENE_Bo5g078770.1_exon_7 323	Exon indelsGENE_Bo5g078770.1_exon_7 0
+Bo5g078770.var: Gene variant:	gene:Bo5g078770 347	Gene indelsgene:Bo5g078770 0

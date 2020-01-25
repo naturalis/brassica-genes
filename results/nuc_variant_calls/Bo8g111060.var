@@ -1,0 +1,10 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo8g111060_gene.aln	3954.0	3951	0
+Bo8g111060_CDS.aln	202.0	202	0
+Bo8g111060_exon2.aln	1114.0	1114	0
+Bo8g111060_mRNA.aln	3954.0	3951	0
+Bo8g111060_exon3.aln	202.0	202	0
+Bo8g111060_exon1.aln	2056.0	2054	0
+Total	11482	11474	0
+Bo8g111060.var: Exon variant:	GENE_Bo8g111060.1_exon_1 135	Exon indelsGENE_Bo8g111060.1_exon_1 0
+Bo8g111060.var: Gene variant:	gene:Bo8g111060 137	Gene indelsgene:Bo8g111060 0

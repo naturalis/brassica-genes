@@ -1,0 +1,12 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo1g002460_mRNA.aln	795.0	737	5
+Bo1g002460_exon1.aln	402.0	375	2
+Bo1g002460_CDS.aln	111.0	100	1
+Bo1g002460_exon2.aln	111.0	100	1
+Total	1419	1312	9
+Bo1g002460.var: Exon variant:	GENE_Bo1g002460.1_exon_2 228
+GENE_Bo1g002460.1_exon_2 228	Exon indelsGENE_Bo1g002460.1_exon_2 2
+GENE_Bo1g002460.1_exon_2 2
+Bo1g002460.var: Gene variant:	gene:Bo1g002460 241
+gene:Bo1g002460 241	Gene indelsgene:Bo1g002460 0
+gene:Bo1g002460 0

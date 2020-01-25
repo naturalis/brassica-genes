@@ -1,0 +1,13 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo1g039080_exon8.aln	182.0	181	0
+Bo1g039080_exon5.aln	100.0	99	0
+Bo1g039080_exon7.aln	82.0	82	0
+Bo1g039080_exon2.aln	137.0	137	0
+Bo1g039080_mRNA.aln	2675.0	2607	7
+Bo1g039080_CDS.aln	182.0	181	0
+Bo1g039080_gene.aln	2675.0	2607	7
+Bo1g039080_exon6.aln	62.0	62	0
+Bo1g039080_exon4.aln	42.0	42	0
+Total	6137	5998	14
+Bo1g039080.var: Exon variant:	GENE_Bo1g039080.1_exon_8 351	Exon indelsGENE_Bo1g039080.1_exon_8 0
+Bo1g039080.var: Gene variant:	gene:Bo1g039080 354	Gene indelsgene:Bo1g039080 0

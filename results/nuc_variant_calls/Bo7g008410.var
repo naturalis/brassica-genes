@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo7g008410_exon2.aln	233.0	219	0
+Bo7g008410_gene.aln	2851.0	2650	7
+Bo7g008410_exon1.aln	1615.0	1479	0
+Bo7g008410_mRNA.aln	2851.0	2650	7
+Bo7g008410_CDS.aln	233.0	219	0
+Total	7783	7217	14
+Bo7g008410.var: Exon variant:	GENE_Bo7g008410.1_exon_2 219	Exon indelsGENE_Bo7g008410.1_exon_2 0
+Bo7g008410.var: Gene variant:	gene:Bo7g008410 369	Gene indelsgene:Bo7g008410 0

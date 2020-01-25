@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo8g111070_CDS.aln	106.0	106	0
+Bo8g111070_exon2.aln	106.0	106	0
+Bo8g111070_exon1.aln	545.0	545	0
+Bo8g111070_mRNA.aln	713.0	713	0
+Bo8g111070_gene.aln	713.0	713	0
+Total	2183	2183	0
+Bo8g111070.var: Exon variant:	GENE_Bo8g111070.1_exon_2 18	Exon indelsGENE_Bo8g111070.1_exon_2 0
+Bo8g111070.var: Gene variant:	gene:Bo8g111070 18	Gene indelsgene:Bo8g111070 0

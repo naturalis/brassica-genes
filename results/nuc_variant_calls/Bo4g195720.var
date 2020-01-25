@@ -1,0 +1,14 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo4g195720_exon7.aln	182.0	182	0
+Bo4g195720_mRNA.aln	2418.0	2415	0
+Bo4g195720_exon1.aln	132.0	132	0
+Bo4g195720_exon4.aln	100.0	100	0
+Bo4g195720_gene.aln	2418.0	2415	0
+Bo4g195720_exon5.aln	62.0	62	0
+Bo4g195720_exon2.aln	42.0	42	0
+Bo4g195720_exon3.aln	42.0	42	0
+Bo4g195720_CDS.aln	182.0	182	0
+Bo4g195720_exon6.aln	82.0	82	0
+Total	5660	5654	0
+Bo4g195720.var: Exon variant:	GENE_Bo4g195720.1_exon_7 112	Exon indelsGENE_Bo4g195720.1_exon_7 0
+Bo4g195720.var: Gene variant:	gene:Bo4g195720 113	Gene indelsgene:Bo4g195720 0

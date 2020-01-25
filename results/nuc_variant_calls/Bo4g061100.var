@@ -1,0 +1,15 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo4g061100_gene.aln	2904.0	2127	23
+Bo4g061100_CDS.aln	224.0	208	0
+Bo4g061100_exon4.aln	224.0	208	0
+Bo4g061100_exon3.aln	41.0	41	0
+Bo4g061100_exon2.aln	62.0	60	1
+Bo4g061100_exon1.aln	201.0	197	0
+Bo4g061100_mRNA.aln	2904.0	2127	23
+Total	6560	4968	47
+Bo4g061100.var: Exon variant:	GENE_Bo4g061100.1_exon_1 290
+GENE_Bo4g061100.1_exon_1 290	Exon indelsGENE_Bo4g061100.1_exon_1 0
+GENE_Bo4g061100.1_exon_1 0
+Bo4g061100.var: Gene variant:	gene:Bo4g061100 315
+gene:Bo4g061100 315	Gene indelsgene:Bo4g061100 0
+gene:Bo4g061100 0

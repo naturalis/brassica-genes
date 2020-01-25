@@ -1,0 +1,15 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo6g108600_exon6.aln	65.0	65	0
+Bo6g108600_exon3.aln	42.0	42	0
+Bo6g108600_gene.aln	3711.0	3598	13
+Bo6g108600_exon7.aln	79.0	79	0
+Bo6g108600_exon2.aln	155.0	153	0
+Bo6g108600_exon8.aln	185.0	175	0
+Bo6g108600_exon4.aln	42.0	42	0
+Bo6g108600_mRNA.aln	3711.0	3598	13
+Bo6g108600_CDS.aln	185.0	175	0
+Bo6g108600_exon1.aln	103.0	102	0
+Bo6g108600_exon5.aln	100.0	98	0
+Total	8378	8127	26
+Bo6g108600.var: Exon variant:	GENE_Bo6g108600.1_exon_8 322	Exon indelsGENE_Bo6g108600.1_exon_8 0
+Bo6g108600.var: Gene variant:	gene:Bo6g108600 338	Gene indelsgene:Bo6g108600 0

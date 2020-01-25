@@ -1,0 +1,10 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo2g161690_exon3.aln	396.0	396	0
+Bo2g161690_CDS.aln	396.0	396	0
+Bo2g161690_mRNA.aln	2550.0	2538	2
+Bo2g161690_exon2.aln	401.0	401	0
+Bo2g161690_exon1.aln	463.0	461	0
+Bo2g161690_gene.aln	2550.0	2538	2
+Total	6756	6730	4
+Bo2g161690.var: Exon variant:	GENE_Bo2g161690.1_exon_1 130	Exon indelsGENE_Bo2g161690.1_exon_1 0
+Bo2g161690.var: Gene variant:	gene:Bo2g161690 132	Gene indelsgene:Bo2g161690 0

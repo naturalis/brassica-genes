@@ -1,0 +1,11 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo9g181670_exon1.aln	210.0	209	0
+Bo9g181670_CDS.aln	224.0	223	0
+Bo9g181670_exon4.aln	224.0	223	0
+Bo9g181670_exon3.aln	41.0	41	0
+Bo9g181670_gene.aln	1081.0	1060	7
+Bo9g181670_mRNA.aln	1081.0	1060	7
+Bo9g181670_exon2.aln	62.0	62	0
+Total	2923	2878	14
+Bo9g181670.var: Exon variant:	GENE_Bo9g181670.1_exon_1 216	Exon indelsGENE_Bo9g181670.1_exon_1 0
+Bo9g181670.var: Gene variant:	gene:Bo9g181670 218	Gene indelsgene:Bo9g181670 0

@@ -1,0 +1,11 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo5g009990_exon4.aln	2073.0	2029	0
+Bo5g009990_exon2.aln	291.0	291	0
+Bo5g009990_exon1.aln	202.0	200	0
+Bo5g009990_exon3.aln	817.0	811	0
+Bo5g009990_mRNA.aln	4643.0	4557	7
+Bo5g009990_exon5.aln	79.0	78	0
+Bo5g009990_gene.aln	4643.0	4557	7
+Total	12748	12523	14
+Bo5g009990.var: Exon variant:	GENE_Bo5g009990.1_exon_6 271	Exon indelsGENE_Bo5g009990.1_exon_6 0
+Bo5g009990.var: Gene variant:	gene:Bo5g009990 325	Gene indelsgene:Bo5g009990 0

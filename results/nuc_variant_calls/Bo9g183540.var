@@ -1,0 +1,18 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo9g183540_mRNA.aln	2800.0	2765	4
+Bo9g183540_exon10.aln	297.0	297	0
+Bo9g183540_gene.aln	2800.0	2765	4
+Bo9g183540_exon2.aln	69.0	69	0
+Bo9g183540_CDS.aln	144.0	144	0
+Bo9g183540_exon5.aln	77.0	77	0
+Bo9g183540_exon1.aln	566.0	555	1
+Bo9g183540_exon6.aln	120.0	120	0
+Bo9g183540_exon11.aln	144.0	144	0
+Bo9g183540_exon8.aln	87.0	84	0
+Bo9g183540_exon3.aln	108.0	107	0
+Bo9g183540_exon9.aln	69.0	69	0
+Bo9g183540_exon7.aln	106.0	106	0
+Bo9g183540_exon4.aln	181.0	179	0
+Total	7568	7481	9
+Bo9g183540.var: Exon variant:	GENE_Bo9g183540.1_exon_1 219	Exon indelsGENE_Bo9g183540.1_exon_1 1
+Bo9g183540.var: Gene variant:	gene:Bo9g183540 234	Gene indelsgene:Bo9g183540 0

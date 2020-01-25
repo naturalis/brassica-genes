@@ -1,0 +1,9 @@
+Feature type	Alignment length	Identical nucleotides	Indel count
+Bo3g107650_exon2.aln	726.0	726	0
+Bo3g107650_CDS.aln	726.0	726	0
+Bo3g107650_exon1.aln	99.0	99	0
+Bo3g107650_mRNA.aln	1396.0	1396	0
+Bo3g107650_gene.aln	1396.0	1396	0
+Total	4343	4343	0
+Bo3g107650.var: Exon variant:	GENE_Bo3g107650.1_exon_1 69	Exon indelsGENE_Bo3g107650.1_exon_1 0
+Bo3g107650.var: Gene variant:	gene:Bo3g107650 69	Gene indelsgene:Bo3g107650 0
