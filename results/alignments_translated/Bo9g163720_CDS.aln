@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g163720;contig:C9;feat      MLKQESNWAQTCDTCRSAACTVYCRADSAYLCTNCDAQVHAANRLASRHERVRVCQSCER
+seqstart:48309429;seqstop4831042      MLKQESNWAQTCDTCRSAACTVYCRADSAYLCTNCDAQVHAANRLASRHERVRVCQSCER
+                                      ************************************************************
+
+geneid:Bo9g163720;contig:C9;feat      APAAFFCKADAASLCTACDSQIHSANPLARRHQRVPILPISGSMVTNHSSETTETEDIVV
+seqstart:48309429;seqstop4831042      APAAFFCKADAASLCTACDSQIHSANPLARRHQRVPILPISGSMVTNHSSETTETEDILV
+                                      **********************************************************:*
+
+geneid:Bo9g163720;contig:C9;feat      VGQEEEDEAEAASWLLPSSLKNSGDNNNNNNNNNSENRFSVGDEYVDLVDYNKYQQDYNV
+seqstart:48309429;seqstop4831042      VGQEEEDEAEAASWLLPSSVKNSGD----NNNNNSENRFSVGDEYLDLVDYNKYQQDYNV
+                                      *******************:*****    ****************:**************
+
+geneid:Bo9g163720;contig:C9;feat      PQRSYVADGVVPLQVGVLKSHMHHEEHNFQFGFTNVSSEASPIHMVSLVPESTLSETTVS
+seqstart:48309429;seqstop4831042      PQRSYVADGVVPLQVGVLKSHMHHEEHNFQFGFTNVSSEASPIHMVSLVPESTLSETTVS
+                                      ************************************************************
+
+geneid:Bo9g163720;contig:C9;feat      HPRSPKVATEELHDAPVQMLSPVERKARVMRYREKKKKRKFEKRIRYASRKEYAEKRPRI
+seqstart:48309429;seqstop4831042      HPRSPKMATEELLDAPVQMLSPVERKARVMRYREKKKTRKFEKRIRYASRKEYAEKRPRI
+                                      ******:***** ************************.**********************
+
+geneid:Bo9g163720;contig:C9;feat      KGRFAKRNEVDAEEADKAFSSMVMFDTGYGIVPSF
+seqstart:48309429;seqstop4831042      KGRFAKRNEVDAEEADKAFSSMVMFDTGYGIVPSF
+                                      ***********************************

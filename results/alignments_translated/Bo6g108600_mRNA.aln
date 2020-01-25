@@ -1,0 +1,86 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo6g108600;contig:C6;feat      MGRGRVQLKRIENKINRQVTFSKRRAGLFKKAHEISVLCDAEVALVVFSHKGKLFEYSTD
+seqstart:33904693;seqstop3390836      MGRGRVQLKRIENKINRQVTFSKRRAGLLKKAHEISILCDAEVSLIVFSHKGKLFEYSTD
+                                      ****************************:*******:******:*:**************
+
+geneid:Bo6g108600;contig:C6;feat      SWLSHLRNKYLLLKLSHVFLKFTTFALINNYCSHFRYFLWFSFDLEYNLDIFGSLLDLLI
+seqstart:33904693;seqstop3390836      SWLSHLRNKYLLLKLSHVFLKFTTFALINNYCSHFRYFLWFSFDLEYNLDIFGSLLDLLI
+                                      ************************************************************
+
+geneid:Bo6g108600;contig:C6;feat      AVKQLFITLYCTNKKSKLGFKVFSPR---TRSLIYFPGHTH----IYICIISSLRAYRRI
+seqstart:33904693;seqstop3390836      AVKQLFITLYCTNK--NLNFRALSESLALEHEVYTFDLDTHTYIYIYICIISSLRAYRRM
+                                      **************  :*.*..:*      ..:  *   **    **************:
+
+geneid:Bo6g108600;contig:C6;feat      NFYFLSGFALNSSIACSPSYAFQKISNLVIKAKVRKKK-FNFTWSLGNHQIHVMLLFEKT
+seqstart:33904693;seqstop3390836      NFYFLSGFALNSSIACSLSQCLLKKFKSSLNSEGKKKKVFHLVLARKLTSNTRNVAFKWT
+                                      ***************** * .: *  :  :::: .*** *::. :    .    : *:.*
+
+geneid:Bo6g108600;contig:C6;feat      ILQMDYIADMYEKAAYIVNRYYIKGKIMNLY------LGGFFS---PKLIFESFILQAVF
+seqstart:33904693;seqstop3390836      I----YKPKICDMKKLLTKIDIIKGKIFNIWARVFSALNSFLNRLFSKLCFQDLQIEK--
+                                      *    * ..: :    :.:   *****:*::      *..*:.   .** *:.: ::   
+
+geneid:Bo6g108600;contig:C6;feat      SRFANLRKKCLISRFSDSYFKTPYGLITLQ-FPYTLLLLYLILPTENKDVKSEGVFDLWG
+seqstart:33904693;seqstop3390836      NVLVGFQTHTLKHRSIKALLRSNFPSIKRSCFCYISYQLEIRMSNLSRESLTSG------
+                                      . :..:..: *  *  .: :.: :  *. . * *    * : :.. ..:  :.*      
+
+geneid:Bo6g108600;contig:C6;feat      STKRINLILCSASYQWSNLAPTDNSCSFFFFLSNLFFLLKKFYPYSVQNYIRKLMIPYYN
+seqstart:33904693;seqstop3390836      -DRRKESTSYVRLLTNGQILQQTTAVLLFFFFATSCSFFKRFIP-----------ILYKT
+                                        .* :         ..::    .:  :***::.   ::*.* *           * * .
+
+geneid:Bo6g108600;contig:C6;feat      ILLVMSNKVFLYRILTNLK----TQLELAKSVGLLLLF---SYRGIIDIRISRKLVGS-K
+seqstart:33904693;seqstop3390836      TFVNFDHIIIFYNNLSCLTRFSCTEFQTKRNNSKLKVLGCDCYYFLIEESISGFDLGNFG
+                                       :: :.: :::*. *: *.    *:::  .. . * ::   .*  :*:  **   :*.  
+
+geneid:Bo6g108600;contig:C6;feat      HPSFKFLEFPKLSKLELITLLYLFDFPLITML-----IYIYIMVDDMKLTHTSVNTVWRR
+seqstart:33904693;seqstop3390836      LRQTSIIVLARISKIIMKTGAYHAVVSMIILISIDNYAHIYIMVDDMKLTHTSVNTVWRR
+                                        . .:: :..:**: : *  *   ..:* ::      :*********************
+
+geneid:Bo6g108600;contig:C6;feat      YWNAMRGTLTRRDSLLHLSPTSMINISPLAKHTLYINISFSISEIYLYTFDTDELVNGVQ
+seqstart:33904693;seqstop3390836      YWNAMRGTLTRRDSLLHLSPTSMINISPLAKHTLYINISFSISEIYLYTFDTDELVNGVQ
+                                      ************************************************************
+
+geneid:Bo6g108600;contig:C6;feat      QAGDAFGEKPEVHTCIIYAQMKETGSINVRNAWIHYTINQKNALLLSRHYLGEDLQAMSP
+seqstart:33904693;seqstop3390836      QAGDAFGEKPEVHTCIIYAQIKETGSINVRNAWIHYTINQKNALLLSRHYLGEDLQAMSR
+                                      ********************:************************************** 
+
+geneid:Bo6g108600;contig:C6;feat      KELQNLEQQLDTALKHIRSRKVLLFLQQIYGSDAYFICLLKNLNHVDIFR-GFQMYDFSD
+seqstart:33904693;seqstop3390836      KELQNLEQQLDTALKHIRSRKVLLFLQQIYGSDAYFICLLKNLNHVIYLEVNFKCMTFQI
+                                      **********************************************  :  .*:   *. 
+
+geneid:Bo6g108600;contig:C6;feat      FRKKCCVVIRFILLIKVKWNVYVMCFYAEPT--YVRLRQAPKKGMK-PFQTFTYSNKYWG
+seqstart:33904693;seqstop3390836      LERNDVVLLDSFY---SKSNGMFMCVFMQNQLMYDSVNELQRKVCKNPFKRSLHTVTSIG
+                                      : .:  *::  :     * *  .**.: :    *  :.:  .*  * **:   :: .  *
+
+geneid:Bo6g108600;contig:C6;feat      ANNLAVLEMTGEGDTRTKQHAFTGDICHYLYLVNMCSITLLLASTVLLHTSGQAIPTTTK
+seqstart:33904693;seqstop3390836      --ELTILPFWKQEKAIQEQNSMLSKQVTFV-IIYMWSTCVALHYYLPLFYSTLQAKLFLR
+                                        :*::* :  : .:  :*::: ..   :: :: * *  : *   : *. *        .
+
+geneid:Bo6g108600;contig:C6;feat      SSFLHLASTPLIENSCIYIVYLISSSGACTMAFAHLVLRLSFRLKTSYLSSYSTCSSIYR
+seqstart:33904693;seqstop3390836      QRNLHFYT--LRQKIVVFTSIDYHHQAPVHRWPLPIFGCLSDKLRTSH---FILLGHLY-
+                                      .  **: :  * ::  ::       ...       :.  ** .*.**:   :   . :* 
+
+geneid:Bo6g108600;contig:C6;feat      VEYSQYL---KKILSSNFWKQLKNSLSRYIFNKCIIVVYCMSARNVPKIKMLHLMHISID
+seqstart:33904693;seqstop3390836      IGYENIASTNKKILSSNFWKQLKNSLSRYIFNKCIIVVYCMSARNVPKIKM-QLQHIYLS
+                                      : *.:     ***************************************** :* ** :.
+
+geneid:Bo6g108600;contig:C6;feat      YEVVALKIDDDDNDVIWHG--TSWQIGVLNDLSDQGEGKGSYGTTRAMGPAEPWPKYAFA
+seqstart:33904693;seqstop3390836      ------RRSENRCNMAWNKLVTNWCVKL--RLVRSRRGKRFLGHNKSNGTSRTMAKICLR
+                                            . .::  :: *:   *.* : :   *  .  **   * ..: *.: . .* .: 
+
+geneid:Bo6g108600;contig:C6;feat      AAPAAASNPASIH--ALSSAISFSQHGV--------LKIYFAPLTFKFTY-----LAIPV
+seqstart:33904693;seqstop3390836      RRPRSSIK-SSIHTCSLISHLLFSTWGTNLLIRSSYFQVYIFSHSGEVSFGVSDGMPKLI
+                                        * :: : :***  :* * : ** .*.        :::*: . : :.::     :.  :
+
+geneid:Bo6g108600;contig:C6;feat      KLFRCWLDAQVVNYISTLYEDDSRINVCCGGRQTNRLVFYWNGCGISSILLDLSSIFQYG
+seqstart:33904693;seqstop3390836      ILVHSTKTIHVLTYVNAVVVK--RTDLYFLEMVVESAPFCINDS-LRYFNMDFSNFKTKH
+                                       *...    :*:.*:.::  .  * ::      .:   *  *.. :  : :*:*.:    
+
+geneid:Bo6g108600;contig:C6;feat      LLPILRRNIFLMHVCRVNSNHICIM---MQWPVSRRRSNGNEE----ERPFISTRLQLQP
+seqstart:33904693;seqstop3390836      MIFNARMSLSEFSYVHMNVNAVACMKKKIQW-------QGGTTLIYLLNPFTTATLAALR
+                                      ::   * .:  :   .:* * :. *   :**       :*.       .** :: *    
+
+geneid:Bo6g108600;contig:C6;feat      WLLCGM
+seqstart:33904693;seqstop3390836      H-----
+                                      .     

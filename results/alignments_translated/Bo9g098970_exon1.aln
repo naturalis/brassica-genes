@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g098970;contig:C9;feat      MAFRNDSLIPARDPSTRENKPSSPTIQRGTVPTNTEITIEQSNHPQFLKSIDDLTAFAAA
+seqstart:32700827;seqstop3270175      MAFRNGSLIPARDPSTRENQPSSPTIQRGTVPTNTEITIEQSNHPQFLKSIDDLTAFAAA
+                                      *****.*************:****************************************
+
+geneid:Bo9g098970;contig:C9;feat      MDAFKRHYDDLQNHMDYIKNAIGSSLKFKGIIAESPSSRSQSPRNDASGETATAVAATQS
+seqstart:32700827;seqstop3270175      MDAFKRHYDDLQNHMDYIKNAIGSSLKFKGIIAESPSSRSQSPRNDASGETATAVAATQS
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      PPKETSETVPEISDKVERLCELMCSKGLRRYMYSNISDRAKLIEELPAALKLAKEPAKFV
+seqstart:32700827;seqstop3270175      PPKETSETVPEISDKVERLCELMCSKGLRRYMYSNISDRAKLIEELPAALKLAKEPAKFV
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      LECIGKFFLQGRKAYASDSHMIPARQVSLLILECYLLMLDPSEEKKPIDGSIKDEAEAAA
+seqstart:32700827;seqstop3270175      LECIGKFFLQGRKAYASDSHMIPARQVSLLILECYLLMLDPSEEKKPIDGSIKDEAEAAA
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      VAWKKRMMNEGRLAAAEAMDARGLLLLIACFGIPSSFKSMDLFDLVRKSGTAEIAAALKR
+seqstart:32700827;seqstop3270175      VAWKKRMMNEGRLAAAEAMDARGLLLLIACFGIPSSFKSMDLFDLVRKSGTAEIAAALKR
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      SPFLVPMMS
+seqstart:32700827;seqstop3270175      SPFLVPMMS
+                                      *********

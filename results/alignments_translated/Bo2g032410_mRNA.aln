@@ -1,0 +1,38 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g032410;contig:C2;feat      MKIICAEMGKERKYTGLAKPKLIETLLKLVSRPLGETSRPDRKNSKKKRKTTSYIICCEN
+seqstart:9225860;seqstop9227470+      MKIICAEMGKERKYTGLAKPKLIETLLKLVSRPLGETSRPDRKNSKKKRKTTSYIICCEN
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      VACRAALGTEDTLCRKCSCCVCQNYDEDKDPSLWITCEACGLSCHLECALEQKRYGIGCD
+seqstart:9225860;seqstop9227470+      VACRAALGTEDTLCRKCSCCVCQNYDEDKDPSLWITCEACGLSCHLECALEQKRYGIGCD
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      DDEVGRALDGRFYCVFCGKDNDLLGEYMDIQTIVWRMCNVILCVCTYRCWREQVKVAKET
+seqstart:9225860;seqstop9227470+      DDEVGRALDGRFYCVFCGKDNDLLGEYMDIQTIVWRMCNVILCVCTYRCWREQVKVAKET
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      QRVDVLCYRVSLGQKLLRGTRKYRYLLELMDEAVKKLEGDMGPLSGWAMNMARGIVQRLS
+seqstart:9225860;seqstop9227470+      QRVDVLCYRVSLGQKLLRGTGKYRYLLELMDEAVKKLEGDVGPLSGWAMNMARGIVQRLS
+                                      ******************** *******************:*******************
+
+geneid:Bo2g032410;contig:C2;feat      SGSQVQKLCSLAMEALDKMVSPPSESVSGQGFSLHTLCFGVRRCLFSLGDKLSVRVEEIQ
+seqstart:9225860;seqstop9227470+      SGSQVQKLCSLAMEALDKMVSPPSESVSGQGFSLHTLCFGVRRCLFSLGDKLSVGVEEIQ
+                                      ****************************************************** *****
+
+geneid:Bo2g032410;contig:C2;feat      ARSVTVILDSEEPSSSQNQTTGVKDDEDEAGNIQSLLINSSSGLCSNPSLPEDEFNNVLI
+seqstart:9225860;seqstop9227470+      ARSVTVILDSEEPSSSQNQTTGVKDDEDEAGNIQSLLINSSSGLCSNPSLPEDEFNNVLI
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      SCCKENGDNDNIEVESELEDERLITREVNEPEGRGLLVVTPCRRDACKGKQEGNKRSKSR
+seqstart:9225860;seqstop9227470+      SCCKENGDNDNIEVESELEDERLITREVNEPEGRDLLVVTPCRRDAYKGKQEGNKRSKSR
+                                      **********************************.*********** *************
+
+geneid:Bo2g032410;contig:C2;feat      TATVNEKPETNVANGVGGDKDLVHVVKTIRCLEKEGHIDKSFRKRFLTWYSLRATHREVR
+seqstart:9225860;seqstop9227470+      TATVNEKPETNVANGVGEDEDLVHVVKTIRCLEKEGHIDKSFRKRFLTWYSLRATHREVR
+                                      ***************** *:****************************************
+
+geneid:Bo2g032410;contig:C2;feat      VVKLFIETFMDDLPSLGQQLVHTFTECMFNKRSSASGVVPAGICLKLWH
+seqstart:9225860;seqstop9227470+      VVKLFIETFMDDLPSLGQQLVHTFTECMFNKRSSASGVVPAGICLKLWH
+                                      *************************************************

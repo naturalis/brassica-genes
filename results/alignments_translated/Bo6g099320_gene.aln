@@ -1,0 +1,54 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo6g099320;contig:C6;feat      MSVNNRDPLVVGGVIGDVLERFTRSIDLRVTYGQREVTNGLDIRPSQILNKPRVEIGGED
+seqstart:31580560;seqstop3158283      MSLNNRDPLVVGGVIGDVLEQFTRSIDLRVTYGQREVTNGLDIRPSQILNKPRVEIGGDD
+                                      **:*****************.*************************************:*
+
+geneid:Bo6g099320;contig:C6;feat      LRNFYTLVLTLKLSVSYFFFIASLLFFFHAIYLGHADTQRDLNLSLVLFSYDLLVVLLDI
+seqstart:31580560;seqstop3158283      LRNFYTLVLTFKLSVSYFFI--TLLLSCNLPWPRH--TKRPLVKS---FSCSVLLRFIGF
+                                      **********:********:  :**:  :  :  *  *:* *  *   ** .:*: ::.:
+
+geneid:Bo6g099320;contig:C6;feat      PQ-----VCFFTFY----HEDEPMSIPNAEVNVNSFIFYQNSLLSWSLFVSDVSFQKLFL
+seqstart:31580560;seqstop3158283      TSRYTIAVSIMLFYLLPWRTHEHIS-PNAKVNVNSFIFYQTSLLSWSLFVSDVSFQKLFL
+                                      ..     *.:: **    .  * :* ***:**********.*******************
+
+geneid:Bo6g099320;contig:C6;feat      PKGFHFFPKLFAYCFFGESW----GFSLFLQFRLVNFIRNVTILLKRQKYMGSNVNIIIK
+seqstart:31580560;seqstop3158283      PKGFHFFPETFCILVL-LVWVRILGIFFVPSIIISKFYKKCYNTLKKAKVYGFEVNIIIK
+                                      ********: *.  .:   *    *: :. .: : :* .:    **. *  * :******
+
+geneid:Bo6g099320;contig:C6;feat      KMDGHLTNILMNILISLVVFDACISIF-KLLFIHCLYIHVAK-TYRFLDLPTVFYSFFFF
+seqstart:31580560;seqstop3158283      KMDGHLTNILMN--ISLLWYLMPVEVYSSYSFKYTAYIYTCSYNLPFFGLVATTYRFLFI
+                                      ************  ***: :   :.:: .  * :  **:... .  *:.* :. * *:*:
+
+geneid:Bo6g099320;contig:C6;feat      FPVLSHFSNLIMLSSS------VDYLYIFV-FTKKNRLICNVFCWVRLWWIQMFQVLAT-
+seqstart:31580560;seqstop3158283      FLLLSCVISFLKLNYAFFIGLRLILIYIYICFNQKKSSYLRILMLMGLMKVMVDPDVPSP
+                                      * :** . .:: *. :      :  :**:: *.:*:    .::  : * .: :   :.: 
+
+geneid:Bo6g099320;contig:C6;feat      -----RTYENISIGLTSSPLLSIFLLYPHTILLLD-IYIHNTWKNDKYINWRLIFTDNKS
+seqstart:31580560;seqstop3158283      SNPHLREYLHWFVNFTS--FIHLFVISSHNFALIRYIYLHNTWKNDKYINWRLIFTDNKS
+                                           * * :  :.:**  :: :*:: .*.: *:  **:*********************
+
+geneid:Bo6g099320;contig:C6;feat      KIFDVTRTTCRISFKKAVYQFVSQSPNTIG-TEEIPKTHAICIQYVYMFSTSYTISLFVQ
+seqstart:31580560;seqstop3158283      KIFYVTRTTCRISFKKAVYQFVSQSPNTIGYTEEIPKTHAICIQYV-MFSTSYTLSLFVQ
+                                      *** ************************** *************** *******:*****
+
+geneid:Bo6g099320;contig:C6;feat      TFRFQLSCLYILSLRT-LCDLKLVGPGILLYHSHLFLVSLYIFLFLSTSLFIYCYKKKSI
+seqstart:31580560;seqstop3158283      TFRFQLSCLYILSLMTYLCDLKLVAPGFLLYHSHLFLVSLYIFLFLSTSLFIYCYKKKST
+                                      ************** * *******.**:******************************* 
+
+geneid:Bo6g099320;contig:C6;feat      SLALIKALTIL-------------HILYCSMHAPYQTFNDALIFIDACFGVTYTVTPKIY
+seqstart:31580560;seqstop3158283      SLALIKALTILLKYACTIPNFQCSLSIHCMFWSHLHSYTEDLLLLQS------------Q
+                                      ***********               ::* :.:  :::.: *:::::             
+
+geneid:Bo6g099320;contig:C6;feat      CFYNHNRTIDLISTDLLRYYIFLTIFSLSSILIWVGTISKAI--WILSLQVGDYPCDNWN
+seqstart:31580560;seqstop3158283      NYRSHHRPITILS--FLQSLVDIKHFNMGWYNFVKGYMDTLITGWLISLR----------
+                                       : .*:*.* ::*  :*.  : :. *.:.   :  * :.. *  *::**.          
+
+geneid:Bo6g099320;contig:C6;feat      KLWVLFHRLMAIYAVDRTNVYICLMVVFAGNEIVSYENPRPTSGIHRIVLVLFRQ----L
+seqstart:31580560;seqstop3158283      ---QLEQTLVSFIPIDG---YIC------GNQCIYMFD-----GCFRRQDCVLRESKAHL
+                                          * : *::: .:*    ***      **: :   :     * .*    ::*:    *
+
+geneid:Bo6g099320;contig:C6;feat      GRQTVYEPGWRPQFNTREFAALYNLGLPAAAVYFNCQRDNGCG------G--RRS---
+seqstart:31580560;seqstop3158283      GNSS-YRAGVVPAAREANGVARVAPTIHSVCCAIQSRPSRGCGLLQLSEGWLRRTKKL
+                                      *..: * .*  *  .  : .*     : :..  ::.. ..***      *  **:   

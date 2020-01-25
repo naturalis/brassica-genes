@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo1g157390;contig:C1;feat      MLKEESNESYATRACDTCRSAACTVYREADSTYLCTNCDARVHAAKRVRVGDSCESAPAA
+seqstart:43430272;seqstop4343121      MLKEESNESYATRACDTCRSAACTVYREADSTYLCTNCDARVHAAKRVRVGDSCESAPAA
+                                      ************************************************************
+
+geneid:Bo1g157390;contig:C1;feat      FLCKADAASLCTACDAEIHSANPLASRHQRVPISANSCGYMATDADNNDMLVGDEDEVAS
+seqstart:43430272;seqstop4343121      FLCKADAASLCTACDAEIHSANPLASRHQRVPISANSCGYMATDADNNDMLVGDEDEVAS
+                                      ************************************************************
+
+geneid:Bo1g157390;contig:C1;feat      WLMVNPGKNNNNGFLFGVEYLDLVDYSSGTDNQLEDQYSQYQRSLGGGEDGVVPLQVEES
+seqstart:43430272;seqstop4343121      WLMVNPGKNNNNGFLFGVEYLDLVDYSSGTDNQLEYQYSQYQRSLGGGEDGVVPLQVEES
+                                      *********************************** ************************
+
+geneid:Bo1g157390;contig:C1;feat      TSHMQQSQHNFHLSGCSTEAHYNYISVVPESTSSDTTVQHAKEAIDQASGPPTQMVQQLN
+seqstart:43430272;seqstop4343121      TSHMQQSQHNFHLSGCSTEAHDNYISVVPESASSDTTVQHAKEAIDQASGPPTQMVQQLN
+                                      ********************* *********:****************************
+
+geneid:Bo1g157390;contig:C1;feat      PADREARVLRYREKKKRRKFEKTIRYASRKAYAEVRPRIKGRFAKRIDMEADAEQLFSTS
+seqstart:43430272;seqstop4343121      PADREARVLRYREKKKRRKFEKTIRYASRKAYAEVRPRIKGRFAKRIDMEADAEQLFSTS
+                                      ************************************************************
+
+geneid:Bo1g157390;contig:C1;feat      LMSNTSYGIVPSF
+seqstart:43430272;seqstop4343121      LMSNTSYGIVPSF
+                                      *************

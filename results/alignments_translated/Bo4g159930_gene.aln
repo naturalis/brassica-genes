@@ -1,0 +1,66 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo4g159930;contig:C4;feat      MKRGKEEEEKKKLEPMFPRLHVNDADKGGGPRAPPRNKMALYEHLTTPSHRFTDHSSSPR
+seqstart:43379233;seqstop4338208      MKRGKEEEEKKKLEPMFPRLHVNDADKGGGPRAPPRNKMALYEHLTTPSHRFTDHSSSPR
+                                      ************************************************************
+
+geneid:Bo4g159930;contig:C4;feat      HTNTLFPPPPGPSNQVLLSFYILVTAILNFFLCLITMFQCFVSGLAFLLCIVSVEDYIVY
+seqstart:43379233;seqstop4338208      HTNTLFPPPPGPSNQVLLSFYILITANLNFFLCLITMFQCFVSGLAFLLCIVSVEGYSVC
+                                      ***********************:** ****************************.* * 
+
+geneid:Bo4g159930;contig:C4;feat      MGHWKLSFFYSAALWGGEKLDFPASFFSFWPCNPNVLHGKCDNFSTSSWSKENAKRGRFC
+seqstart:43379233;seqstop4338208      ATLEIIIFFYSAALCGGEKLDFPESFFSFWPCNPNVLHGKCDNFSTSSWSKENAKRGRFC
+                                           : ******* ******** ************************************
+
+geneid:Bo4g159930;contig:C4;feat      GSCILKKISMSSKVSIGLKSCFLVETRVYK--VRPNWS---DGNWSISWQSRR----FDI
+seqstart:43379233;seqstop4338208      GSCILKKISMSSKVSIGLKSCFL-ETRVYKVRVRPRWNWSRDGNWSISWRSCRGRCFFYI
+                                      *********************** ******  ***.*.   ********.* *    * *
+
+geneid:Bo4g159930;contig:C4;feat      QHRRLSSCGSIRSKTFLESKESYCQVSSLTRLLVNLVMYFLFFLCCF--CLNDAMVCSQH
+seqstart:43379233;seqstop4338208      QRGRLSSCGSIRSKTFLESKESYCQVSSLTKTFGELG--YVFF-CSFSAVFNAMMQWFAH
+                                      *. ***************************. : :*   ::** *.*   :*  *    *
+
+geneid:Bo4g159930;contig:C4;feat      TYMIITLLYILRESRFGLFLIEKFFSEETPLLQK----LSYMVVEDLSHFNTLDRVSRGG
+seqstart:43379233;seqstop4338208      NIHILLCFIFVRADLVYFLRSDNFLVKKPPDSSKNCPNIWLKISRILTHWIVLARGGGGG
+                                      .  *:  : ::* . . ::  ::*: ::.*  .*    :   :   *:*: .* * . **
+
+geneid:Bo4g159930;contig:C4;feat      GSVD-----VHCARFPPRQLMDFASACWNMSLSLSRFGICFYSAFSLLVIQRVEPGSPYI
+seqstart:43379233;seqstop4338208      GEHSLLTYIVQGSRRDSWILHLLAGTCPCPCLGLV-FAVILH--FPFLSFNGLNQVVNHT
+                                      *. .     *: :*  .. *  :*.:*   .*.*  *.: ::  *.:* :: ::    : 
+
+geneid:Bo4g159930;contig:C4;feat      KLVMCLMKMKNYSSRGCKLWSFLWILDSVTQVLRFYVRYQLNPPLACLQFFFFYYLCLSL
+seqstart:43379233;seqstop4338208      SLCV----LKRIIVAEVVNYGFTLLL----RFLRFYVRYQLNPPLACLQFFFFYYLCLSL
+                                      .* :    :*.        :.*  :*    ..****************************
+
+geneid:Bo4g159930;contig:C4;feat      CFLTHFASSSLLVRGFLLLFFSDSTVLLFVQPKLYLSLFVELFL----------------
+seqstart:43379233;seqstop4338208      CFLTHFASSSLLVRGFLLL-FSDSTDLLPVQPKQYLTLFVELFYGSSSSDLVSPQSTKNI
+                                      ******************* ***** ** **** **:******                 
+
+geneid:Bo4g159930;contig:C4;feat      -------------------WVIFLFLRNSQQRIFAVQLFELHRLIKVKLLLRFMNICFVQ
+seqstart:43379233;seqstop4338208      CGSTIVAQADGKTHSENFSYVSIFVLCKPSQLYFVFTIIKVQKLIASSSDVLLDEISYLG
+                                                         :* ::.* :..*  *.. :::::.**  .  : : :*.:: 
+
+geneid:Bo4g159930;contig:C4;feat      TSTVLCFHYNQGSKTYCFIIGCLARDQLS-WKCSSEEASSLIYIKASSSTTGYQTQKQRL
+seqstart:43379233;seqstop4338208      NVPVKKLLPSE------FIVKPPPLPQVTKHRRSDSEKTDQDKMECSAENVVGKSSNQGQ
+                                      . .*  :  .:      **:   .  *:: .. *..* :.   ::.*:...  ::.:*  
+
+geneid:Bo4g159930;contig:C4;feat      REDPKNGILSERSREVVKPRSAASTVQLHAFCEQPTSC--KWMLLSSSASSSLWRKSAMV
+seqstart:43379233;seqstop4338208      QHQPSNYM------PFASNPPAANGCYYPPQHPPPSGGNQQWLIPVMSPSEGLIYKP---
+                                      . :*.* :       ...  .**.     .    *:.   :*::   *.*..*  *.   
+
+geneid:Bo4g159930;contig:C4;feat      DPCNVSFRRANIQASPRSRSHRVAGLW--------RLLWSF-------YACTDDNGFHGR
+seqstart:43379233;seqstop4338208      ------------HPGPGHTGSPVCGGYYGYFMPAPMIMGSFMDGGPPPFHPGVGNGYFPP
+                                                  :..*   .  *.* :         :: **       :    .**:.  
+
+geneid:Bo4g159930;contig:C4;feat      WS--TSVSPGRWQWLLPS-----LWYDEPLRFRPSTTTAAQANESVCASCEHPTTELRQS
+seqstart:43379233;seqstop4338208      YGMMNPYGSGHQQQQQPNEQMNQFVHPGNLQYASAVNTQQQSSVNEAISQQQPTKSYPRA
+                                      :.  .. ..*..*.  *.     : :   *.: .:..*  *:. . . * ::**..  .:
+
+geneid:Bo4g159930;contig:C4;feat      DLTTTANTILSSGKEQAKEHRNQSKWNLWYELLSAIVSGQQAAN--DDYYHNNNKNNCYS
+seqstart:43379233;seqstop4338208      RKSRQRSTGSSPSGQDGISGTNC------FRPLSVVDDDDDDNNEPEQMMTTTTTTTRTA
+                                        :   .*  *.. ::. .  *       :  **.: ..::  *  ::   ......  :
+
+geneid:Bo4g159930;contig:C4;feat      DNKRWRWGDESDKGCSA----QRKAGEECCDF--PVDTRRTTLRLLFPLL
+seqstart:43379233;seqstop4338208      VTRTTRDGGGVTRVIKVVPHNAKLASENAARIFRSIQEERKHYDSFSNHF
+                                       ..  * *.   .  ..     . *.*:.. :  .::  *.    :   :

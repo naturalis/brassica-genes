@@ -1,0 +1,66 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo4g061100;contig:C4;feat      MSLSPRDPLVLARVVGDVVDPFMRLISLRVNYGQRQVTNGLDLRTSQVLNKPTVEIGGDD
+seqstart:13613251;seqstop1361546      MSLSPRDPLVLARVVGDVVDPFMRLISLTVNYGQRQVTNGLDLRTSQVLNKPTVEIGGDD
+                                      **************************** *******************************
+
+geneid:Bo4g061100;contig:C4;feat      LRNFYTLVRLISSIFFFFLKPLISSTFSQYVRLGHTNLSVILYFDNSFLLSTLRDVFSSV
+seqstart:13613251;seqstop1361546      LRNLYTLVRLISSIILSI--PYLS------VVLGHINLNVILYFDNSFLLSTLRDVFSSV
+                                      ***:**********:: :  * :*      * *** **.*********************
+
+geneid:Bo4g061100;contig:C4;feat      LHALLWVFGDF---FREFSLSCFLFLQNFKNHNFVFINYNF--NIFNLRF-IENLTTSIN
+seqstart:13613251;seqstop1361546      LHALLWVFGDFSGNFLDYHVNFYIFSPKFIKKTKIIIFYKLFNNIETVIFLIDRVLRTLH
+                                      ***********   * :: :. ::*  :* ::. ::* *::  ** .: * *:.:  :::
+
+geneid:Bo4g061100;contig:C4;feat      Q---FGIRKVNF----IELFKYVMYFSKAISETKYNDLAVDIYEIHILDVRTCNYDLNSI
+seqstart:13613251;seqstop1361546      QETNLGEKLINLLNNCLNMFKCTFRKHKYLRQNIMTQL-IYMNEYIFWTSGHVTTTLTLL
+                                      *   :* . :*:    :::** .:   * : :.  .:* : : *  :      .  *. :
+
+geneid:Bo4g061100;contig:C4;feat      NLFSKKKKTLLTSISFFVK---------IIAFNFLRYHLPEFFKKYICCFLDLFDLSSSS
+seqstart:13613251;seqstop1361546      TSFLAKKKKLYLASAFLLRSKLLINSCVIICQNFLK-------NTFVNVFLIFLIFHHLL
+                                      . *  ***.*  : :*::.         **. ***.       :.::  ** :: :    
+
+geneid:Bo4g061100;contig:C4;feat      YSFRVDGVTKVMVD--PDVPSPSNPHLREYLHWLVSALSFHSNLLERKIQPHTHRDSVKV
+seqstart:13613251;seqstop1361546      IRFVLTGVMKVMVSRCAKSKQPSPPRISPLVSIISLIISF--KFTEKNTTPHSQRFCTSA
+                                        * : ** ****.  ..  .** *.:   :  :   :**  :: *.:  **::* ....
+
+geneid:Bo4g061100;contig:C4;feat      QNMTYSQVNLVFNELRVSCYIIRLSTQHMFFFVSPLKYILDNLRLARDKHYIYKLFYVLY
+seqstart:13613251;seqstop1361546      E---HDLSGFSFH-LRIKSFMLYHTLMYATYVFFCLTFIKIHMTRLKPAPCAETLYIIIL
+                                      :   :.  .: *: **:..:::  :  :  :..  *.:*  ::   .      .*: :: 
+
+geneid:Bo4g061100;contig:C4;feat      VLIYYEIINIYIE-LKVSNYYIYIIKLMRTYKSIL--------LIQTIFKIDMLNLNDIN
+seqstart:13613251;seqstop1361546      CIISYILNNKYIYIIKSQLLYIYIYNIGVNVINFINPNNFLKNLIGYVIKFKYHIKYIFN
+                                       :* * : * **  :* .  **** ::  .  .::        **  ::*:.      :*
+
+geneid:Bo4g061100;contig:C4;feat      ISIFLILMSIKCFLLICFFSCVSLISKTLNYLNFHCGINNFSNLFKKKYINVSLKLLSKK
+seqstart:13613251;seqstop1361546      INVYMML-----YTHMFFLSCVSLISKTLNYLNFHCGINNFSNLFKKNY--QCFKTFIKK
+                                      *.::::*     :  : *:****************************:*   .:* : **
+
+geneid:Bo4g061100;contig:C4;feat      IIQSKFNNIYLFNMVYSLINDIYTYIFILMINIRLLFIFCNHLY-FVLTKLLNHGWQNLN
+seqstart:13613251;seqstop1361546      NYSKILKLKYLF-IQYGLFNLEYIYIYILNLNDLNTFIYMILSFVFCLNKTIKP-W----
+                                        .. ::  *** : *.*:*  * **:** :*    **:    : * *.* ::  *    
+
+geneid:Bo4g061100;contig:C4;feat      VRLLTVLVIYSRFLKFKIHIQKNLNFNMVIVIFLNYFNSLKLNKFDRXXXXXXXIINCHI
+seqstart:13613251;seqstop1361546      ------------IAKFECETYNSFS-------NLSFFNS-KYNIYRK------------I
+                                                  : **:    :.:.        *.:*** * * : .            *
+
+geneid:Bo4g061100;contig:C4;feat      YTLATLGNSVIFIGNNKHI---YGFNKKLIILDVLTYFFNNSKNHRSDDTLQKEVVMFHK
+seqstart:13613251;seqstop1361546      YIFIILLFFIILIVNTNLIXXXXXXXESLIVIYILPHAIPS---------------LFKE
+                                      * :  *   :*:* *.: *       :.**:: :*.: : .               :*::
+
+geneid:Bo4g061100;contig:C4;feat      YIWDISDNHNILALSSKQNTLKNYDASKSRAFKYAARYLKSLAKKQKQYLKSKWMLPLQV
+seqstart:13613251;seqstop1361546      IINDINNE-----------------------------FMVSLTKN---------LL----
+                                       *.**.::                             :: **:*:         :*    
+
+geneid:Bo4g061100;contig:C4;feat      GDYTCHNWNRFWVYLTLYIHAIHANMQLTKCLPRGQKREFVYTENNFKRKRLARFIYYIC
+seqstart:13613251;seqstop1361546      -------YNMYHISLII--------LRIILVMTRGYKKKLCFTNN---------------
+                                             :* :.: * :        :.:   :.** *.:: :*:*               
+
+geneid:Bo4g061100;contig:C4;feat      PCNHSQPKYLFDDYSLRQVGALEPMSHFRNSPSSIDVILATRKTNCLCTVAPTLQHSVRE
+seqstart:13613251;seqstop1361546      ------------------IG----------------------------------------
+                                                        :*                                        
+
+geneid:Bo4g061100;contig:C4;feat      LQSRSTRGCRFLQLPEREWLGRKKNI
+seqstart:13613251;seqstop1361546      --------------------------
+                                                                

@@ -1,0 +1,38 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g021060;contig:C5;feat      MPTMLTDVFRGHPIHLPHSHQPDFTSLSELPDSYTWTPKDDPLLDAAPSPPAASENIPLI
+seqstart:7332093;seqstop7333539+      MPTMLTDVFRGHPIHLPHFHQPDFTSLSELPDSYTWTPKDDPLLDAAPSPPAASENIPLI
+                                      ****************** *****************************************
+
+geneid:Bo5g021060;contig:C5;feat      DLNHPDAANQIGSACRTWGAFQIANHGVPLELLQGIEFLTGSLFQLPVHRKLKAARSETG
+seqstart:7332093;seqstop7333539+      DLNHPDAANQIGSACRTWGAFQIANHGVPLELLQGIEFLTGSLFQLPVHRKLKAARSETG
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      FSGYGVARISSFFNKQMWSEGFTITGSPLNDFRKLWPQHHLNNYWYISIYTLNLIYS--Y
+seqstart:7332093;seqstop7333539+      FSGYGVARISSFFNKQMWSEGFTITGSPLNDFRKLWPQHHLNNYWYISIYTLNLIYSYTY
+                                      *********************************************************  *
+
+geneid:Bo5g021060;contig:C5;feat      IHIYIYQGPITEETENLHVINVWNELKQACNENLAWTH---LIRYI-CFNLIGENKKAQL
+seqstart:7332093;seqstop7333539+      IYIYIYISRTMNNRRNRKFAMSLMFSGTKSNKHVMKIHSGPTSRFEDIFVLILSEKTKRP
+                                      *:**** .   ::  * :.          .*::: . *     *:   * ** .:*. . 
+
+geneid:Bo5g021060;contig:C5;feat      AFVLF-FYIF-KWTYEFLCSYADCVIS--FALINGISYFSLTATSLKSTRNKCKSWHPSC
+seqstart:7332093;seqstop7333539+      NLLLFCFSIYSNGRTNFNCVHMQIVYKSHLHLMDKFRIF------LNQRHRRVRGTNAKV
+                                       ::** * *: :   :* * : : * .  : *:: :  *      *:. ... .. :.. 
+
+geneid:Bo5g021060;contig:C5;feat      GYHLHLE------SAKKTLNGPVPIQIQTGPNPRSSITIRFVLNRTG-----PWVLPIPT
+seqstart:7332093;seqstop7333539+      GIQVDVVITNFTWSQRRRHMGQCQFRFRLGPIRAPAKSLSGLSTGPGHGSSCPYRLHPPN
+                                      * :: :       * ..   *   :.:. **   .: ::  : . .*     *: *  *.
+
+geneid:Bo5g021060;contig:C5;feat      PPSPFSTRTIPQVSKY-------SVMIVGPCHRFQAL-SWSTSVISSTSYPMDCLKACYT
+seqstart:7332093;seqstop7333539+      HSPPEQYRRSPSIPSRLGNRATGSRLSRGQRRSLPHLIQWTVKRATPCSGPNQIQVVGSF
+                                       ..* . *  *.:..        * :  *  . :  * .*:..  :. * * :   .   
+
+geneid:Bo5g021060;contig:C5;feat      VLGLTKPDPGCRLSFGVHNLISRYHLYQNWLVLLDRHYTDRSHGQSIFEQKLLTSMKLFR
+seqstart:7332093;seqstop7333539+      PLGST-----------IYQDITCTKTGSCWIATIPIGHMDRVSSNKSYSLQSSFDDKSHR
+                                       ** *           ::: *:  :  . *:. :   : **  .:. :. :   . * .*
+
+geneid:Bo5g021060;contig:C5;feat      LEITMN
+seqstart:7332093;seqstop7333539+      I-----
+                                      :     

@@ -1,0 +1,22 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo8g101580;contig:C8;feat      MASPDVEYRCFVGGLAWATDDRALETAFSQYGDVLDSKVGYTQRSDSRRFPMISSTDLFR
+seqstart:35696603;seqstop3569736      MASPDVEYRCFVGGLAWATDDRALETAFSHYGDVLDSKVGYTQRSDSRRFPMISSTDLFR
+                                      *****************************:******************************
+
+geneid:Bo8g101580;contig:C8;feat      SVFLCYLLCFVTVTFLFSNRYVHLPAIMSLEIDRFFFEYFMFMIFFFLLLCVGFCMLMIC
+seqstart:35696603;seqstop3569736      SVFLCYLLCFVTVTFLFSKRYVHLPAIMSLEIDRFFSN--ILCVFFFCCALVFVCFVLCV
+                                      ******************:***************** :  :: :***    * .*:::  
+
+geneid:Bo8g101580;contig:C8;feat      FMCVCVQIINDRETG--------------RSRGFGFVT----------------------
+seqstart:35696603;seqstop3569736      FVFRSLTIVRRDDQGGSGSSLSRMRSRRMPSRGTGRISTVAASLTRLSLVEAVVEEAEAV
+                                      *:  .: *:.  : *               *** * ::                      
+
+geneid:Bo8g101580;contig:C8;feat      --------FKDEKSMKDAIEGMNGQDLDGRSITVNEAQSRGGGGGGGRGGGGGGYRSGGG
+seqstart:35696603;seqstop3569736      VDTAAEVVVVTEEAVVDTVEVVE----DARVVTVAVVEVV--------------------
+                                              .  *::: *::* ::    *.* :**  .:                      
+
+geneid:Bo8g101580;contig:C8;feat      GGYGGGGGGYGGGGGRREGGYSGGGGGGYSSRGGGGGGGYGGRRDGGEGGGYGGSGGGGW
+seqstart:35696603;seqstop3569736      --------------TPRE---------EVVAVEATAAGVMVVKVEVTEEAVVVVG-----
+                                                      **            :  . ..*    . :  * .    .     

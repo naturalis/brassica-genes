@@ -1,0 +1,10 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g014400;contig:C9;feat      MGRGRVQLKRIENKINRQVTFSKRRSGLLKKAHEISVLCDAEVALVVFSSKDKLFEYSTD
+seqstart:4333144;seqstop4333328+      MGRGRVQLKRIENKINRQVTFSKRRSGLLKKAHEISVLCDAEVALVVFSSKGKLFEYSTD
+                                      ***************************************************.********
+
+geneid:Bo9g014400;contig:C9;feat      S
+seqstart:4333144;seqstop4333328+      S
+                                      *

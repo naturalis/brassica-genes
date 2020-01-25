@@ -1,0 +1,66 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo7g008410;contig:C7;feat      MEWDSDSDLSGGDEVADDGWFGGDSGPVPFPEISLPGTTPCGFVVSDALEPDQPIIYVNT
+seqstart:2557819;seqstop2560665+      MEWDSDSDLSDGDEVGEDGWFGGDNGPIPFPEISLPGTMPCGFVVSDALEPDQPIIYVNT
+                                      **********.****.:*******.**:********** *********************
+
+geneid:Bo7g008410;contig:C7;feat      VFEIVTGYRAEEVIGRNWAYFPSVLLLDRALLCVC---QCLLAALEKTLSFVYFLLDRTL
+seqstart:2557819;seqstop2560665+      VFEIVTGYRAEEVIGRNWACLPSSLLFVLTVITVGISFSCFREDSELCLLFTRQNFVLVI
+                                      ******************* :** **:  ::: *    .*:    *  * *.   :  .:
+
+geneid:Bo7g008410;contig:C7;feat      FLSEFLFRNANYRELSLLWFVWFLLRILNNFFWTQKLVNYRGKKAIKGGYMLIM----FS
+seqstart:2557819;seqstop2560665+      FVERQLLERAFITMVRMVLVEDLEFILDSEVGLRKKSYKVRRIHVTYNDFSIVLTPTIFV
+                                      *:.  *: .*    : :: .  : : : .:.   :*  : *  :.  ..: :::    * 
+
+geneid:Bo7g008410;contig:C7;feat      VSSDRQLYSLCVLMMHALSLCVYFFCIILKLHVLYV-YNLIIVLLVWDHSVKYCICV---
+seqstart:2557819;seqstop2560665+      CPDDTLSF---VFVMCFISFALFNLSYMYYMHIISLFYSLCGIIQSSTVSVKLLVCIRCY
+                                       ..*   :   *::*  :*:.:: :. :  :*:: : *.*  ::     ***  :*:   
+
+geneid:Bo7g008410;contig:C7;feat      ----VSMYTML--LWKKYKFLLIIMV------LVEELEFYMIRLVEMLLESLLRCYWRAC
+seqstart:2557819;seqstop2560665+      YGKNINFYSSLWFLWRSLNFILGLLRCYRACDVTRELAFFFTMNRIFWYE---RCYEIAC
+                                          :.:*: *  **.. :*:* ::       :. ** *::     :  *   ***  **
+
+geneid:Bo7g008410;contig:C7;feat      LLLYHELENLLVITMLRDSLLGATYREQVRNHVTGSW---LYRNKSINGLRRILMFSVLS
+seqstart:2557819;seqstop2560665+      WELEH---------------IGNKSK-------SCNWKLAIYRNKSINGLRRILMFSVLS
+                                        * *               :* . .       : .*   :*******************
+
+geneid:Bo7g008410;contig:C7;feat      DQRQLHSLCLMSLYVFFLLNYLLLFSLLYCLAIVSSSTVSVTLLVPFYVSSSFGSRFLQC
+seqstart:2557819;seqstop2560665+      DQRQLHSLCLMSLYVFFLLNYLLLFSLLYCLAIVSSSTVSVTLLVPFYVSSSFGSRFLQC
+                                      ************************************************************
+
+geneid:Bo7g008410;contig:C7;feat      RGPYAKRRHPSVDSTVVSKMRQCLEKGIEFQGELLNFRKNGSPLMNKLRLVPIREEDEIT
+seqstart:2557819;seqstop2560665+      RGPYAKRRHPSVDSTVVSKMRQCLEKGIEFQGELLNFRKDGSPLMNKLRLVPIREDDEIT
+                                      ***************************************:***************:****
+
+geneid:Bo7g008410;contig:C7;feat      HFIGVLSFTDAEIDLGPFPDLSTKPIPRRSRSFASASPIGDRNVSRGLGGIFDLSDEVIA
+seqstart:2557819;seqstop2560665+      HFIGVLSFTDAEIDLGPFPDLSTKPIPRRSRSFASALPTGERNVSRGLCGIFELSDEVIA
+                                      ************************************ * *:******* ***:*******
+
+geneid:Bo7g008410;contig:C7;feat      LKILSKLTPPDIASVGCVCRRLNELTKNDDVWRMVCQNTWGTEATRVLESVPGAKRIGWG
+seqstart:2557819;seqstop2560665+      LKILSQLAPSDIASVGCVCRRLNEVTKNDDVWRMVCQNTWGTEATRVLESIPGEKRIGWV
+                                      *****:*:*.**************:*************************:** ***** 
+
+geneid:Bo7g008410;contig:C7;feat      RLAREFTTHEVTAWRKFSFGGTVEPSRCNFSACAVGNRIVIFGGEGVNMQPMNDTFVLDL
+seqstart:2557819;seqstop2560665+      RLAREFTTHEANAWRKFTFGGTVEPSRCNFSACAVGNKIVIFGGEGVNMQPMNDTFVLDL
+                                      **********..*****:*******************.**********************
+
+geneid:Bo7g008410;contig:C7;feat      GSTTPEWKSVLVSSPPPGRWGHTLSCVNGSRLVVFGGYGSHGLLNDVFMLDLDADPPTWR
+seqstart:2557819;seqstop2560665+      GSSSPQWKSVLVNSPPPGRWGHTLSCVDGSHLVVFGGYGSHGLLNDVFLLDLDADPPTWR
+                                      **::*:******.**************:**.*****************:***********
+
+geneid:Bo7g008410;contig:C7;feat      EVSGLAPPIPRSWHSSCTLDGTKLIVSGGCADSGALLNDTFLLDLSMDTPTWREIPVPWS
+seqstart:2557819;seqstop2560665+      EVSGLAPPIPRSWHSSCTLDGTKLIVSGGCADSGALLNDTFLLDLSMDTPTWREIPVPWS
+                                      ************************************************************
+
+geneid:Bo7g008410;contig:C7;feat      PPSRLGHTLTVYGDRKILMFGGLAKSGTLRFRSNDVYTMDLSEDEPCWRPVIGYGSSLPG
+seqstart:2557819;seqstop2560665+      PPSRLGHTLTVYGDRKILMFGGLAKLGTLRFRSNDVFTMDLSNDEPCWRPVIGYGSSLPG
+                                      ************************* **********:*****:*****************
+
+geneid:Bo7g008410;contig:C7;feat      GMAAPPPRLDHVAVSLPGGRVLIFGGSVAGLDSASQLYILDPTEETPAWRILSVKGCPPQ
+seqstart:2557819;seqstop2560665+      GMAAPPPRLDHVAVSLPGGRVLIFGGSVAGLASASQLYLLDPAEDNPAWRILSVKGSPPR
+                                      ******************************* ******:***:*:.**********.**.
+
+geneid:Bo7g008410;contig:C7;feat      IAWGHTTCVVGGTRLVILGGQTGEEWMLNEAHELLLATSSTTSSRHEEKRVF
+seqstart:2557819;seqstop2560665+      FAWGHTTCVIGGTRLVILGGQTGEEWMLNEAHELLLATSSTTSSRHEEKRVF
+                                      :********:******************************************

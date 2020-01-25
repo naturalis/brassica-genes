@@ -1,0 +1,110 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g009990;contig:C5;feat      MGIRKVRWSPFIVVVCAREHKRREKELRRSRSKDL-EKERIKKPLKSV-TRQDPIMFLSN
+seqstart:3721348;seqstop3725976+      MGIRKVRWSPFIVVVCAREHKREERRSGGNRGLKIYRKERIKKASEECDTRSDHV-----
+                                      ********************** *.    .*. .:  ******. :.  **.* :     
+
+geneid:Bo5g009990;contig:C5;feat      SFRLLLSFS----PSSLLFCFYIILKLSSLFLCSVPSSNWNSHSSNKYALFVAAFFKLIS
+seqstart:3721348;seqstop3725976+      SFKLLLKVATFLFPKFPPFLLILHINIEAFFACSLLSA--------QQQLELALLLKVCS
+                                      **.***..:    *.   * : : :::.::* **: *:        :  * :* ::*: *
+
+geneid:Bo5g009990;contig:C5;feat      KAILCYPPVLYGYKLCRSRLIFWLDV-------CLFCLRFCWLPF-IRRSTTSSIDSY-W
+seqstart:3721348;seqstop3725976+      FRCCVFEANLKSYSLLSSCFV-WLTLVSFDLLACVFVLSQVLLAVTVYKKKHHLINRFLL
+                                           : . * .*.*  * :: ** :       *:* *    *.. : ...   *: :  
+
+geneid:Bo5g009990;contig:C5;feat      STLFRKVLSTSLVFTYIMYRSINVGRQIGSDPGFLDSHHVEYQLPFLYM----------F
+seqstart:3721348;seqstop3725976+      EHSFPKGIAMKYLFSLYLYYV-----------KYLKCWKADW-LSWLVLVGFSPCVSTTI
+                                      .  * * :: . :*:  :*              :*...:.:: *.:* :          :
+
+geneid:Bo5g009990;contig:C5;feat      YCPD--LVDLIWIVGL-------RKVVVFTE--SDSFTYSVYIIINAVQL--LVALMMNH
+seqstart:3721348;seqstop3725976+      FCDTCFIVQILLIFGLDDLERCSRNLIPLPTLYTSSMRFSCLVLCKIIEYGRMIHMHLLR
+                                      :*    :*::: *.**       *::: :.   :.*: :*  :: : ::   :: : : .
+
+geneid:Bo5g009990;contig:C5;feat      IWQDDSYASVSWFSLGRLSSFLAHASFCGRNLTCFISRLILECFAFNFLLLCLWRQVKTC
+seqstart:3721348;seqstop3725976+      TFFSSPCLFLMWKELDLVFHFSVNSMFC--------------------ILILVVMSLASG
+                                       : ...   : * .*. :  * .:: **                    :*: :  .: : 
+
+geneid:Bo5g009990;contig:C5;feat      QALGRATPPRAQGGQDTALGSLRRPPLMQSSTLTSRNQAAPLTTQPRSASPDPLWRTSRQ
+seqstart:3721348;seqstop3725976+      ENMSGSRPSHSSEGPRRSRHSAR---IVAQTTVDAKLHADFEESGSSFDYSTSV-RVTGP
+                                      : :. : *..:. *   :  * *   :: .:*: :. :*    : .    . .: *.:  
+
+geneid:Bo5g009990;contig:C5;feat      GLTRPPP----ISITYRRENFSPSVVCSPW---MRRPSKSLPT-ARTPPSSRWPVMRFPA
+seqstart:3721348;seqstop3725976+      GVENQPPRSDKVTTTYLH-HIQKGKLIQPFGCLLALDEKTFKVIAYSENAAELLTMASHA
+                                      *: . **    :: ** . ::. . : .*:   :   .*:: . * :  ::   .*   *
+
+geneid:Bo5g009990;contig:C5;feat      LANRVLAGRTGAS----SLLLAPLRCRKRDSV----TSPCTPFSCIARLPQSPSTRLCTG
+seqstart:3721348;seqstop3725976+      VPSVGEQGALGVGTDIRSLFTAPSASALQKALGFGDVSLLNPILVHCKTSAKPFYAIVHR
+                                      :..    *  *..    **: **  .  ..::    .*  .*:   .. . .*   :   
+
+geneid:Bo5g009990;contig:C5;feat      SQGASSSTSNRSLTKF----PLLLVLCNRTSLQRRSLGCSLC------PAGAWRGSATRW
+seqstart:3721348;seqstop3725976+      VTGS-------IIVDFEPVKPYEVPMTAAGALQSYKLAAKAITRLQSLPSGSMERLCDTV
+                                        *:        :..*    *  : :    :**  .*...        *:*:    .   
+
+geneid:Bo5g009990;contig:C5;feat      FRRFSSSPGMTEWLI------SFTTMITERSSPRSQSLVSLTLVSIIQPRTSLKRLVFSL
+seqstart:3721348;seqstop3725976+      VQEVFELTGYDRVMAYKFHDDDHGEVVSEVTKPGLEPYLGLHYPATDIPQAA-RFLFMKN
+                                      .. . . .*    :       ..  :::* :.*  :. :.*   :   *.:: . *.:. 
+
+geneid:Bo5g009990;contig:C5;feat      RTRFGSLTATQNMGCFKTKSFPL-ISPCA----APRLERLTAVICSTWPTWILLHLLLWR
+seqstart:3721348;seqstop3725976+      KVRMIVDCNAKHVRVLQDEKLSSDLTLCGSTLRAPHSCHLQYMANMDSIASLVMAVVV--
+                                      ..*:     ::::  :: :.:.  :: *.    **.  .*  :      : ::: :::  
+
+geneid:Bo5g009990;contig:C5;feat      LWTRRTEEKG-----TPPPLIPPRLGRGRGYGVW-------WFVTTQLRGSSRFLSGTLV
+seqstart:3721348;seqstop3725976+      -----NEEDGGEGDATAPDSTPPQ-KRKRLWGLVVCHNTTPRFVPFPLRYACEFLA----
+                                           .**.*     *.*   **.  * * :*:        .**.  ** :. **:    
+
+geneid:Bo5g009990;contig:C5;feat      SFRKCLRYTSTRRWSWRTRLLRRTSCARRRSCAICCVTLR---WGLSRRAPTWTLNAMEQ
+seqstart:3721348;seqstop3725976+      ---QVFAIHVNKEVELENQIVEKN--ILRTQTLLCDMLMRDTPLGIVSQSP----NIMDL
+                                         : :    ..  .  ..:: ..    * .  :* : :*    *:  .:*    * *: 
+
+geneid:Bo5g009990;contig:C5;feat      LSCTKT----RYGSWGLRASSISRRLRG-----CASTTLTRLVALIACTTLGFLELLLET
+seqstart:3721348;seqstop3725976+      VKCDGAALLYKDKVWKLGITPSEFHLQEIASWLCEYHTDSTGLSTDSLHDAGFPRALALG
+                                      :.*  :    .   * *  :. . .*.      *   * :  ::  :    **   *   
+
+geneid:Bo5g009990;contig:C5;feat      RSAEWRLGSRRKTSSGSVLTPLGKDGEVRSMIQTIGMTRGECTRGLPSRPSSKWKQGVYL
+seqstart:3721348;seqstop3725976+      DSVCGMAAVRISSKDMIFWFRSHTAGEVRWGGAKHDPVDRDDARRMHPRSSFKAFLEVVK
+                                       *.    . * .:..  .     . ****    . . .  : :* : .*.* *    *  
+
+geneid:Bo5g009990;contig:C5;feat      GRTMRWMPYTPCSLFGTLSRMGKLPMIRRSFTR---SLMIRLMVYKSKLS------LARW
+seqstart:3721348;seqstop3725976+      TRSLPWKDY-------EMDAIHSLQLILRNAFKDGETTDVNTKIIHSKLNDLKIDGIQEL
+                                       *:: *  *        :. : .* :* *.  .   :  :.  : :***.      :   
+
+geneid:Bo5g009990;contig:C5;feat      FVSRLPLCRYWRLILMDWLMVGTRRLLS------LVFLLMKQSGSISSHMLRILQLKSL-
+seqstart:3721348;seqstop3725976+      EAVTSEMVRLIETATVPILAVDSDGLVNGWNTKIAELTGLPVDEAIGKHLLTLVEDSSVE
+                                       .    : *      :  * *.:  *:.        :  :  . :*..*:* ::: .*: 
+
+geneid:Bo5g009990;contig:C5;feat      ---RGCKMHKVTNSLHNLHSVLLRIFQLDDTV-GLFMQEPRSRMSNLRSRRICQELMLDQ
+seqstart:3721348;seqstop3725976+      IVKRMLENALESNSLPNLHSVLLRIFQLDDTVGGLFMQELRSRMSNLRSRRICQELMLDQ
+                                         *  :    :*** **************** ****** ********************
+
+geneid:Bo5g009990;contig:C5;feat      VWTHAQVEISMKTWLVCALLMISPDRRLWTSSLALKVITRPSSRIQTLSLPYSAPTSSGG
+seqstart:3721348;seqstop3725976+      VWTHAQVETSMKTWLGCALLMISPDRRLWTSSLALKVITRPSSRIQILSLPYSAPTSSGG
+                                      ******** ****** ****************************** *************
+
+geneid:Bo5g009990;contig:C5;feat      ARSGIQRCQSPVSERKWTRCCWEKCSGRRSRVAVRIKKRLTLGLCTTLLARRQRKCHLLF
+seqstart:3721348;seqstop3725976+      ARSGIQRCQSPVSERKWTRCCWEKCSGRRSRVAVRIKKRLTLGLCTTLLARRQRKCHLLF
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      LREVESMWSVCCVVRSTGKVWRASSVSCSSLAMSCSKPYMFSVLSEPRRDRPPTLKDRGI
+seqstart:3721348;seqstop3725976+      LREVESMWSVCCVVRSTGKVWRASSVSCSSLAMSCSKPYMFSVLSEPRRDRPLTLKDRGI
+                                      **************************************************** *******
+
+geneid:Bo5g009990;contig:C5;feat      RSPVSCLLEKWKGLSDQSREGFCKLALCVRSSSARSWMILISKASLKGMHETMKSLWLVL
+seqstart:3721348;seqstop3725976+      RSPVSCLLEKWKGLSDQSREGFCKLALCVRSSSARSWMILISKASLKGMHETMKSLWLVL
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      SFLDSHMFFFSYV-----AGAWIWRKSSATKCLLPLVKRVTERALGQMIQEKKCLILCME
+seqstart:3721348;seqstop3725976+      SFLDSHMFFSFLMLQVLGSGDERVQLKRSVDCFHSSNDEERKERDNKYRRRSDVYFVWRQ
+                                      *********   :     :*    . . :..*: .  .   :   .:  . ..  ::  :
+
+geneid:Bo5g009990;contig:C5;feat      TALGFSKSWQTSYCLLTLHRQEESLLQLPGKISSDDLCI-LLIRSGKKKWIYNMIMRKCI
+seqstart:3721348;seqstop3725976+      HASASLGRLHTDVCLYTVRRRANC-YSFPEERSARTICASCLFRDQVKKNGYTIESALMI
+                                       * .     :*. ** *:.*. :.  .:* : *:  :*   *:*.  **. *.:     *
+
+geneid:Bo5g009990;contig:C5;feat      DDFCCLKQNNAYRSWVARVFAKPNVWNGRYVGRTKLDGPEASEADEWRCSVLETSWEVEF
+seqstart:3721348;seqstop3725976+      --FVVYENRITHTG-----AGLPEFLLNQMFGTEEDTSEEGLSLMVSRKLVKLMNGDVQY
+                                        *   ::. :: .      . *:.  .. .*  :  . *. .    *  *   . :*::
+
+geneid:Bo5g009990;contig:C5;feat      YHHCRTR--------CSKQV
+seqstart:3721348;seqstop3725976+      LRQAGKSSFIITAELAAANK
+                                       .:. .         .: : 

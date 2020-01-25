@@ -1,0 +1,10 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g040460;contig:C3;feat      ERKRTRCLGQTGSTDLCICFSSRTVEEVFLCRLTETNSTLECLHMRTISASPLQLFSSTA
+seqstart:16649310;seqstop1664953      ERKGTRCLGQTGSTDLCICFSSRTVEEVFLCRLTETNSTLECLHMRTISASPLQLFSSTA
+                                      *** ********************************************************
+
+geneid:Bo3g040460;contig:C3;feat      SVKPLLDAA
+seqstart:16649310;seqstop1664953      SVKPLLDAA
+                                      *********

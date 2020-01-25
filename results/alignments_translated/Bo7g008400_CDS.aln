@@ -1,0 +1,38 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo7g008400;contig:C7;feat      PVLAVRSICKATPLSRFHSCLQDAKMSRKRHVSRGVTQLSQRWLSFDEQAAPSPYPRRRD
+seqstart:2554523;seqstop2556125+      PVLAVRSICKATPLSRFHSCLQDAKMSRKRHVSRGVTQLSQRWLSFDEQAAPSPYPRRRD
+                                      ************************************************************
+
+geneid:Bo7g008400;contig:C7;feat      HSHHRCSLLHRRKTRTVSCKRDHKKARSLLHLCFTGWRARLSWAVWDIRAERGHGLQDLV
+seqstart:2554523;seqstop2556125+      HSHHRCSLLHRRKTRTVSCKRDHKKARSLRHLCFTGWRARLSWAVWDIRAERGHGLQDLV
+                                      ***************************** ******************************
+
+geneid:Bo7g008400;contig:C7;feat      SVDSAYRVCWLRVSAVVDEERCVENGLPKHVGESYTCSDCSRCEEDRLGETSSRVYHTRS
+seqstart:2554523;seqstop2556125+      SVDSAYRVCWLRVSAVVDEERCVENGLSKHVGESYTCSDCSRCEEDRLGETSSRVYHTRS
+                                      ***************************.********************************
+
+geneid:Bo7g008400;contig:C7;feat      NCLEEVLRWRYCSAFSVLQHLCCWEQDRYLRRRRCEHATDEYVRVGPWLHSVEICSGLSS
+seqstart:2554523;seqstop2556125+      NCLEEVLRWRYCSAFSVLQHLCCWEQDRYLRRRRCEHATDEYVCVGPWLSPVEIRSGLSS
+                                      ******************************************* ***** .*** *****
+
+geneid:Bo7g008400;contig:C7;feat      SWSLGSYALLCQRLSFSSLWRLREPWVTQRCLLARPCRPSYMERSIRFSSSNTKIMALVY
+seqstart:2554523;seqstop2556125+      SWSLGSHPFLCRRIPFSSLWRLREPWVTQRCLLARPCRPSYMERSIRFSSSNTKIMALVY
+                                      ******:.:**.*:.*********************************************
+
+geneid:Bo7g008400;contig:C7;feat      ARWNAYCFWWLCFRSFAQRYVLALVYGYTDVEGDKSSMVSSISPRTYLNSLRQEDPYVWW
+seqstart:2554523;seqstop2556125+      ARWNADCFWWLCFRSFAQRYVLALVYGYTDVEGDKSSMVSSISPRTYLNSLRQEDPYVWW
+                                      ***** ******************************************************
+
+geneid:Bo7g008400;contig:C7;feat      SCGVWFEEVPVCVHDESEAVLETLGWVWNPSWRRGSSEAGSCGDSSGWSNLDLWWFGCRA
+seqstart:2554523;seqstop2556125+      SCGVWFEEVPVCVHDESEAVLETLGWVWNPSWRRGSSEAGSCGDSSGWSNLDLWWFGCRA
+                                      ************************************************************
+
+geneid:Bo7g008400;contig:C7;feat      LGFSALSSSNGGETGLESVECGKLTTVCVGTYNMCGGRNVGCLWWADRRVDAKSSAVVSQ
+seqstart:2554523;seqstop2556125+      LGFSALSSSNGGETGLESVECGKLTTVCVGTYNMCGGRNVGCLWWADRRVDAKSSAVVSQ
+                                      ************************************************************
+
+geneid:Bo7g008400;contig:C7;feat      LYNHLLKTWREEALL
+seqstart:2554523;seqstop2556125+      LYNHLIKTWREEALL
+                                      *****:*********

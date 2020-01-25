@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo8g098940;contig:C8;feat      VQRLIAASPDVLVDDMSYVGKVTAKSYPVKQLHLPSGFIVKPPLPQVIKHRNSSDSDKTD
+seqstart:33984525;seqstop3398551      -QRLIAASPDVLVDDMSYVGKVTAKSYPVKELHLPSGFIVKPPLPQVIKHRSSSDSDKTD
+                                       *****************************:********************.********
+
+geneid:Bo8g098940;contig:C8;feat      QHKMECSAENVVGKLPNQGQGQGQVHHHHQPSNYMMPFATNQPSPNGCYYPPQPPPSGGN
+seqstart:33984525;seqstop3398551      QHKMECSAENVVGRLPNQGQG----HHHQQPSNYMMPFATNQPTANGCYYPPQPPPSGGN
+                                      *************.*******    ***:**************:.***************
+
+geneid:Bo8g098940;contig:C8;feat      QQWLIPVMSPSEGLIYKPHPGPDPG----HTGPVCGGYYGHFMPAPMFMGGGGGQPPPFH
+seqstart:33984525;seqstop3398551      QQWLIPVMSPSEGLIYKPHPGPGPGPGPGHTGPVCGGYYGHFMPAPMFMGGGGGQPPPFH
+                                      **********************.**    *******************************
+
+geneid:Bo8g098940;contig:C8;feat      PGMGFPSHGNGYFPPYGGIMMNPYYSGQQEQQQPNEQMNNNIQQQSSVNEATS-QQQQPT
+seqstart:33984525;seqstop3398551      PGMGFPSHGNGYFPPYGGIMMNPYYSG---QQQPNEQMNNNIQQQSSVNEATSQQQQQPT
+                                      ***************************   *********************** ******
+
+geneid:Bo8g098940;contig:C8;feat      KSYPRAKKSRQEGISGKKKSFQPFLAVDDVHDDKINNAAQPTEEMMTTTTTTTTTVTQTT
+seqstart:33984525;seqstop3398551      KSYPRAKKSRQEGISGKKKSFQPFSAVD---DDKINNAAPPTEEMMTTTTTTTTTVTQTT
+                                      ************************ ***   ******** ********************
+
+geneid:Bo8g098940;contig:C8;feat      RDGAGVTRVIKVVPHNANLASENAARIFRSIQEERKHYYP
+seqstart:33984525;seqstop3398551      RDGAGVTRVIKVVPHNAKLASENAARIFRSIQEERKHYYP
+                                      *****************:**********************

@@ -1,0 +1,50 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g098970;contig:C9;feat      MAFRNDSLIPARDPSTRENKPSSPTIQRGTVPTNTEITIEQSNHPQFLKSIDDLTAFAAA
+seqstart:32700827;seqstop3270295      MAFRNGSLIPARDPSTRENQPSSPTIQRGTVPTNTEITIEQSNHPQFLKSIDDLTAFAAA
+                                      *****.*************:****************************************
+
+geneid:Bo9g098970;contig:C9;feat      MDAFKRHYDDLQNHMDYIKNAIGSSLKFKGIIAESPSSRSQSPRNDASGETATAVAATQS
+seqstart:32700827;seqstop3270295      MDAFKRHYDDLQNHMDYIKNAIGSSLKFKGIIAESPSSRSQSPRNDASGETATAVAATQS
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      PPKETSETVPEISDKVERLCELMCSKGLRRYMYSNISDRAKLIEELPAALKLAKEPAKFV
+seqstart:32700827;seqstop3270295      PPKETSETVPEISDKVERLCELMCSKGLRRYMYSNISDRAKLIEELPAALKLAKEPAKFV
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      LECIGKFFLQGRKAYASDSHMIPARQVSLLILECYLLMLDPSEEKKPIDGSIKDEAEAAA
+seqstart:32700827;seqstop3270295      LECIGKFFLQGRKAYASDSHMIPARQVSLLILECYLLMLDPSEEKKPIDGSIKDEAEAAA
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      VAWKKRMMNEGRLAAAEAMDARGLLLLIACFGIPSSFKSMDLFDLVRKSGTAEIAAALKR
+seqstart:32700827;seqstop3270295      VAWKKRMMNEGRLAAAEAMDARGLLLLIACFGIPSSFKSMDLFDLVRKSGTAEIAAALKR
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      SPFLVPMMSGIIFFLESMSFHYKGGFFCCRMGQDVPIFIFCSLDLKSRIICSQKKMAFSA
+seqstart:32700827;seqstop3270295      SPFLVPMMSGIIFFLESMSFHYKGGFFCCRMGQDVPIFIFCSLDLKSRIICSQKKMAFSA
+                                      ************************************************************
+
+geneid:Bo9g098970;contig:C9;feat      IALEVDHMTVLLHANALSNVRKGLVTGPNTLFYRSVLIVSSVESILKHLGFIPLGRIGFR
+seqstart:32700827;seqstop3270295      IALEVDHMTVLLHANSLSNVRKGLVTGPNTLFYRSVLIVSSVESILKHLGFIPLGRIGFR
+                                      ***************:********************************************
+
+geneid:Bo9g098970;contig:C9;feat      LLRFLHSGARSHLRGQNRKLKHRHLYGPSLPSLTLFFFFFSDSYHCLPFVLLTERGQPKV
+seqstart:32700827;seqstop3270295      LLRFLHSGARSHLRGQNRKLKHRHLYGPSLPSLTLFFLFLF-FLPLFAFCSLNRKRPTKS
+                                      *************************************:*:      :.*  *. .  .* 
+
+geneid:Bo9g098970;contig:C9;feat      F-SCLVISDEVFGGSQLRPRERSTRMADQRANDVGERHSSTRQTD-ARGSK----IHQFN
+seqstart:32700827;seqstop3270295      FLPCY--QSSVW---RLTTTQRKKYKGGRSKSKLSWRKTFFNSTNRCKGKQDPSVWRKQH
+                                      * .*   ...*:   .* . :*..  ...  ..:. *::  ..*: ..*.:     .: :
+
+geneid:Bo9g098970;contig:C9;feat      GGNSIDEEIVPTDETSKVVRHGNATSSFLILFFYLPCPKLPSQRR-----NISSCQLPRA
+seqstart:32700827;seqstop3270295      RRDCITNRNVQGCQTWKCHQQ----LPHLILLPTLPEASLVTETMKYQLLSVVTSSLHQV
+                                        :.* :  *   :* *  .:     ..***:  ** ..* ::       .: :..* ..
+
+geneid:Bo9g098970;contig:C9;feat      F-TRFSSSVKSQEFPIFSSTWFRKKCTCIASASNFLPSPSKTALSGSRTETSWRVLSSYS
+seqstart:32700827;seqstop3270295      FLIGQVSGVPLNILHLVVEEVYLHMSICLQLLT--FPFQDGTLRFTDRDFLESTLLLFMG
+                                      *     *.*  : : :. .  : : . *:   :  :*  . *    .*   .  :*   .
+
+geneid:Bo9g098970;contig:C9;feat      WARTNII----WSSTKGLQTFTICRKILGFAQSQVSSLI
+seqstart:32700827;seqstop3270295      KNKYHMVVYKGFTDIHHLKDTWVC-PITGLLVTH-----
+                                      . . :::    ::. : *:   :*  * *:  ::     

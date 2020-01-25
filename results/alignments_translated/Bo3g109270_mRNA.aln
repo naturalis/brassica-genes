@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g109270;contig:C3;feat      MDPEGFTSGLFRWNPTRVMVQAPAPIPPPQQQSPATPQTAAFGMRLGGLEGLFGPYGVRF
+seqstart:38842024;seqstop3884452      MDPEGFTSGLFRWNPTRVMVQAPTPIPPPQQQSPATPQTAAFGMRLGGLEGLFGPYGVRF
+                                      ***********************:************************************
+
+geneid:Bo3g109270;contig:C3;feat      YTAAKIAELGFTASTLVGMKDEELEDMMNSLSHIFRWELLVGERYGIKAAVRAERRRLQE
+seqstart:38842024;seqstop3884452      YTAAKIAELGFTASTLVGMKDEELEDMMNSLSHIFRWELLVGERYGIKAAVRAERRRLQE
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      EEEEESSRRRHLLLSAAGDSGTHLALDALSQEGTIIVNICISITFFFESCNINIFPNVYM
+seqstart:38842024;seqstop3884452      EEEEESSRRRHLLLSAAGDSGTHLALDALSQEGTIIVNICISITFFLKAV-IIYFPTFYT
+                                      **********************************************:::  *  **..* 
+
+geneid:Bo3g109270;contig:C3;feat      HCSILCKAVNKYRSIYVHLTGRYRLMNLCM-------IGYYQQLYTC---MIFWATFVFL
+seqstart:38842024;seqstop3884452      CIANLFNYARLSTNIDLYM---FTLVDIGLILALVTNISNYILVYSSGQHLFFDCQMLQI
+                                        : * : ..   .* :::   : *::: :       *. *  :*:.   ::* . :: :
+
+geneid:Bo3g109270;contig:C3;feat      S-NVTSNTCIVELFVNMQLQSAFIRPVARSTRINYILCKIQILNVSFYLYKI-KFAIVTK
+seqstart:38842024;seqstop3884452      RVNYLYRVCNCSLLFKLDLLQEVRGLIIYCAKSKYTY----LFNIYIKSLRLQKYVMTGQ
+                                        *   ..*  .*:.:::* . .   :  .:. :*      ::*: :   .: *:.:. :
+
+geneid:Bo3g109270;contig:C3;feat      VCIDDWTGLSQEPVQHQDQTDAAGINGGGRGGYWEAGQTTIKKQQQRRRKKTIVTSVETD
+seqstart:38842024;seqstop3884452      GCHRSRFSTKIRLMRRGSTAEEEEVI--GKQGRRQKSNSRDAERKRLRQWKLMMTATKV-
+                                       *  .. . .   :.. . ::   :   *. * .: .::   :.:. *..* ::*:.:. 
+
+geneid:Bo3g109270;contig:C3;feat      DDGNEGEDDDGMDVVNGSGSGMERQREHPFIVTEPGEVARGKKNGLDYLFHLYEQCRE--
+seqstart:38842024;seqstop3884452      ------RMTTGWILLTEVGQGWRDKGSTRLLRSQGKHVAKRT------VWIIFSTCTNSA
+                                                *  ::.  *.*   : .  :: ::   **. .      :: ::. * :  
+
+geneid:Bo3g109270;contig:C3;feat      ---FLLQVQTIAKDRGEKCPTKVSFVYQ-PILAVRLLYIIIFIKYIHFGVGLVGKPPSWT
+seqstart:38842024;seqstop3884452      ASSFFRSRPLLKIVAKNALPRYLSFINRSPYANFTLSFLNIYILVSDW-----GNPPSWT
+                                         *: .   :     :  *  :**: . *   . * :: *:*    :     *:*****
+
+geneid:Bo3g109270;contig:C3;feat      AVLKQVQVMSSAIFRYYFCFIFFRYVWQRFIVLILCLHSEILDFFSFF----VTILYSIS
+seqstart:38842024;seqstop3884452      AVLKQVQVMSSEIFRYYFCFIFFRYVWQRFIVLILCLHSEILDFFFFFNINIVILDFNLM
+                                      *********** ********************************* **    * : :.: 
+
+geneid:Bo3g109270;contig:C3;feat      ICFVRVTVRQRVELGNDTVVLLFLPKTTRDSKIRCPHAFFFWGKCPHAFRFNICMYFTYL
+seqstart:38842024;seqstop3884452      FCKSHRTTTCRVRETTQSFFCFYLKRHEI-VRYDVLMHFFFLGKWPHAFRFNICMYFTYL
+                                      :*  . *.  **   .::.. ::* .     .      *** ** ***************
+
+geneid:Bo3g109270;contig:C3;feat      LTIYR-LLCAICIIQSITQWVIKSLLPHSTESMSSVPFACADARYKYEVYRRKPIKVIFL
+seqstart:38842024;seqstop3884452      LTLYRYLLCAICIIQSITQWVIKSLLPHSTESMSSVPFACADARYKYEVYRREPIKVIFL
+                                      **:** **********************************************:*******
+
+geneid:Bo3g109270;contig:C3;feat      SEDITSNIYLNYILVLFLC-KRLFIIKYFFMIWKNMIGDEPGVQVREIGGKLHKAKNATL
+seqstart:38842024;seqstop3884452      SEDITSNIYLNYILVLFLCYKRLFIIKYFFMFWKNMIGDEPGVQVREIGGKLHKAKNATL
+                                      ******************* ***********:****************************
+
+geneid:Bo3g109270;contig:C3;feat      RSLLRTPLPRRRSFKRSPKSVRTRERWVVAAGLLQATCGHCLSSWLGYRRRFRSSSPFHL
+seqstart:38842024;seqstop3884452      RSLLRTPLPRRRSFKRSPKSVRTRERWVVASGLLQATCGHCLSSWLGYRRRFRSSSPFHL
+                                      ******************************:*****************************
+
+geneid:Bo3g109270;contig:C3;feat      VCSHAASALPFGAEQCGCCGCDFGWWYLRGIACVWTLWGL
+seqstart:38842024;seqstop3884452      VCSHAASALPFGAEQCGCCGCDFGWWYLRGIACVWTLWGL
+                                      ****************************************

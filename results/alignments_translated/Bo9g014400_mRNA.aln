@@ -1,0 +1,74 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g014400;contig:C9;feat      MGRGRVQLKRIENKINRQVTFSKRRSGLLKKAHEISVLCDAEVALVVFSSKDKLFEYSTD
+seqstart:4331016;seqstop4333328+      MGRGRVQLKRIENKINRQVTFSKRRSGLLKKAHEISVLCDAEVALVVFSSKGKLFEYSTD
+                                      ***************************************************.********
+
+geneid:Bo9g014400;contig:C9;feat      SRLLSNGFIRKPYIILYIHIDLIIHLFSFFSKICFISVCLNLDLNLVPLCCISTVDLFFP
+seqstart:4331016;seqstop4333328+      SRLLSIGFIRKPYIILYIHIDLIIHLFSFFSKICFISVCLNLDLNLVPLCCISTVDLFFP
+                                      ***** ******************************************************
+
+geneid:Bo9g014400;contig:C9;feat      EVAREIRVFWGFDVRTHEKAVYVKIANYDTLYTDSRFDCLFCMQGRAHRHVRYMYITCII
+seqstart:4331016;seqstop4333328+      EVAREIRVFWGFDVRTHEKAVYVKIANYDT-YTDSRFDCLFCMQGHAHRHVRYMYITCVI
+                                      ****************************** **************.************:*
+
+geneid:Bo9g014400;contig:C9;feat      VNQHTFESKRKVDLKQWNKHLQGYAIIHWILTYMVRTDINAFLSLYIYLFELKCTYICLY
+seqstart:4331016;seqstop4333328+      VNQHTFESKRKVDLKQWNKHLQGYAIIHWILTYMVRTDINAFLSLYIYLFELKCTYICLY
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      DHIHIYHTVCLDNRVRLRLNLYAYFLLVDSPKPGFIYIFVLYANFRSFVSIPNNVIKLLA
+seqstart:4331016;seqstop4333328+      DHIHIYHTVCLDNRVRLRLNLYAYFLLVDSPKPGFIYIFVLYANFRSFVSIPNNVSSWLT
+                                      ******************************************************* . *:
+
+geneid:Bo9g014400;contig:C9;feat      NTLQINVTHYNAFEISDIHGSNSIFLFFSLKYSMERILERYDRYLYSDKQLVGRDISQSV
+seqstart:4331016;seqstop4333328+      LCDKL------MLHITTRLKSNLIY--------MDQINEVYFDCFFSE--IHGKDTA---
+                                         ::       : *:    ** *:        *:.* * *   ::*:  : *.* :   
+
+geneid:Bo9g014400;contig:C9;feat      SFKLCFFMFMYSVLLSYVYFVVTSFYHIYQLMLENWVLEHAKLKARVEVLEKNKRYIINT
+seqstart:4331016;seqstop4333328+      ---ISLFIFRQTT---------------------CWPRHFTKCKFAL--------FLLDV
+                                         :.:*:*  :.                      *   .:* *  :        ::::.
+
+geneid:Bo9g014400;contig:C9;feat      YVVPYRLQVHYVKLRLINLCFNQIAVRKLIQFGSLVLMVKNRNTLHISTRLAICVLDPNN
+seqstart:4331016;seqstop4333328+      YV-------------LISLA-------------------------------QLCIFCSNF
+                                      **             **.*.                                :*:: .* 
+
+geneid:Bo9g014400;contig:C9;feat      VHFLYGKLMVKLGVISDRRGNIITSTLVTSVITNQKTEMCRNFMGEDLDSLSLKELQSLE
+seqstart:4331016;seqstop4333328+      LSYISINVVGKLGSRACAQGK-----------SGTKEKVYYKYICSAISSSS--------
+                                      : ::  ::: ***  :  .*:           :. * ::  ::: . :.* *        
+
+geneid:Bo9g014400;contig:C9;feat      HQLDAAIKSIRSRKVIRERYTSTCLCKYLDRKVRFLAMSLSNLFCLMNLYLQNQAMFE-S
+seqstart:4331016;seqstop4333328+      ---------------------ALCQIKIVDQSV-----------------LSNRSLTTYS
+                                                           : *  * :*..*                 *.*.::   *
+
+geneid:Bo9g014400;contig:C9;feat      ISALQKKVKCLNIHHQNNLFIYILAYFICVPQKKEKYFISFKCIRIRPCKITIIRFSKRL
+seqstart:4331016;seqstop4333328+      ICFLSPNGKKSHITHKLN--------------------TCYLCLGSSQCSFS--------
+                                      *. *. : *  :* *: *                     .: *:    *.::        
+
+geneid:Bo9g014400;contig:C9;feat      VFELNGYNFKTGLKVENEIIYNNILYQYLTKFYIRLFLYYYSIRIYIYITYVSKILIYI-
+seqstart:4331016;seqstop4333328+      VWKIDGKTWRN-IRVAR---HNYKYTGYISDHSENNVQEFYGGRSFLEPKGASKLGASAR
+                                      *::::* .:.. :.* .   :*     *::..  . .  :*. * ::  . .**:     
+
+geneid:Bo9g014400;contig:C9;feat      ILYKFYKNISNRSGFVFIYCFYPF-SNTKLFIYYYFIPMLKTIRHQYNRLYFLIQPT--K
+seqstart:4331016;seqstop4333328+      RCYQEHVKKGNTRTLVHIYMSMIFRSKSEVFGYEF---ELKSVIVLFNEFVIFAEPSYVR
+                                        *: : : .*   :*.**    * *::::* * :    **::   :* : :: :*:  .
+
+geneid:Bo9g014400;contig:C9;feat      HRLVAKLWGLVVDRWYPRPYLFLKHISNQALFFFSETTVLEITYSCTSALQSQISKAIVY
+seqstart:4331016;seqstop4333328+      IHISAPEEGKVSQ---------LDTSSKQFIYIY-----ILAYFICVPQKKKNNNKNTLY
+                                       .: *   * * :         *.  *:* ::::     :   : *..  :.: .*  :*
+
+geneid:Bo9g014400;contig:C9;feat      FANSTAIKSKATVITNRTLYYTVWYINSNINLDKHTNIYCFCLLGIIFNYTQLYLTSEWL
+seqstart:4331016;seqstop4333328+      HLNVSGGLARSQYASQKGFLNMVICNLKRDRLKMKFTIICYISISPNFTSKDYF------
+                                      . * :.  :.:   ::. :   *    .. .*. : .* *:  :.  *. .: :      
+
+geneid:Bo9g014400;contig:C9;feat      CFYCIEHIILIYNTNYIYIVSKYETKHAIRTSVVLTTTKTIIMIDGEGKGEEHGSARRTI
+seqstart:4331016;seqstop4333328+      --------------NYI-TIAEYKYEH---------------------------------
+                                                    ***  :::*: :*                                 
+
+geneid:Bo9g014400;contig:C9;feat      NPMLQQFFSSSAPVLRNLLQVSSLSLSVAFITFRLLIHLLWKILIHNYLMGRDGLVERVG
+seqstart:4331016;seqstop4333328+      --MSLKYFSKFS---KSFIKISAIEVVN--------------------------------
+                                        *  ::**. :   ..::::*::.:                                  
+
+geneid:Bo9g014400;contig:C9;feat      GENGGASSLIGPNSLLPAWMLRPATNE
+seqstart:4331016;seqstop4333328+      ---------------------------
+                                                                 

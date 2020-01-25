@@ -1,0 +1,38 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo7g008410;contig:C7;feat      PVLAVRSICKKASLCRFHSCVKNATVSRKRHRVSGRVTQLQEKRVSFDEQAASSPHPRRR
+seqstart:2557819;seqstop2559433+      PVLAVRAICKKASLCRFHSCLQDATVSRKRHRVSGRVVKLP-RWVSSDEQAASCPYPRRR
+                                      ******:*************:::**************.:*  ..** ******.*:****
+
+geneid:Bo7g008410;contig:C7;feat      DHSFHRRSLLHRRRNSRPLSRLVYKTNSKKISLICLCFTNRRSQRLSWTRWYI-SERGNS
+seqstart:2557819;seqstop2559433+      DHSFHRRSLLHRRRNSRPLSRLVYKTNSKKISLICLCFTNRRA-CFSGTMWNIRAERGYS
+                                      ******************************************:  :* * * * :*** *
+
+geneid:Bo7g008410;contig:C7;feat      SQDIVKADS-PHCIGRLRVSAAKVDKERRVENGLSKHVGHRSHTCSRECSRCKEDRLGET
+seqstart:2557819;seqstop2559433+      SQDTVSVGSVRYCISGLCVPAAGY-KERCVENGLSKHVGHRSYTCSREYSR-KEDWMGAI
+                                      *** *...*  :**. * *.**   *** *************:***** ** ***.:*  
+
+geneid:Bo7g008410;contig:C7;feat      GSRVHNASNCVEEVFVWRYRRAFPVLQRLCGWEDCYLRRGRCEHATDEYVCVGSWVNYSV
+seqstart:2557819;seqstop2559433+      GPRVYHTSKCVEEVYFWRY-CAFPVLQRMCGWEDCYLWWGRCEHATDEYVRVGPWLS-PV
+                                      *.**:::*:*****:.***  *******:********..*********** **.*:. .*
+
+geneid:Bo7g008410;contig:C7;feat      EICFGLSSSWSLGSYALLCQRLSSSSLWRLREPWITQRCLHVRPCRPSYMERSIRFSPSN
+seqstart:2557819;seqstop2559433+      EIRSGLSSSWSLGSHPFLCRRIPFSSLWRLREPWVTQRCLLVRPCRPSYMERSIRFSPSN
+                                      **  **********:.:**.*:. **********:***** *******************
+
+geneid:Bo7g008410;contig:C7;feat      TKIMALVHT-WNQADCIWWLCFRSFAERYVLAFVNGYTNLEGDTCSMVSSISPWTYLNRV
+seqstart:2557819;seqstop2559433+      TKIMALVHTRWNQADCIWWLCFRSSTQRHILAPFDGYTNLEGDTGSLVSSISPWTYLNRL
+                                      ********* ************** ::*::** .:********* *:************:
+
+geneid:Bo7g008410;contig:C7;feat      RPEDPYVRWSCKIRNFEIPVRCLHDGSRG-TVLETCDWVWIPSWRHGSSTTEARSCGGPS
+seqstart:2557819;seqstop2559433+      WPQDPHVWWSCEIGNFEIPLRCIHDGSKQRTMLETCDWVWIPSGRHGSSTTEARSCGGPS
+                                      .*:**:*.***:* *****:**:****.  *:*********** ****************
+
+geneid:Bo7g008410;contig:C7;feat      RWSLDIWRFGCRA-LCFSALYSSYGGDSGVEDTECGMSTADCVGAHHLCGGRDVGHLRWS
+seqstart:2557819;seqstop2559433+      RWSLDIWWFGCRACLGFSALSSSCRG-SGMEDIECGKSTTVCVGTHHLCDRRNVGHLRWS
+                                      *******.***** * **** **  * **:** *** **: ***:****. *:*******
+
+geneid:Bo7g008410;contig:C7;feat      NRRRVDAKSSIVVSYLYYIVKTREEGLL
+seqstart:2557819;seqstop2559433+      NRRRVDAKSSIVVSYLYYIVKTREEGLL
+                                      ****************************

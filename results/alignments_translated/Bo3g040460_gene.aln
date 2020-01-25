@@ -1,0 +1,86 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g040460;contig:C3;feat      MARISSDPLMVGRVIGDVVDNCLHAVKMTVTYNSDKQVYNGHELLPSVVTNKPKVEVHGG
+seqstart:16649310;seqstop1665311      MARISSDPLMVGRVIGDVVDNCLQAVKMTVTYNSDKQVYNGHELFPSVVTNKPKVEVHGG
+                                      ***********************:********************:***************
+
+geneid:Bo3g040460;contig:C3;feat      DMRSFFTLVRIFFVSAHCYAYLIVSHIYIHTHKYCLIICFLYITFSVSCSSWNTIFVSSL
+seqstart:16649310;seqstop1665311      DMRSFFTLVRIFFVSAHCYAYLIVSHIYIHTHKYCLIICFLYITFSVSCSSWNTTFVSSL
+                                      ****************************************************** *****
+
+geneid:Bo3g040460;contig:C3;feat      GFCIETKYMRLRGGCWEMNLYKVYEFKKLIDLRSYVDCENLYRLTYEISLFISIDFHQFV
+seqstart:16649310;seqstop1665311      GFCIETKYTRLRGGYWEMNLYRIYEF-KLIDLKSYADCENLYRLTYEISFFISKYFHQFV
+                                      ******** ***** ******.:*** *****.**.*************:***  *****
+
+geneid:Bo3g040460;contig:C3;feat      LHLFLSFFLSSKYIYFFVICMILY-FFLNKKNKIGKFSIVSFCHKKQSKRKMIKNVSLKR
+seqstart:16649310;seqstop1665311      LHFILSFFLSSKYIYIFSKSFEFFIFFFIKKNKIGQFSIVSFCHKKQSKRK--KKCFIKK
+                                      **::***********:*  .: :: **: ******:***************  *:  :*.
+
+geneid:Bo3g040460;contig:C3;feat      QKTILPFPL-------IYKKKVFFFQIICLIRSFYN-FLVIFRIFFIFLLVN-YMFSNSN
+seqstart:16649310;seqstop1665311      AKDYFTFSFIDILIIKIIKKVFFFISNYMFINSFLHLFFSSFSIFLFFVSLELYGFKFEL
+                                       *  :.*.:       * ** .**:.   :*.** : *:  * **::*: :: * *. . 
+
+geneid:Bo3g040460;contig:C3;feat      FF-KKTDFRKTIIFEIQKCILKLFLKF--YFYFNIYNYNYIFENDKIIILCIKMKYIKLI
+seqstart:16649310;seqstop1665311      FFLKKFDFKN---YFNSKIFFELFLIFINIIYFLIYFKKFIF---KILIFINIIIYSKMI
+                                      ** ** **.:   :  .* :::*** *   :** **  ::**   **:*:   : * *:*
+
+geneid:Bo3g040460;contig:C3;feat      IFLGIFGFKMKKIFGKNNYFVFFFIT----WILKISWIHMIFKSY---------------
+seqstart:16649310;seqstop1665311      KYKYNFLLKCKNINCNELYFWVYNLDLKKIYLVRITILFSSFLSHGFKSHRYIYFESVLV
+                                       :   * :* *:*  :: ** .: :     :::.*: :.  * *:               
+
+geneid:Bo3g040460;contig:C3;feat      --EKIKFISQHKNLEFRESIITKLFEQWIMDFENST--NNNGFYKFNPRTNNNGISKIHE
+seqstart:16649310;seqstop1665311      KINKIHLPITLDLVRIRESIITKLFVQLTMDLNGSKLLNQQILLKVLKSKNQIKFLNFNS
+                                        :**::    . : :********* *  **::.*.  *:: : *.   .*:  : :::.
+
+geneid:Bo3g040460;contig:C3;feat      NSLTKTPVS--YIYFGGI--CRNTKLGKVCDRLRVIDWTLSPYFNFIYFITKLYQSCCTF
+seqstart:16649310;seqstop1665311      EFTNQNPISKLCLFWGHLKYIKARSLHIRGDWLGFISL-------LLYLLLNHTLPSCSF
+                                      :  .:.*:*   :::* :   .  .*    *.* .*.        ::*:: :   ..*:*
+
+geneid:Bo3g040460;contig:C3;feat      IFNSNLNQVSINFYKSCFTFIFKATAKNL-SKIFFNVF-VKNLKLSFINCRICRIKNYLY
+seqstart:16649310;seqstop1665311      IFNSNLNQVSINFYKSCFTFLFKATAKKPKANFFFNVFYVKNLKLSFINCRICGIK----
+                                      ********************:******:  :::***** ************** **    
+
+geneid:Bo3g040460;contig:C3;feat      QINIIIIKTSIN-------IFN--FGCCKNYNILNKIYIIYIHILNNNKFEFIRNININY
+seqstart:16649310;seqstop1665311      --KLSIISNKLDNHNKKHVIFNSILGVVKIIEIFIKYILFTYHILNNNKFEFIKNININY
+                                        :: **...::       ***  :*  *  :*: *  ::  ***********.******
+
+geneid:Bo3g040460;contig:C3;feat      LNDKKIIILYIHHRFYIFYFKISTSYNLQLQQILQQKSLRKSLQQLYSYNQFTYNKTFIA
+seqstart:16649310;seqstop1665311      LIDEK--FFYIYHRFYIFYFKISTAYNLRVQQILQQKSIVTTLLQLYSYNQFTYN-TFTA
+                                      * *:*  ::**:************:***.:********: .:* *********** ** *
+
+geneid:Bo3g040460;contig:C3;feat      KFSRSTNHHQYHHSLLLVNITSYSMINPGLLGWGSWKLRNCLLIFNKSEPVLKGFEPVLS
+seqstart:16649310;seqstop1665311      KFSHSTNHHQYHYSLLLVNITS-SMINPKFLG-SSRKLRNCFLIFNKIEPVLKGLEPVLS
+                                      ***.********:********* ***** :** .*.*****:***** ******:*****
+
+geneid:Bo3g040460;contig:C3;feat      FFSKLRNSFLISAKNCTLKTPGSWSSTNSQNYSLDNNFFVYYFFSTQRS-----------
+seqstart:16649310;seqstop1665311      FFSKLRNSFLTSAKNPTLRTPSSWCDTNSQNFSLDNNFLFIMSFQPRGHPNLVRHPLFRY
+                                      ********** **** **.**.**..*****:******:.   *...             
+
+geneid:Bo3g040460;contig:C3;feat      --LAFSKTLTIVLEVHSYNDHDETNITCGLGLERLRGSYKKKFKKLIIHLSEIKLKLIFF
+seqstart:16649310;seqstop1665311      TVIMTTETKLILHNVVWVKDYGDSSIQ----KKKIEINYSSILRNLKIKIN----LMIFF
+                                        :  ::*  *: :*   :*:.::.*      :.:  .*.. :.:* *::.     :***
+
+geneid:Bo3g040460;contig:C3;feat      LKNIMVEYIFI--IYINDRFFIDDIFKMVHKIIFHETPFVFIILAFAHIEFFFSPFVLVP
+seqstart:16649310;seqstop1665311      EDNIMVEYIFLENIYIFHR-YINGTNYISNSII----CFYYLVSICSHIFFFHHLYSFQK
+                                       .********:  ***  * :*:.   : :.**     * :::   :** **.  : :  
+
+geneid:Bo3g040460;contig:C3;feat      ETGVANTCDVIYTGCLIIHDY--RIFQTGHDSCSWTPLSEGALAL-VKFVLFNFCKTCDC
+seqstart:16649310;seqstop1665311      QALQIHVMSYILGVYFMIIEYFKQVMTDPDVPGPSDPYLREHLHWNLFFSIFVKRHVIAY
+                                      ::   :. . *    ::* :*  .::     . .  *     *   : * :*   :.   
+
+geneid:Bo3g040460;contig:C3;feat      IYIYKFLQY---QPQDCYGYPRDNRRDIWIIYTKANQTNVVAYNYAFVTTFIYDTVF-PN
+seqstart:16649310;seqstop1665311      LYIYIYIVFAMTKRRIVTDIPGTTDVTFGKSYIQKQIKQMSHINYAFVTTFIYDTVFEPN
+                                      :*** :: :   : .   . *  .   :   * : : .::   ************** **
+
+geneid:Bo3g040460;contig:C3;feat      TLYCRGLVIIHALLHPSSIFRVKNTSNYFLKIYKLLGLYVIVCINCMCVFC--RQKSFHI
+seqstart:16649310;seqstop1665311      SLYCRGLVIIHALLHPSSIFRVKIQVTTFSKYTNNYNVYMSSSVTVCVYFADGKRVNFIM
+                                      :**********************   . * *  :  .:*:  .:.    *.  .. .* :
+
+geneid:Bo3g040460;contig:C3;feat      NVNFYKIQNRKGNSSVRDASAKHRDPPICVFAFQAELRKCDFCAVLQRPIQHSNVCTCER
+seqstart:16649310;seqstop1665311      STDF-DIKKYKTGKEIVGYEMPRPNIGIHRFVYLLFKQNCR-GSVISVPSYRDQFNTRMF
+                                      ..:* .*:: * ...: . .  . :  *  *.:    .:*   :*:. *  ..:. *   
+
+geneid:Bo3g040460;contig:C3;feat      SRP-----PRCSCFLQLPANRCTPL-
+seqstart:16649310;seqstop1665311      AHENDLGLPVAAVFFNCQRETAARRR
+                                      :.      * .: *::   : .:   

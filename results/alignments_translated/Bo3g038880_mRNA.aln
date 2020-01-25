@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g038880;contig:C3;feat      MVRGKTQMKRIENATSRQVTFSKRRNGLLKKAFELSVLCDAEVSLIIFSPKGKLYEFASS
+seqstart:15426770;seqstop1542918      MVRGKTQMKRIENATSRQVTFSKRRNGLLKKAFELSVLCDAEVSLIIFSPKGKLYEFASS
+                                      ************************************************************
+
+geneid:Bo3g038880;contig:C3;feat      KYVLFFIYLYIIYRERLREKERKFYLYPLVYIISWLFVESHLPLTFAREGKSCLVSTILG
+seqstart:15426770;seqstop1542918      KYVLFFIYLYIIYRERLREKERKFYLYPLVYIISWLFVESHLPLTFAREGKSCLVSTILG
+                                      ************************************************************
+
+geneid:Bo3g038880;contig:C3;feat      LLLKTKYILFNPLRYVSLIYSFIIDKSN--AKELSDKYLHLLYKCLIILDLIRDHDHAQY
+seqstart:15426770;seqstop1542918      LLLKTKYILFNSLRYVSLIYSFIMIKVKMPKNSLTSTCTCYINVSSILLEIMIMHNRTPV
+                                      ***********.***********: * :   :.*:..    :  . *:*:::  *:.:  
+
+geneid:Bo3g038880;contig:C3;feat      DSLSFVCRFHQKS------LCCNHILLHGLSGYCYCFKKKS--IALSDSELVLSILIDKS
+seqstart:15426770;seqstop1542918      LYVGFIKSHNYVAISIFFCMVCNDIVI--------AFRKKNHRLLVIVRNLFYQSLINQA
+                                        :.*:  .:  :      : ** *::        .*.**.  : :   :*. . **:::
+
+geneid:Bo3g038880;contig:C3;feat      GMFHFMRMPIVQLNYMFCSHCFSTIFFCIE-TIKPESNCRLFEERSYFVVLGRRETKLTF
+seqstart:15426770;seqstop1542918      -CFISCACLICSITCFVPTVFLPEFFFALKLSQNLIVDCFRNEKEVILCVEGKPN-----
+                                        *      * .:. :. :  :. :**.:: : :   :*   *:   : * *. :     
+
+geneid:Bo3g038880;contig:C3;feat      DESLLLLIEKDSFSDVSEDLSIWESNSFSQQTLKLKRRIYFFSKMWGINQLIHDLPKY--
+seqstart:15426770;seqstop1542918      ----LLLMNHYYFCKKRTAF-----DQMFQKICPFGKVILSLNKPNNRDAYISDFPKCGE
+                                          ***:::  *..    :     :.: *:   : . *  :.* .. :  * *:**   
+
+geneid:Bo3g038880;contig:C3;feat      -------VLKKTCDYINERLFCSYIVFF------SWRNIELVSYNLLTSQMSYFQCVLTV
+seqstart:15426770;seqstop1542918      SMTYQSMSLRRPVITLTKKDFSVLILFFLVGEILSWFLTICLNLRVIFNAFQYARYRRSL
+                                              *...   :.:. *.  *:**      **     :. .:: . :.* .   ::
+
+geneid:Bo3g038880;contig:C3;feat      CKIPIVIGTPRIESAAIRFLKKICRLIVILHTRF---IQLQYKSRMAEKTITVSLPVFNL
+seqstart:15426770;seqstop1542918      SKAH--QGSSQQQTGFRKYAGVSC--IPVSYNNFNTKVEWLRKQSLSHCLYLISMPHISI
+                                      .*     *:.. ::.  .:    *  * : :..*   ::   *. ::     :*:* :.:
+
+geneid:Bo3g038880;contig:C3;feat      NATYYLNVIFSSHILKIMTCNLLYNHQHFKHEAANMMKKIEQLEASKRFVIHYSHIVHLY
+seqstart:15426770;seqstop1542918      SMSF-----FQATYKHATFCDITISISNMKQQT----RKLNNLKRPNGL----STTVTSY
+                                      . ::     *.:   :   *::  . .::*:::    .*:::*: .: :    *  *  *
+
+geneid:Bo3g038880;contig:C3;feat      YCI--YISCSKRLVVFSKCFFLLLVNSWEKAEHARLRSCSKLSNNSRKVSNVFEQERYLC
+seqstart:15426770;seqstop1542918      TCITVYISCSKRLVVFSKCFFLLLVNSWEKAEHARLMSCSKLSNNSRKVSNVFEQERYLC
+                                       **  ******************************* ***********************
+
+geneid:Bo3g038880;contig:C3;feat      VCVFIYHPHIIVLIAIITLTLLISFRIKCLRNKVSSSSRRRAWCSFPTSSCTFFYKKLCR
+seqstart:15426770;seqstop1542918      VCVFIYHPHIIVLIAIITLTLLISFRIKCLRNKVSSSSRRRAWCSFPTSSCTFFYKKLCR
+                                      ************************************************************
+
+geneid:Bo3g038880;contig:C3;feat      RKLLQKTRSSLKRYNIFYTRISHMVLKLGLYLHIVLCCSFIIVRIWFSFGLLGETPYSNS
+seqstart:15426770;seqstop1542918      RKLLQKTRSSLKRYNIFYTRISHMVLKLGLYLHIVLCCSFIIVRIWFSFGLLGETPYSNS
+                                      ************************************************************
+
+geneid:Bo3g038880;contig:C3;feat      SWLVFSHYISIIIPRSFMCLFY--FLCIYFCMHNYLFYYCSGDLMKSNFGRIRTKKVDEV
+seqstart:15426770;seqstop1542918      SWLVFSHYISIIIPRSFVFVLFSLHLLILYALLIIILLLQWG-FLEIEFWSNKNQESGRG
+                                      *****************: :::  .* * :.:   ::    * ::: :*   ..:: .  
+
+geneid:Bo3g038880;contig:C3;feat      ARTVAQVLK-RHNCSLGYLVLQES
+seqstart:15426770;seqstop1542918      GEDSSPSFEVETQLFIGLPCYSRK
+                                      .   :  ::   :  :*    . .

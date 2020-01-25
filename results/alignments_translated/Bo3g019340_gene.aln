@@ -1,0 +1,62 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g019340;contig:C3;feat      MQAASVISFSLFDVVVGSFSFGEQRTNPHFILFYFIFIHLFFNILKFSMFYSCMALLSLK
+seqstart:6607067;seqstop6609023+      -------AFRSL-------------TRRRFHRNCLIYEHKRF-ISRVGFFRSSSLLKFFG
+                                             :*  :             *. .*    :*: *  * * ...:* *.  *  : 
+
+geneid:Bo3g019340;contig:C3;feat      TEYSWILCLYVHFIHVLENESFMVLP--FGCLNILILEKNNLKNKNLSFIDLFCSSGSWV
+seqstart:6607067;seqstop6609023+      ---SWVVETY-RFRQSLK---LLFLPHLFGSIELLLLP----------------------
+                                         **::  * .* : *:   ::.**  **.:::*:*                       
+
+geneid:Bo3g019340;contig:C3;feat      LIHFSLVFFIELCCDGFLTLHYLILCPKTDLQLSKIWRFDSNVGPEEDMDPSSFQRTSSS
+seqstart:6607067;seqstop6609023+      ---------LQVSC-----------------------------------APSFLKRKVVA
+                                               :::.*                                    ** ::*.  :
+
+geneid:Bo3g019340;contig:C3;feat      SCRRERLLSSHCSSFMRLFREAFKSMFPTGLLGQVRILYLANRPDTCNKHALRSLTRRSF
+seqstart:6607067;seqstop6609023+      --REEN--STHCPS---------------------------------SQKKLRSFTRGAE
+                                        * *.  *:**.*                                 .:: ***:** : 
+
+geneid:Bo3g019340;contig:C3;feat      HQNCFIYEHQRFISRIGFVVRRHCNFWFMGCDLSFSLTKLKTFVLTTLVLGLKYCAFAFA
+seqstart:6607067;seqstop6609023+      MRRSYA---QRWVKRESTLVPNQ--------------NSLKTYSISSLVLSVKPRVLTVK
+                                       ...:    **::.* . :* .:              ..***: :::***.:*  .::. 
+
+geneid:Bo3g019340;contig:C3;feat      FAGVVCTEFPKKKGLSVSERRELIHALSKQPEEASELLNSWSRDEIMKIICAEMGKERKY
+seqstart:6607067;seqstop6609023+      ARG------RNRRRLLVTSSAARILV-----EQRSEVKIPFV-EDVLAVFVRTLMRIKIV
+                                        *       :.. * *:.    * .     *: **:  .:  :::: ::   : . .  
+
+geneid:Bo3g019340;contig:C3;feat      TGLAKPKLIENLLNLVSRPLGE---------TSCPNRKSSRKKQKTTTSYIICCENLACR
+seqstart:6607067;seqstop6609023+      YGLLVRVVVCLVIWSVLRKMGMGLGLMMVVFTACFAAKIVIFSGKIL--LVICWEKVMC-
+                                       **    ::  ::. * * :*          *:*   *    . *     :** *:: * 
+
+geneid:Bo3g019340;contig:C3;feat      AALGSEDTFCRRCSCCVCQNFDENKDPSLWIACEGCGLSCHLECALKEDGYGIGYNDGSF
+seqstart:6607067;seqstop6609023+      -------VWTYRCWRKQVNVAKETRHVD--VLCYRVSLGQKLLRGTR-----------RY
+                                             .:  **     :  .*..  .  : *   .*. :*  . .            :
+
+geneid:Bo3g019340;contig:C3;feat      HCVFCGKDSDLLGDSFGIDLLGEGNV-IMMCVDLQMLEEASEGCERDWACGCTLLP-CFS
+seqstart:6607067;seqstop6609023+      QNLL-----ELMDEA--VKKL-EGDVGPLVSWEMKM----ARGIVNRLASGSQVQKLCYL
+                                      : ::     :*:.::  :. * **:*  ::. :::*    : *  .  *.*. :   *: 
+
+geneid:Bo3g019340;contig:C3;feat      RTEAVARY-KEVSESVGTHGGGAEAGGYGSVSELGYEDGSGDCQTCFGITSSEAVFSGNG
+seqstart:6607067;seqstop6609023+      AMEALDKMVSPLSESV----------------------------------------SGQG
+                                        **: .  . :****                                        **:*
+
+geneid:Bo3g019340;contig:C3;feat      SSQHGLTIIRICFRTRLVLCSLITYVLKSEDVDFGSRVTYVEKR--------SKQDQSLD
+seqstart:6607067;seqstop6609023+      FSVHSL----LMFSPKMLTLALVRHIERESRRD-PSKISHCEIRLRGAVFFFAKPDHGCE
+                                       * *.*    : * ..::  :*: :: ...  *  *.::: * *        :* *:. :
+
+geneid:Bo3g019340;contig:C3;feat      TPRSRLLLRKTGSRVRMMEMKQGTGNAYQTLAVVFVVIHLCLKMNPTMSVKAAAKKIATI
+seqstart:6607067;seqstop6609023+      GWRS----REQATPIDKLQWSLS----------IFARIQQCQKL------LQRKRQQRTL
+                                        **    *: .: :  :: . .          :*. *: * *:          .:  *:
+
+geneid:Bo3g019340;contig:C3;feat      TTLNTVVQEKNLRLKRRGSKGKSTRREETCLHPARETHLTASKEGIKDPNQEHQPRNLRP
+seqstart:6607067;seqstop6609023+      CRRSRIDRGEGLKKESQRDRGRRLACNNT-LQERRIRQARREKIQIKNINQETDQCSRK-
+                                         . : . :.*. : . ..*.    ::* *:  *  :   .*  **: *** :  . . 
+
+geneid:Bo3g019340;contig:C3;feat      MQKMEWEEIKTWVIRPLDVWSKKGITRVSGKGSHGIAELLIEK-LKRFLRLSRM-ICLLW
+seqstart:6607067;seqstop6609023+      -----WSG-----RRRLGSYSEDHMFRARRAYRQEFQGKVLDMVLKSYSRSSSEGFCRDF
+                                           *.       * *. :*:. : *.     : :   :::  ** : * *   :*  :
+
+geneid:Bo3g019340;contig:C3;feat      DNSLWIHSQN---VYRARDHQQLV------VYLLESASSGI
+seqstart:6607067;seqstop6609023+      QGSVFFGTTACGYILRMCTEQEIINNWWCTCWNLPKALA-L
+                                      :.*::: :     : *    *:::       : * .* : :

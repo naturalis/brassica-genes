@@ -1,0 +1,38 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g164130;contig:C2;feat      MLESKDPAIKLFGMKIPLSSTVFEAEEDELSAEQVLILALLVVTEMNLEEKRFWYFAGHE
+seqstart:51318834;seqstop5132034      MLESKDPAIKLFGMKIPLSSTVFGAEEDELSAEQVLILTLLVVTEMNLEVKRFWYFAGHE
+                                      *********************** **************:********** **********
+
+geneid:Bo2g164130;contig:C2;feat      KYSFILIIVKLVFLFWYFGTSSTEKIHVCFVHLSICKAQGSLISTSDIPILHVTSLFWTS
+seqstart:51318834;seqstop5132034      -YSFILIILRIL-----ASKAKLKSGFICVLYFFPFNAKLKVNNSDELVQLK--------
+                                       *******:.::      ..:. :. .:*.:::   :*: .: .:.::  *:        
+
+geneid:Bo2g164130;contig:C2;feat      VFFSFLVNLRLYS---FVRLFMTRKST-----FASPNNHILVKSIAFFRLIS---QRDKE
+seqstart:51318834;seqstop5132034      ---TFLSYMRLCSGLCFFSFFWTGRSTLLFDDFSHEKAHSLLHKTIIFKVLPFPFNQPIK
+                                         :**  :** *   *. :* * .**     *:  : * *::.  :*.::.   :.  :
+
+geneid:Bo2g164130;contig:C2;feat      FRFRSVFSEYFSPPKFY----------LEPSSSDRYSVICNFRSFLLYLKKIYLLYSFVF
+seqstart:51318834;seqstop5132034      VRQRIVLGKVYSQNTFLHQSFINLHLQIDTHKSNMFMII-----FIMCLKKIISYIHSFF
+                                      .* * *:.: :*  .*           ::. .*: : :*     *:: ****      .*
+
+geneid:Bo2g164130;contig:C2;feat      SCSILLAQNQNETLTDQSDKDKTLKKPTKILPCPRCNSMETKFCYFNNYNVNQ-PRHFCK
+seqstart:51318834;seqstop5132034      NNHVPFSWLRIKT---RHLINRTKTKPRNQL---RFFHVQDAIAWKQSSVITTITTTNLA
+                                      .  : ::. . :*   .   :.* .** : *   *   ::  :.: :.  :.  .     
+
+geneid:Bo2g164130;contig:C2;feat      VCQRYWTSGGTMRSVPVGAGRRKNKKYSSSHYRHVTINETNGPVLSFNLRDEHKMLEKNN
+seqstart:51318834;seqstop5132034      ISAKLVKDTGPRVGPEVSLSEPDDARTRTTHL-HIIVTSPSTKQTVRSLVSTSEMYTRCR
+                                      :. .  .. *.  .  *. .  .: .  ::*  *: :....      .* .  :*  . .
+
+geneid:Bo2g164130;contig:C2;feat      HHPVDDSRTRNNEMNGLNCIPGVSWPYTWNHGFYPVYPYWNVPMVSSSSPYSTPNSTLGK
+seqstart:51318834;seqstop5132034      R--ITTTRLMIQEHVTTKTVIVFLVFHGRTRGIM-VFTRFTLIGTCQWCRLLRLIQLLTL
+                                      .  :  :*   :*    : :  .   : ...*:  *:. :.:  ... .      . *  
+
+geneid:Bo2g164130;contig:C2;feat      HSREEDETIKRKQMNRSVLVPKTLRIDDPNEAAKSSIW--TTLGIKNEVMFKGFDSKKEV
+seqstart:51318834;seqstop5132034      LLVSIQERKMRRSSENRIDLYWFLRLELMILMKLQRVLYGQHLGSRTKLCSKGLIRRKRI
+                                         . :*   *.. :. : : . **::       . :     ** ..::  **:  .* :
+
+geneid:Bo2g164130;contig:C2;feat      SINKEETETSLVLCANPAALSRSVNFHEQM------
+seqstart:51318834;seqstop5132034      VLTKKKQRLL------SFSVQIQLPYQDQLISMNRC
+                                       :.*::          . ::. .: :::*:      

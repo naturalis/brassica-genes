@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo4g159930;contig:C4;feat      VQRLIASSSDVLLDEISYLGNVPVKKLLPSEFILKPPPLPQVTKHRSSDSEKTDQNKMES
+seqstart:43381075;seqstop4338208      VQKLIASSSDVLLDEISYLGNVPVKKLLPSEFIVKPPPLPQVTKHRRSDSEKTDQDKMEC
+                                      **.******************************:************ ********:***.
+
+geneid:Bo4g159930;contig:C4;feat      SAENVVGKSSNQGQQHQPSNYMPFASNPPAANGCYYPPQHPPPSGGNQQWLIPVMSPSEG
+seqstart:43381075;seqstop4338208      SAENVVGKSSNQGQQHQPSNYMPFASNPPAANGCYYPPQHPPPSGGNQQWLIPVMSPSEG
+                                      ************************************************************
+
+geneid:Bo4g159930;contig:C4;feat      LIYKPHPGPGHTGSPVCGGYYGHFMPALMIMGSFMDGGPPPFHPGVGNGYFPPYGMMNPY
+seqstart:43381075;seqstop4338208      LIYKPHPGPGHTGSPVCGGYYGYFMPAPMIMGSFMDGGPPPFHPGVGNGYFPPYGMMNPY
+                                      **********************:**** ********************************
+
+geneid:Bo4g159930;contig:C4;feat      GSGHQQQQQPNEQMNQFVHP--------VNTQQQSSVNEAISQQQPTQSYPRARKSRQRS
+seqstart:43381075;seqstop4338208      GSGHQQQQQPNEQMNQFVHPGNLQYASAVNTQQQSSVNEAISQQQPTKSYPRARKSRQRS
+                                      ********************        *******************:************
+
+geneid:Bo4g159930;contig:C4;feat      TGISPS---GISGTNSFRPLSVVDDDDDDNNEPEQMMTTTTTTTRTTVTQTTRDGGGVTR
+seqstart:43381075;seqstop4338208      TGSSPSGQDGISGTNCFRPLSVVDDDDDDNNEPEQMMTTTTTTTRTAVTRTTRDGGGVTR
+                                      ** ***   ******.******************************:**.**********
+
+geneid:Bo4g159930;contig:C4;feat      VIKVVPHNAKLASENAARIFRSIQEERKHYDSFSNHS
+seqstart:43381075;seqstop4338208      VIKVVPHNAKLASENAARIFRSIQEERKHYDSFSNHF
+                                      ************************************ 

@@ -1,0 +1,22 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g009980;contig:C5;feat      MASKTQFLSISISLALVAFLFFITVSADPDMLQDLCVADLSSGNKNLDLTLLILSIFFFQ
+seqstart:3719714;seqstop3720461+      MASQTPFL--SISLPLVAFLFFITVSADPDMLQDLCVADLSSGNKNLDLTLLIFSIFYFK
+                                      ***:* **  ****.**************************************:***:*:
+
+geneid:Bo5g009980;contig:C5;feat      KSFNFSNF--QESKSTASLAKTQPTSHRSISSRKGLIQASPTTRSV------------PW
+seqstart:3719714;seqstop3720461+      KVLIFNRIFRNQSQRLPLQRRSQRHIARFLLARDS--ESRPHQQHVRCLGDRRERDDHPW
+                                      * : *..:  ::*:  .   .:*    * : :*..  :: *  . *            **
+
+geneid:Bo5g009980;contig:C5;feat      QARTPSLDSTRSASPSLASTTRRGATRLTRTLAPPKSSTSSKEHSTSGSSRRPTSS-SLS
+seqstart:3719714;seqstop3720461+      TQHARRFPRSHRLRAGGLKPASHAPSRHRSRLRPRRNTRRRLPHDGQQAHRSVSQERRLC
+                                        .:  :  :.   ..  ..: ...:*    * * ..:     *. . : *  :..  *.
+
+geneid:Bo5g009980;contig:C5;feat      LSRKATSLLSPKDLFISRRTMVVSLLLLSLLSTVSFLGLSLLVLLCSVLRLLFLIASWLK
+seqstart:3719714;seqstop3720461+      FPQRTCSF--PEEQW-SCPCFCYRCFQSASWDSVSW---------CYFVRFYASCSDLGS
+                                      :...: *:  *:: : *   :    :  :  .:**:         * .:*:    :.  .
+
+geneid:Bo5g009980;contig:C5;feat      RFRRLRGLLNTSRPSSSPRS--
+seqstart:3719714;seqstop3720461+      SVSDVSG--DCTHQDQVPAQEV
+                                       .  : *  : :. .. * .  

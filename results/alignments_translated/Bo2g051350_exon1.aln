@@ -1,0 +1,10 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g051350;contig:C2;feat      MSLSNRDPLVVGRVVGDVLECFTRSIDLRVTYGQREVTNGLDLRPSQVLNKPRVEIGGED
+seqstart:14766619;seqstop1476681      MSLSNRDPLVVGRVVGDVLECFTRSIDLRVTYGQREVTNGLDLRPSQVLNKPRVEIGGED
+                                      ************************************************************
+
+geneid:Bo2g051350;contig:C2;feat      LRNFYTL
+seqstart:14766619;seqstop1476681      LRNFYTL
+                                      *******

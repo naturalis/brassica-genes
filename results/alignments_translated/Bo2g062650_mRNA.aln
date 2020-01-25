@@ -1,0 +1,54 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g062650;contig:C2;feat      MEKILERYERYSYTERQLIAPESDANVNQYNSITLHTLCNYVFQFLLKYISIVKLLTYRR
+seqstart:18347172;seqstop1834935      MEKILERYERYSYAERQLIAPESDVNVNQYNSITLHTLCNYVFQYLLKYISIVKLLTYRR
+                                      *************:**********.*******************:***************
+
+geneid:Bo2g062650;contig:C2;feat      TGRWSITGLRLRLTFWRETRGTHLHSCIYIYMDKNRKPGSINVKMHMDTFTREHDAWTLL
+seqstart:18347172;seqstop1834935      TGRWSITGLRLRLTFWRETRGTHLHSCIYIYMDKNRKPGSINVKMHMDTFTREHDAWTLL
+                                      ************************************************************
+
+geneid:Bo2g062650;contig:C2;feat      KCRHYLGEDLQAMSIGSKELQNLEQQLDTALKHIRSRKVILLFLHILNIYIRSYYLLIQI
+seqstart:18347172;seqstop1834935      KCRHYLGEDLQAMS--SKELQNLEQQLDTALKHIRALKGMNPPISL--TYIKHIYTIL-L
+                                      **************  *******************: * :   : :   **.  * :: :
+
+geneid:Bo2g062650;contig:C2;feat      HMYVNLYACRTAWLDIKNISIQMYEVKNLCIIK------IMCVFAEPTYVRLHQAPKKGT
+seqstart:18347172;seqstop1834935      FTYSNTYVCKFVCMSYCMVGYKHIVDSNVSLKEFVYNDHVMCL----CRTNLCTTPSMSS
+                                      . * * *.*. . :.   :. :    .*:.: :      :**:      ..*  :*. .:
+
+geneid:Bo2g062650;contig:C2;feat      -EPYTMSTSNIVEVEIYESQSCRLMTGEGHTGAKQ-HAFQRGDT----------------
+seqstart:18347172;seqstop1834935      KERYVRTLLNVCLHEVTSCKKWRYMRANDLAVCKQEKAIQEQNSMLSKEVTLVFYNYIMR
+                                       * *. :  *:   *: ..:. * * .:. : .** :*:*  ::                
+
+geneid:Bo2g062650;contig:C2;feat      CFLLYY--VKMFSIALL--LASTVLLRISSQAISLLSTRLDLHIPAVL-------VILIK
+seqstart:18347172;seqstop1834935      CFPSHYCLLPLFYSAFQAKLVYNYLRDIFTSPLRFWSSLKRRKIFAFFISSSAGTIVFVR
+                                      **  :*  : :*  *:   *. . *  * :..: : *:    :* *.:       ::::.
+
+geneid:Bo2g062650;contig:C2;feat      TIEDICI-FYIIIISRYVDCLCPCSFRVVSRIENITSKRRLIYLDICSSV-YVCEYRHYS
+seqstart:18347172;seqstop1834935      VVLELSLGLKIFELQNVVSSTSTRSVHLYIKYVNIDTNPNKYWAKIWKQVKTVCEDMYLT
+                                      .: ::.: : *: :.. *.. .. *..:  .  ** :: .  : .* ..*  ***  : :
+
+geneid:Bo2g062650;contig:C2;feat      -LKILGNLEASKNSVRYVFNTCTIVYERNPIMQLHWMPHIVFMKSTLKTMIIIWYGISQI
+seqstart:18347172;seqstop1834935      HVQFMKGISSNRRS-KCNYIGCHI----SKYLSRRFEKRCRLYGMEVDNKLVCEIGTCQI
+                                       :::: .:.:...* .  :  * *    .  :. .:  .  :    :.. ::   * .**
+
+geneid:Bo2g062650;contig:C2;feat      G----------VNWNLSDQGKGKGSSGTTRAMGPAKPWPQYASSSSPAAASNPASIHALS
+seqstart:18347172;seqstop1834935      KEREKILRVQQEQWDQQNHG---------HNMPPPPPPQQHQIQHPYMLSHQPSPF--LN
+                                                  :*: .::*         . * *. *  *:  . .   : :*:.:  *.
+
+geneid:Bo2g062650;contig:C2;feat      SAISFSQYGVIKFYFALTSKYLYSRHTYLVYKL----VKCYSSS---ETRCIGDGMSKLT
+seqstart:18347172;seqstop1834935      MGINFTNLLLLPSIYIVDIHILYTSSAIVPVKLGVVMVRCLNCELLHSTKIIHTLTVNAM
+                                       .*.*::  ::   : :  : **:  : :  **    *.* ...   .*. *     :  
+
+geneid:Bo2g062650;contig:C2;feat      MTTLHDYSY---INVGCNGRTNRFRFWNGCGKPTKLLGSSVPFSCCFKVR--QLTEHSLV
+seqstart:18347172;seqstop1834935      VDELTDLDFGMAVESLRNCWDHQFHF---VVVFENKLGSLLNTLWYFNLDFYQFEDRTYN
+                                      :  * * .:   ::   * . :.*.*        : *** :     *::   *: :.:  
+
+geneid:Bo2g062650;contig:C2;feat      FQFGLLPIGPNIFSVHLIKLISYIMHVYMNVN----AVACIKKKIQWQGGTTLICLLNPF
+seqstart:18347172;seqstop1834935      FRCTL----SSVISCMCITMQWPVSRRRFNGNEEERPSVSTRLQLPW-----LLCLMKQF
+                                      *.  *    ..::*   *.:   : .  :* *    . .. . :: *     *:**:: *
+
+geneid:Bo2g062650;contig:C2;feat      TTVTLAALPHETIPYIWISIINN
+seqstart:18347172;seqstop1834935      HI------------YGFLSTM--
+                                                    * ::* :  

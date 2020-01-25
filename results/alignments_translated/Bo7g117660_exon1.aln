@@ -1,0 +1,18 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo7g117660;contig:C7;feat      MLFSANHQRNNRVSATSKNKTLNKVSSISSSSSPSHPQDSQSQKKSLVTMEDVWKDINLG
+seqstart:47119491;seqstop4712015      MLFSANHQRNNRVSATSKNKTLNKVSSISSSSSPSHPQDSQSQKKSLVTMEDVWKDINLG
+                                      ************************************************************
+
+geneid:Bo7g117660;contig:C7;feat      SIHSQHPRGNHEPRFGSHNHHNQNSNSIFQDFLNRPLNQEPTIPTSLTISSSSNGDTTTV
+seqstart:47119491;seqstop4712015      SIHSQHPRGNHEPRFGSHNHHNQNPNSIFQDFLNRPLNQEPTIPTSLTMSSSSNGDTTTV
+                                      ************************.***********************:***********
+
+geneid:Bo7g117660;contig:C7;feat      TALLSSSPLEPPATVLSLNSGAGFEFLDNQDPLVTPNYNLHSHNHLTNIPSFNTSFEALD
+seqstart:47119491;seqstop4712015      TALLSSSPLEPPATVLSLNSGAGFEFLDNQDPLVTPNYNLHSHNHLTNIPSFNTSFEALD
+                                      ************************************************************
+
+geneid:Bo7g117660;contig:C7;feat      TPTCFGKKRGQESNEEGSGNRRNKRMIKNRESAARSRARKQE
+seqstart:47119491;seqstop4712015      TPTCFGKKRGQESNEEGSGNRRNKRMIKNRESAARSRARKQE
+                                      ******************************************

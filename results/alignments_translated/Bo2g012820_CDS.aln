@@ -1,0 +1,14 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g012820;contig:C2;feat      LPSGEGRNNRERKEFENFA----RERERASPRRTRGEEDVSDSLIQRRKMHQPPLETHQP
+seqstart:3828820;seqstop3829247+      LPSGEGRNNRERKEFENFATERERERERVSPRRTRGEEDVSDSLIQRRKMHQPPLETHQP
+                                      *******************    *****.*******************************
+
+geneid:Bo2g012820;contig:C2;feat      ERCRPMTSTVSEIEEVIDSERTTLLNGLSSLEPVRRRVSGKSPADGGSRRICRQPSLGRD
+seqstart:3828820;seqstop3829247+      ERCRPTTSTVSEIEEVIDSERTTLLNGLSSLEPVRRRVSGKSPADGGSRRICRQPSFGRD
+                                      ***** **************************************************:***
+
+geneid:Bo2g012820;contig:C2;feat      IGHAAKETYLVTRLSFKLLRYL
+seqstart:3828820;seqstop3829247+      IGHAAKETYLVTRLSFKLLRYL
+                                      **********************

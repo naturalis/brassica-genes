@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo8g045980;contig:C8;feat      MCRHNCCAKSSQEEEVISPPDENLLIYCKPVRLYNILRIRSLFNVNQSPSLNHSFSVILL
+seqstart:15421698;seqstop1542418      MCRHNCCAKSSQEEEVISPPDENLLIYCKPVRLYNILRIRSLFNVNQSPSLNHSFSVILL
+                                      ************************************************************
+
+geneid:Bo8g045980;contig:C8;feat      TCFFVCAAIVSSMLELQNSSKGQKKVFFNPFLGSNYGNSMVSSRFFFWFRSGSAGIVVFN
+seqstart:15421698;seqstop1542418      TCFFVCAAIVSSMLELQNSSKGQKKVFFNPFLGSNYGNSMVSSRFFFWFRSGSAGIVVFN
+                                      ************************************************************
+
+geneid:Bo8g045980;contig:C8;feat      YKDCNNTLQKTEGVCFISFYFFRNSMSVSFFYLLFFHAVTENCSCPFCYMTCGSFKVCVS
+seqstart:15421698;seqstop1542418      YKDCNNTLQKTEGVCFISFYFFRNSMSVSFFLFTIF-----SCSYGELFLSFLLYDMWLQ
+                                      ******************************* : :*     .**    :::   :.: :.
+
+geneid:Bo8g045980;contig:C8;feat      ICCVSCSCYL-----RKGVRDA--YSPLFLCLRRGCNFIIRFMTCLNLSSWYVFFFFIPT
+seqstart:15421698;seqstop1542418      GVRFHMLCFLLLLSEKRCSRLSLHYSPLFLCLRRGCNFIIRFMTCLNLSSWYAVFFYSNS
+                                         .   *:*     ..  * :  ****************************..**:  :
+
+geneid:Bo8g045980;contig:C8;feat      LLFCYEILVTAKKIPIVAFRRLPDSCLCKTCIRIRGQLLTWLTWELVEIVVD---IHSFF
+seqstart:15421698;seqstop1542418      LVLLNSSY--SKKNSYCSFQKMITRQLMSLDLMHSNQ--RSVTLNLVNLGAGRNCSYSFL
+                                      *::  .    :** .  :*..:    * .  :   .*    :* :**:: ..    :**:
+
+geneid:Bo8g045980;contig:C8;feat      VPGRSQPS--REIAYLFLVTFRSPVKCIYINSSNSLSEHLYPQP---IMFCSSKPRKRRQ
+seqstart:15421698;seqstop1542418      LCTRKKSTIKRNMSLSLFGNFQKPLISMYIHQQLLVRTSLLTPTNNVLQLETSATKRWKR
+                                      :  *.:.:  *:::  :: .*..*: .:**:..  :   * . .   : : :* ......
+
+geneid:Bo8g045980;contig:C8;feat      RGGRNNARRLNVTFLPMDSPSLANGTDNGTSLLSNGKLSSSHVVYCVLIIQLMYLSSDSF
+seqstart:15421698;seqstop1542418      QATKRNLFTHGFTFSQWHRWNLPT---EWTLFFSCGIQCLDYSVNVLVLFFSKYLPL-MY
+                                      .. ..*    ..**      .*..   : * ::* *  . .: *  ::::   **.   :
+
+geneid:Bo8g045980;contig:C8;feat      QNIYHDLCTMNGILQETMVDIPWQHNLGTILHQPLNVRTRMPKLCQAKLWSR---LLSQE
+seqstart:15421698;seqstop1542418      INEWHSTG---------------NHGLGYPVATQFGMNNSSPAIAQCSLDSNAKAVLASE
+                                       * :*.                 :*.**  :   :.:..  * :.*..* *.   :*:.*
+
+geneid:Bo8g045980;contig:C8;feat      SYLLS--DQRLEGLLCCSKLFFLIMNRCLLYFRIDSRNFSSSNLLLQKRQFYHSHRVQVI
+seqstart:15421698;seqstop1542418      AVVSAAKSRKLSAERSEARRFVML-------FQIVLPDYEVFTLLPYLEKFFFQQPTSSE
+                                      : : :  ...*..  . :. *.::       *.*   ::.  .**    :*:..: ..  
+
+geneid:Bo8g045980;contig:C8;feat      QALLHTCYVHVVVTVLLSLTKKKTAWVCVIKPMSL----EQVMSDRDSEDEVDDDVADLE
+seqstart:15421698;seqstop1542418      TPVL--SFSQSSGDSISSFTYLIMLCPCCCHGFTVTNQKKNCMGLCDKANVTASNVSRRR
+                                       .:*  .: :     : *:*       *  : :::    :: *.  *. : . .:*:   
+
+geneid:Bo8g045980;contig:C8;feat      DRQVLPFLSAFINIWYIDVTWWIMKYFCKSCRCLMISWMTRTKKDSCIFGTLLENKGKLL
+seqstart:15421698;seqstop1542418      SGRCRSGRSPGITMISFCVHYMV---YCNVVMDYEIFLKLQMLDD---FVDVNKNEKRFM
+                                      . .  .  *. *.:  : * : :   :*:      *    .  .*   *  : :*: .::
+
+geneid:Bo8g045980;contig:C8;feat      FLQVCDIHANYKNNSGNIHQHVMMEHFGKLMSFWLQGCGGWSYTMGMSIFQVSQGRVASF
+seqstart:15421698;seqstop1542418      HL-----WNSFVRKQRTTFLTSLMRHSCQLELIWYPPVACLN---DGTFWKINEFLVTGL
+                                      .*     . .: .:. . .   :* *  :*  :*    .  .   . :::::.:  *:.:
+
+geneid:Bo8g045980;contig:C8;feat      LTTLLVNSSRKYTQQVFVFDCGINHKHEQVLEIIYDKTMEHWTCRL------GHHQQLQY
+seqstart:15421698;seqstop1542418      WRMVIYHGHVKHFPSFTRKSCFIPHHSSGKFISIYTITS---ICVLWDKPTAGAGDYLNY
+                                         :: :.  *:  ..   .* * *: .  :  **  *     * *      *  : *:*
+
+geneid:Bo8g045980;contig:C8;feat      HPRELLRQQEQEQEQECGRWHRHQRHGCRRCQQQSQV---------------------
+seqstart:15421698;seqstop1542418      GTLDLTRPPSTTAISSSRIVIVTQTTRTRTRTRVRTLASTLTVTPWMLTTMSITAKPS
+                                       . :* *  .    ...      *    *   .   :                     

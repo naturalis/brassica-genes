@@ -1,0 +1,22 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo1g006110;contig:C1;feat      MSSARHQRNHRISATNKNKILNTVSSISSSSSPLHSSQDSQEAQKSSLVTMEEVWEDINF
+seqstart:1786710;seqstop1787584+      MSSARHQRNHRISATNKNKILNTVSSISSSSSPLHSSQDSQEAQKSSLVTMEEVWEDINF
+                                      ************************************************************
+
+geneid:Bo1g006110;contig:C1;feat      ASIHHLNRHSQHPPDNHQPRFRSHNHQNQNPNSIFQNFLSRPSNQEPTIHTSLNGDTTTV
+seqstart:1786710;seqstop1787584+      ASIHHLNRHSQHPPDNHQPRFRSHNHQNQNPNSIFQNFLSRPSNQEPTIHTSLNGDTTTV
+                                      ************************************************************
+
+geneid:Bo1g006110;contig:C1;feat      FSSSPLAPPATVLSLNSGAGFEFLDNQDPLATSNLHSHNHLTDVPSFNTSLEDFTCFGKK
+seqstart:1786710;seqstop1787584+      FSSSPLAPPATVLSLNSGAGFEFLDNQDPLATSNLHSHNHLTDVPSFNTSLEDFTCFGKK
+                                      ************************************************************
+
+geneid:Bo1g006110;contig:C1;feat      RGQESNEGSGNRRHKRMIKNRESAARSRARKQECASPPLLTLLLQKEMWFCHQNAFVFKG
+seqstart:1786710;seqstop1787584+      RGQESNEGSGNRRHKRMIKNRESAARSRARKQECASPPLLTLLLQKEMWFCHQNAFVFKG
+                                      ************************************************************
+
+geneid:Bo1g006110;contig:C1;feat      LIIICRLIQTSSLKLLTCRQKTQNSGDNKIRTNKQRESSYCFLPLKGN
+seqstart:1786710;seqstop1787584+      LIIICRLIQTSSLKLLTCRQKTQNSGDNKIRTNKQRESSYCFLPLKGN
+                                      ************************************************

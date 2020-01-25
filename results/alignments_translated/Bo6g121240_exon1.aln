@@ -1,0 +1,22 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo6g121240;contig:C6;feat      VHQIARNFRDRFIPKHLRKPWRIDREERSESRRSPINSRFRSSQEPRYDHHSPRRAEPFA
+seqstart:38447857;seqstop3844862      VHQIARNFRDRFIPKHLRKPWRIDREERSESRRSPVNSRFRSSQEPRYDHHSPRRAEPFA
+                                      ***********************************:************************
+
+geneid:Bo6g121240;contig:C6;feat      SRAATPETPSVSDGCIQPTSSSLPETNGRKRKSRWDQPSTSKEQRTMTDVQDDLPPGFSS
+seqstart:38447857;seqstop3844862      SRAATPETPSVSDGCIQPTSSSLPETNGRKRKSRWDQPSTSKEQRTMTDVQDDLPPGFSS
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      PCTDAPNAVTAQPQAKFLSRLTVSYGIPLSIVHQCGLPCKDDPSSWSVAPGVPFSPFPPL
+seqstart:38447857;seqstop3844862      PCTDAPNAVTAQPQAKFLSRLTVSYGIPLNIVHQCGLPCKDDPSSWSVAPGVPFSPFPPL
+                                      *****************************.******************************
+
+geneid:Bo6g121240;contig:C6;feat      PPVTHGEFFANKRNGTVSDSPKRKREFSSDIGTSYFRQQKQKVPPWIRYNGWEKTANSSI
+seqstart:38447857;seqstop3844862      PPVTHGEFFANKRNGTVSDSPKRKREFSSDIGTSYFRQQKQNVPPWIRYNGWEKTANSSI
+                                      *****************************************:******************
+
+geneid:Bo6g121240;contig:C6;feat      PEASNFREEDQQSRKS
+seqstart:38447857;seqstop3844862      PEASNFREEDQQSRKS
+                                      ****************

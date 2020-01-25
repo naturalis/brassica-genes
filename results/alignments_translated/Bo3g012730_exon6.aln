@@ -1,0 +1,18 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g012730;contig:C3;feat      MTDTPLDSSTQNMEGAGVKNDAGEADTAVETVGGSGDEGGRGETIPGKIGDDRRTEDVEE
+seqstart:4328992;seqstop4329549+      MSDTPLDSNTQNMEGAGVKNDAGEADTAVETVGGSGDEGGRGETIPGEISDDRRTEDVEE
+                                      *:******.**************************************:*.**********
+
+geneid:Bo3g012730;contig:C3;feat      KEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+seqstart:4328992;seqstop4329549+      KEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+                                      ************************************************************
+
+geneid:Bo3g012730;contig:C3;feat      EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEGKEDGPKVAEEFYEVEAIR
+seqstart:4328992;seqstop4329549+      EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEGKEDGPKVAEEFYEVEAIR
+                                      ************************************************************
+
+geneid:Bo3g012730;contig:C3;feat      HKRVHK
+seqstart:4328992;seqstop4329549+      HKRVHK
+                                      ******

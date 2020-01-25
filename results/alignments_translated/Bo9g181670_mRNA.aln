@@ -1,0 +1,30 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g181670;contig:C9;feat      MENMGTRVIEPLIVGRVVGDVLDNFTPTIKMNVSYNKKQVSNGHELFPLAVSSKPRVEIH
+seqstart:53748291;seqstop5374935      MENMGTRVIEPLIVGRVVGDVLDNFTPTIKMNVSYNKKQVSNGHELFPLAVSSKPRIEIH
+                                      ********************************************************:***
+
+geneid:Bo9g181670;contig:C9;feat      DGDLRSFFTLVCKHMFKLFNYQDCWLFNSNILCQNISLSIFSSQKSFIFLHEEKERESLI
+seqstart:53748291;seqstop5374935      DGDLRSFFTLVCKHMFKLFNYQDCWLFSSNILCQNISLGIFSSQKSFIFLHEEKERESDQ
+                                      ***************************.**********.*******************  
+
+geneid:Bo9g181670;contig:C9;feat      NNLIYCTFLNSMMLLLLCTFIIFFFFSSLMV---IVTE----------LQNRQTLMFQIL
+seqstart:53748291;seqstop5374935      SYILYLFVKYDAVMYFLSFFFLFFIDGNSNIAKQVMTDPDVPNPSDPFLKERLHWYAQIL
+                                      . ::*  .  . :: :*. *::**: ..  :   ::*:          *::*     ***
+
+geneid:Bo9g181670;contig:C9;feat      VTPFKNACIGTLKFLSFHFQPIFRSYVFHLNYPSLHFFFYKLELSWSSSITA--------
+seqstart:53748291;seqstop5374935      VVSF-----------SAHISVICISFELLITLSTL--FFYKLELSWSSSITAKLHVNVST
+                                      *..*           * *:. *  *: : :. .:*  ***************        
+
+geneid:Bo9g181670;contig:C9;feat      -LNNCMMFQQARHEHPRHNRCYIWYGLLM---NFVVNTYNKRYIQISIKDNTEIVGKEVV
+seqstart:53748291;seqstop5374935      GSSTSPAQQMLHLVRARHEFCGLKYLQKIYPNKYRLNNCRKRGGELAAKAKHRDTQVRVC
+                                        ...   *  .  ..**: * :.*   :   :: :*. .**  ::: * :   .   * 
+
+geneid:Bo9g181670;contig:C9;feat      SYELPKPNIGIHRYVFVLFRQKQRRVKFPSNIISRDQFNTREFAIENDLGLPVAAVFFN-
+seqstart:53748291;seqstop5374935      SVQAEAKTCVPKQYYF--------EGSVQHSICDRESWS------------PCRGCLLQR
+                                      * :    .   :.* *          ..  .* .*:.:.            *  . ::: 
+
+geneid:Bo9g181670;contig:C9;feat      AQRETASRRR
+seqstart:53748291;seqstop5374935      SERNRISQTL
+                                      ::*:  *.  

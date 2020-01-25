@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo7g008400;contig:C7;feat      MSCMKNQMEWDSDFDLSGGDNGPIPFPLSSQPKTATFGFVVSDALDPNHPIIYVNTVFEI
+seqstart:2553791;seqstop2556125+      MSCMKNQMEWDSDFDLSGGDNGPIPFPLSSQPKTATFGFVVSDALDLDHPIIYVNTVFEI
+                                      ********************************************** :************
+
+geneid:Bo7g008400;contig:C7;feat      ITGYRADEVIGKNWAFLLFCPCVLPDRALFCLIFFFFLKSLSELQLHRLCVLSFREDFVF
+seqstart:2553791;seqstop2556125+      ITGYRADEVIGKNWDFLLFCPCVLPDRALFCLI-FFFLKSLSELQLHRLCVLSFREDFVF
+                                      ************** ****************** **************************
+
+geneid:Bo7g008400;contig:C7;feat      LMFFFMRYTINIFFPCHNNVLYYTINALWSYVIQCL-----------FCLN------FFR
+seqstart:2553791;seqstop2556125+      IMFFFMRYTINIFFPCHNNVLYYTMSCVILYN-QCVEFNVCFVIFLEFCLNCLGTPAIFV
+                                      :***********************:..:  *  **:           ****      :* 
+
+geneid:Bo7g008400;contig:C7;feat      VLSELMFRNASYIVCVSLCCFLFYALLNFYHFDMIMCYI-IKC-VLVLVCCNSCLYMRNL
+seqstart:2553791;seqstop2556125+      SLCAVFF-FMRYTSNIILTCVISNAYWSYVVIHVYICLIFVRCIVLFLVLWQPVLAVRSI
+                                       *. ::*    *   : * *.:  *  .:  : : :* * :.* **.**  :. * :*.:
+
+geneid:Bo7g008400;contig:C7;feat      C-SLHLS-FVSCF----------VAAGSCSVEVHMLKGDTPQIPQLSPRCEDVKKALSFK
+seqstart:2553791;seqstop2556125+      CKATPLSRFHSCLQDAKMSRKRHVSRGVTQLSQRWLSFDEQAAPSPYPR----RRDHSHH
+                                      * :  ** * **:          *: *  .:. . *. *    *.  **    ..  *.:
+
+geneid:Bo7g008400;contig:C7;feat      GSYSTFAKMALLTSCASLSVKTTRSLTSV-FSSSQTQNSHRLLQKRSQESEIPPSPLLHR
+seqstart:2553791;seqstop2556125+      RCSLLHRRKTRTVSCKR-DHKKARSLRHLCFTGWRARLSWAVWDIRAERG--------HG
+                                       .   . . :  .**   . *.:***  : *:. .:. *. : : *:: .        * 
+
+geneid:Bo7g008400;contig:C7;feat      LESVTSLVGCVGYSSAMR-SWLTGSCL--GLRVISRLLVACVGGLMSRRTMMCGEWSAKT
+seqstart:2553791;seqstop2556125+      LQDLVSV------DSAYRVCWLRVSAVVDEERCVENGLSKHVG-----ESYTCSD-CSRC
+                                      *:.:.*:      .** * .**  *.:    * :.. *   **      :  *.: .:. 
+
+geneid:Bo7g008400;contig:C7;feat      RGGVKLHVFLRLLPVRRGSVGDLESLPHTKQLLGGSSPLEVLFSLLGVTSALVLLGTRSL
+seqstart:2553791;seqstop2556125+      EEDRLGETSSRVYHTRSNCLEEVLRWRY-------CSAFSVLQHLCCWEQDRYLRRRRCE
+                                        .    .  *:  .* ..: ::    :       .*.:.**  *    .   *   *. 
+
+geneid:Bo7g008400;contig:C7;feat      SSAAKVTCNRMIRSCWTLAPLVLSGNLFWLALLLLVAGVIR--SLVSTALVSLEVTGAMG
+seqstart:2553791;seqstop2556125+      HATDEYVC---------VGP--------WLSPVEIRSGLSSSWSLGSHPFLCRRIPFSSL
+                                       :: : .*         :.*        **: : : :*:    ** * .::.  :. :  
+
+geneid:Bo7g008400;contig:C7;feat      YSTMSSCTLMQTLLHGEKYPVLLQYQDHGIARVRSMELSLLFLVAVLIQELCSTIRSCLT
+seqstart:2553791;seqstop2556125+      WRLREPWVTQRCLL---ARPCRPSYMERSI-RFSSSNTKIMALVYA---------RWNAD
+                                      :   .. .  . **     *   .* :..* *. * : .:: ** .         *    
+
+geneid:Bo7g008400;contig:C7;feat      CLW--IYRRGGREFHGLLHLASDIPQSTVTGRSLCLVVLRSMVRGGSGLMMRT---RILV
+seqstart:2553791;seqstop2556125+      CFWWLCFRSFAQRY------------------VLALVYGYTDVEGDKSSMVSSISPRTYL
+                                      *:*   :*  .. :                   *.**   : * *... *: :   *  :
+
+geneid:Bo7g008400;contig:C7;feat      RMSRAGDP--WLGMELAFLE-----------AWQLRGWIMWRLVFRVVK-----------
+seqstart:2553791;seqstop2556125+      NSLRQEDPYVWWSCGVWFEEVPVCVHDESEAVLETLGWV-WNPSWRRGSSEAGSCGDSSG
+                                      .  *  **  * .  : * *           . :  **: *.  :*  .           
+
+geneid:Bo7g008400;contig:C7;feat      -SSLVVRLQGLTRLLSFIFLIQRRRNRLG----EC----MLREAHHSLRG--DIQHVWWE
+seqstart:2553791;seqstop2556125+      WSNLDLWWFG-CRALGFSALSSSNGGETGLESVECGKLTTVCVGTYNMCGGRNVGCLWWA
+                                       *.* :.  *  * *.*  * . . .  *    **     :  . :.: *  ::  :** 
+
+geneid:Bo7g008400;contig:C7;feat      ELGWLSLVGRQVKSGCMKLMSCCPTLVLKSPPQDMERRGSS
+seqstart:2553791;seqstop2556125+      D--------RRVDAKSSAVVSQLYNHLIKTWREEALL----
+                                      :        *.*.: .  ::*   . ::*:  ::       

@@ -1,0 +1,46 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g159960;contig:C9;feat      TRVWSSSSKNKTSKFWESFNLSFSFFDLAEEEEDTIKRLSSDTQIMKGAGVKKKPQVVND
+seqstart:47260869;seqstop4726279      TRVWSSSSKNKTSKFWESFNLSFSFSDLAEEEEDTIKRLSSDTQIMRGAGVKKKPQVVND
+                                      ************************* ********************.*************
+
+geneid:Bo9g159960;contig:C9;feat      AGEAETAVETAGGSGKRSGDGGFGSDDGGGADSVLREMGDDRRTEDEEEEDDEDEEDEED
+seqstart:47260869;seqstop4726279      AGEAETAVETAGGSGKRSGDGGFGSDDGGGADSVLREMGDDRRTEDEEEEDDEDEEDEED
+                                      ************************************************************
+
+geneid:Bo9g159960;contig:C9;feat      GGGGKEERPKLDEGFFEIEAIRRKRVRKVSSFFFFHYIVCSLQSCLFYSFVRNLTNLAEH
+seqstart:47260869;seqstop4726279      GGGGKEERPKLDEGFFEIEAIRRKRVRKVSSFFFSITLFVPYK-VVSFIHLETLTQNIEF
+                                      **********************************   :. . :  : : .: .**:  *.
+
+geneid:Bo9g159960;contig:C9;feat      ILGKEISFIIKQ-NLIQCLLCLICSYLFYGFDCRERSSILNGEFFQTYTQFLDQNICFFF
+seqstart:47260869;seqstop4726279      YEGKKSPLLSRIFNACFNVYVLIC---FMGLIVGKGPVSNMVSSFKPTLSFLIKTYAYFF
+                                        **: .:: .  *    :  ***   * *:   : .     . *:.  .** :. .:**
+
+geneid:Bo9g159960;contig:C9;feat      HHKFLKTLVVVGVDGQKLPTHGSLKRISSLSLMLMHSKEGKLHLNFIILFSIGLFQSYMK
+seqstart:47260869;seqstop4726279      NHKFLKTLVVVGVDGQKLPTHGSLKRISSLSLMLMHSKEGKLHLNVIILFSIGLFQSYMK
+                                      :********************************************.**************
+
+geneid:Bo9g159960;contig:C9;feat      IAFFVFKVSQGSLEGSQEGSANIMEVLILILSRRSSNVYLLHHMMLLRDQTLSHLLITPA
+seqstart:47260869;seqstop4726279      IAFFVFKVSQGSLEGSQEGSANIMEVLILILSRRSSNVYLLHHMMLLRDQTLSHLLITPA
+                                      ************************************************************
+
+geneid:Bo9g159960;contig:C9;feat      FLTFVVHLTTSAVQEMGKLLMQQPTKLKLTAGGVLGWLERRKITIQPLASGDQEALIMLD
+seqstart:47260869;seqstop4726279      FLTFVVHLTTSAVQEMGKLLMQQPTKLKLTAGGVLGWLERRKITIRPLASGDQEALIMLD
+                                      *********************************************.**************
+
+geneid:Bo9g159960;contig:C9;feat      QMGFSRFILRTVSSVLSGGSLVLKDSNKTHPQVTTTTTTQQQLLMIRMRKSWLRTLLVES
+seqstart:47260869;seqstop4726279      QMGFSRFILRTVSSVLSGGSLVLKDSNKTHPQVTTTTTTQQQLLMIRMRKSWLRTLLVES
+                                      ************************************************************
+
+geneid:Bo9g159960;contig:C9;feat      RGGTSILVCWRITISLRKARWRSWILRRSSNRSFLRLRTMYKTCWPFWLGLSLHSCGQSS
+seqstart:47260869;seqstop4726279      RGGTSILVCWRITISLRKARWRSWILRRSSNRSFLRLRTMYKTCWPFWLGLSLHSCGQSS
+                                      ************************************************************
+
+geneid:Bo9g159960;contig:C9;feat      HLNFTYFGCYYSVWGGSDG-QQIPQGSQSSSGNLIFSLFSCAFFYSLGRFKLRLFCVFFV
+seqstart:47260869;seqstop4726279      HLNFTYFGCYYSVWGGSDGRQQIPQGSQSSSGNLIFSLFSCAFFYSLGRFKLRLFCVFFF
+                                      ******************* ***************************************.
+
+geneid:Bo9g159960;contig:C9;feat      VDASLNSTSNISSTIPKD
+seqstart:47260869;seqstop4726279      VDASLNSTSNISSTIPKD
+                                      ******************

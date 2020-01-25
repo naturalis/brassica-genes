@@ -1,0 +1,46 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g012730;contig:C3;feat      MTDTPLDSSTQNMEGAGVKNDAGEADTAVETVGGSGDEGGRGETIPGKIGDDRRTEDVEE
+seqstart:4327640;seqstop4329549+      MSDTPLDSNTQNMEGAGVKNDAGEADTAVETVGGSGDEGGRGETIPGEISDDRRTEDVEE
+                                      *:******.**************************************:*.**********
+
+geneid:Bo3g012730;contig:C3;feat      KEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+seqstart:4327640;seqstop4329549+      KEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+                                      ************************************************************
+
+geneid:Bo3g012730;contig:C3;feat      EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEGKEDGPKVAEEFYEVEAIR
+seqstart:4327640;seqstop4329549+      EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEGKEDGPKVAEEFYEVEAIR
+                                      ************************************************************
+
+geneid:Bo3g012730;contig:C3;feat      HKRVHKVSFFLISIFMLTSSLLHLLFAFNVLISSCVRFSYFDCVYF-GSAALILMVLIDC
+seqstart:4327640;seqstop4329549+      HKRVHKVSFFLISIFMLTSSLLHLLFAFNVLISSCVCFSYFDCVYFTGSAALILMVLIDC
+                                      ************************************ ********* *************
+
+geneid:Bo3g012730;contig:C3;feat      RVRCSISNGEFFSLYSLFILDQSYVFFFYTDISCKLCFVGKDGLKLITPGSLRICSLFLL
+seqstart:4327640;seqstop4329549+      RVRCSISNGEFFSLYALFILDQSYVFFL---LHHKLTLFCRKGWPETDNTWEPLENLQSL
+                                      ***************:***********:   :  ** :. ..*          : .*  *
+
+geneid:Bo3g012730;contig:C3;feat      LMHLKN-GMLHLMQPFDVILFVFVFLLQTE----YSDIINI-----LTEYSDIINILTEY
+seqstart:4327640;seqstop4329549+      SASIDAFEKRYVASNVAAICYTFCFCFSSTNLRIYHKYFNLRIYIYLTEYSDIINILFYN
+                                         :.     :: . . .* :.* * :.:     * . :*:     ***********   
+
+geneid:Bo3g012730;contig:C3;feat      IYILKNIVISIFYFTIFYSLFRLFPLLMYGFA----FLFSKFEEGEAEEPVWRFFSVEEE
+seqstart:4327640;seqstop4329549+      ILLFVSFISFVNVWICFL-VFKVRRLIRSGRASMEVLILSRRRRSSRNGHPHHMMLLRE-
+                                      * :: .::  :  :  *  :*.:  *:  * *    :::*.   .. :   ..:: : * 
+
+geneid:Bo3g012730;contig:C3;feat      EAAETVNIHITCFENRSDTQRVKGTSHQRFGEFPRGRSSHWFGCKNKPSQGAGEEWCQR-
+seqstart:4327640;seqstop4329549+      -------------PIRHSTSRDKSLTVTGRGVPKREKQPLVLRVIMQEQMTFSRVSVRRR
+                                                     * .*.* *. :    *   * ...  :    : .   .    .* 
+
+geneid:Bo3g012730;contig:C3;feat      -CAEEAYCEKIHDTRNHHKQPDNNSYRSER-DTKLGHREDHQASGGYYFYNKQCTRLVGN
+seqstart:4327640;seqstop4329549+      VVSEVLSGGRLVLKNTYQMKPPQVTTRQQQLPIRTRHQTWTSGSSSQWRLLLLQTMYKTR
+                                        :*     .:  ...:: :* : : *.:.   .  *.   ..*.. :      *    .
+
+geneid:Bo3g012730;contig:C3;feat      FLGAEVCCLSLY--FGLFTFEFQIVCAYFWLYTTR----ADGEEVTVDNKFLRAHNHHLV
+seqstart:4327640;seqstop4329549+      WLSRCRGLLSLFALWLVVHIVSNCLCLFLALYYLKGWGGSNGQQVSQGSS---SSGKISF
+                                      :*.     ***:  : :. :  : :* :: **  .    ::*::*: ...   : .:  .
+
+geneid:Bo3g012730;contig:C3;feat      RFLFLMHFYYLEDFNFVFLFLTPAAFLRATYHIQVL--
+seqstart:4327640;seqstop4329549+      SYAFLLSGRFL-----ICVFVFNASCLISTSNISHTSP
+                                       : **:   :*     : :*:  *: * :* :*.    

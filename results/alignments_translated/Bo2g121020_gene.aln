@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g121020;contig:C2;feat      MGKKKKRATEKVWCYYCDREFEDEKILVQHQKAKHFKCHACHKKLSTASGMVIHVLQVHK
+seqstart:37825326;seqstop3782774      MGKKKKRATEKVWCYYCDREFEDEKILVQHQKAKHFKCHACHKKLSTASGMVIHVLQVHK
+                                      ************************************************************
+
+geneid:Bo2g121020;contig:C2;feat      ENVTKYVPDHLLISIKIESLLHYRKGPLFLFDREISRGFNVF-------------AYRIL
+seqstart:37825326;seqstop3782774      ENVTKYVPDHLLISILLTGNLGKKLNLYCIIGKD--HSFDCLIGRFQGGSMCLHIEFVLV
+                                      *************** : . *  . .   ::..:  ..*: :              : ::
+
+geneid:Bo2g121020;contig:C2;feat      SLGLVGCIKKGNSFLFLLGLGLVA--RDDACYSSHITSSDFIHCSNFDMFSHGSCRRSRF
+seqstart:37825326;seqstop3782774      WLGVLKRVIDPFSSCSCLGLGLLEMMHNVIVFTSHL----LISYTALTLI----CFPIRV
+                                       **::  : .  *    *****:   .:   ::**:    :*  : : ::    *   *.
+
+geneid:Bo2g121020;contig:C2;feat      NYNIRNARNPT----------------SSLGCSLRRRRMDL-------TTHVLLFALLFM
+seqstart:37825326;seqstop3782774      P-NAKDGRDSTDIEIYGMQGIPPHLLAAHYGEEGKWTQLDMYYCLHYCSCHLLYFALVSV
+                                        * .:.*:.*                :  * . .. .:*:       : *:* ***: :
+
+geneid:Bo2g121020;contig:C2;feat      SSSLFCISCTDAVFSARGRVSSQSCKSDSFRPY--WCRSSTLRNGISTSTSAWC-CATYV
+seqstart:37825326;seqstop3782774      LTLCFLPEEESLAKVAKVEIPSVPIGAAVPRPYGMVYQPQQVPGAVRPMYVHYILCFAVT
+                                       :  *  .  . .  *.  :.* .  :   ***    ... : ..: .    :  * : .
+
+geneid:Bo2g121020;contig:C2;feat      CTLYSLFCCDLDLRMLSLFSSFDPLLFSFPGPKIPNMIHKVLFFSLVRSDCTINYGLELF
+seqstart:37825326;seqstop3782774      CRILGCCLCFLHNLIHSYFFGFLVLKFDPQGSFFFPFALKIVQYRTIANNCST-------
+                                      * : .   * *   : * * .*  * *.  *. :  :  *:: :  : .:*:        
+
+geneid:Bo2g121020;contig:C2;feat      HYCFLIDIFYILSLLIMLYYFLSIGTI--PVLLFGLLVLHGLCLLHRNNGIHIIQR----
+seqstart:37825326;seqstop3782774      -IVFLSKIFFI-------FYHFSCYTIFCQVLSRCFYAASWSCMAYASSTATMVSTESSG
+                                         ** .**:*       :*.:*  **   **   : .    *: : ..   ::.     
+
+geneid:Bo2g121020;contig:C2;feat      FLFIHLPIGIIHNNSFPFMVWG------LCQHH-----LMPMESLLHHLPQCRFLNLCSL
+seqstart:37825326;seqstop3782774      FCSSTCPFRVSSTTTLSRSWYGDDCANIICSQWSHSFIISRNAGFSTSVPCCEHHSFPSF
+                                      *     *: :  ..::.   :*      :*.:.     :    .:   :* * . .: *:
+
+geneid:Bo2g121020;contig:C2;feat      --LIASLLPKLQMHIRLITLFQVSFVLRIDCLDLAQLVLV-LKLNLSLSYVFFAVGGTNP
+seqstart:37825326;seqstop3782774      NECISALFSR----------FSLLFSESIAILSLSWFNLISLSLSLSL-LCSFAVVGTNP
+                                         *::*:..          *.: *   *  *.*:.: *: *.*.***    *** ****
+
+geneid:Bo2g121020;contig:C2;feat      HSYASGPDTSGPSIGPPPVIANKAPTSQPNEVYLVWDDEAMSMVSFLLYVLYCHLTNQFD
+seqstart:37825326;seqstop3782774      HSYASGPDTSGPSIGPPPVIANKAPTSQPNEVYLVWDDEAMSMVSFLLYVLYCHLTNQFD
+                                      ************************************************************
+
+geneid:Bo2g121020;contig:C2;feat      LTRLYLQEERRMFLPKYKVHDETSQVSSEISLLKLKVRLLCTSNPFGRLYLCLFLLQRLL
+seqstart:37825326;seqstop3782774      LTRLYLQEERRMSLPKYKVHDETSQVSSEISLLKLKVRLLCTSNPFGRLYLCLFLLQRLL
+                                      ************ ***********************************************
+
+geneid:Bo2g121020;contig:C2;feat      ILCEVPLLFQFIVSSLRIRELRTTTIVKHVSLVSLVACDSTCKKRKMCLYLLALFIVYPL
+seqstart:37825326;seqstop3782774      ILCEVPLLFQFIVSSLRIRELRTTTIVKHVSLVSLVACDSTCKKRKMCLYLLALFIVYPL
+                                      ************************************************************
+
+geneid:Bo2g121020;contig:C2;feat      SSCIVLKNNWFGPQDHTQQVWFQTRSAPFFFISLKYAKFGTFAQSLSRGTRKE------N
+seqstart:37825326;seqstop3782774      SSCIVLKNNWFGPQDHTQQVWFQTRSAPFFYFIKVCKVWYLCTITVSRNKKRKLFLAFRR
+                                      ******************************::      :   : ::**....:      .
+
+geneid:Bo2g121020;contig:C2;feat      SFPFDE---LFYLLRTGLCCFNGCRTRMKPTDESQRVGLLGGWHF
+seqstart:37825326;seqstop3782774      TFLFTENRALLFLKWLQMNSINEAIDR--RISESRLAGRMA---F
+                                      :* * *   *::* .  : .:* .  *    .**. .* :.   *

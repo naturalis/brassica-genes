@@ -1,0 +1,66 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo8g098940;contig:C8;feat      MKRGKEEEKRLEPMFPRLHVKDAEKGGPRAPPRNKMALYEQLSIPSQRFT-SSDRAGSLP
+seqstart:33982841;seqstop3398551      MKRGKEEEKRLEPMFPRLHVKDAEKGGPRAPPRNKMALYEQLSIPSQRFTSSSDRAGSLP
+                                      ************************************************** *********
+
+geneid:Bo8g098940;contig:C8;feat      RNTSPLLPPGPSSNQVLLLLFGV---LHLYMQLLPLCYFLGLSLNDS-----IAKIHIFY
+seqstart:33982841;seqstop3398551      RNTSPLLPPGPSSNQVLYAAFAFDSSMLFSCTLFMIHFFFFFNLGNILILRLLARRLITL
+                                      *****************   *..   : :   *: : :*: :.*.:      :*.  *  
+
+geneid:Bo8g098940;contig:C8;feat      SSVNDSYFFV-YWPGNLCLPYALHGKCAGFFSTSSSEENSRGRFRCSSIYLMFWQRQEWL
+seqstart:33982841;seqstop3398551      SPICPSWKMCGLLQHIMIIRGKLERKMISLFQYLLTLE-VLAEARVAQSEVLAWQLTQLQ
+                                      *.:  *: :       : :   *  *  .:*.   : *   .  * :.  :: **  :  
+
+geneid:Bo8g098940;contig:C8;feat      KARCWLGSLSYRGNGSCIDPS-RWTHWS--------------------VSHGGIGRRRSW
+seqstart:33982841;seqstop3398551      RIWILHRLVTEMMDALIMELSLTWRHRKKKVMVMLMMSTVQVEEDTPLCNKRIMKRRRVM
+                                      . .     ::   :.  :: *  * *..                     .:  : ***  
+
+geneid:Bo8g098940;contig:C8;feat      SWSWCRVLYK--------WRRIHLSATRDKRGGEFYGGFC-------FQLRCLSRRCGSV
+seqstart:33982841;seqstop3398551      IILW-WILFPAMSLPMTLW-ECWVKNVSGEQGKLLPSKFSLHLFDSTYLLACLPLNPPQN
+                                         * .:*:         *   .:. . .:.*  : . *.       : * **. .  . 
+
+geneid:Bo8g098940;contig:C8;feat      GSKTFLESKESYCQVSSHYIYLIPPICLLACPILPKMWSDYIWLKTLSVTYLTHLDHVSR
+seqstart:33982841;seqstop3398551      VVRLYMVFKDPFCNIFNAFGSCQGGTFVHSARCLPRQFMDFI-LCLLSICLLEHVS-LSR
+                                        . ::  *:.:*:: . :        : :.  **. : *:* *  **:  * *:. :**
+
+geneid:Bo8g098940;contig:C8;feat      EGHSYIVQGACRDSLWILYCVFLASACWNMCPCLGLVLVLFFILGHFPLLVTQRGTRGN-
+seqstart:33982841;seqstop3398551      FG---------------IGIVFYSWAFSPSCHSKGL---------------NQVGERASE
+                                       *               :  ** : *    * . **               .* * *.. 
+
+geneid:Bo8g098940;contig:C8;feat      ----VLLRTSGDLNFSPYIKARLVSKCIL--VTEDPRVIVNYGRLHTLRFKVLDISNLSF
+seqstart:33982841;seqstop3398551      VPRGIILVNHTKLGYESHENAESLLKRILSGLTTDDSIL-------DLKF-LISVTCLFF
+                                          ::* .  .*.:..: :*  : * **  :* *  ::        *.* ::.:: * *
+
+geneid:Bo8g098940;contig:C8;feat      LFLVFLVNSFMIPLCASLDALIWHSLELCIHTSFHFRLLQLYIILLILCFSLQSTKSICC
+seqstart:33982841;seqstop3398551      FLFSLTV------------------LYLYVHLWTHFGILDSCVFILLFIFDCCNYISSCF
+                                      ::: : *                  * * :*   ** :*:  :::*:: *.  .  * * 
+
+geneid:Bo8g098940;contig:C8;feat      STVAAQADGKNLNSEFLFIMNVVIVINQLYCFFFFLSLISCNIVIVINQVQRLIAASPDV
+seqstart:33982841;seqstop3398551      DCVSPYSQQRVFAVQLFELHRLIKVKISIQNFFSLMLSISCNIGFFFVTDQLYCNRNKSG
+                                      . *:. :: . :  ::: : .:: *  .:  ** ::  ***** :.:   *     . . 
+
+geneid:Bo8g098940;contig:C8;feat      LVDDMSYVGKVTAKSYPVKQLHLPSGFIVKPPLPQVIKHRNSSDSDKTDQHKMECSAENV
+seqstart:33982841;seqstop3398551      TKTNSCIAGCFGRHELCWKSYCKLSSEGAPPSIRFYSKASSTTGYQTQKQQRLGQDPTN-
+                                         : . .* .  :.   *.    *.  . *.:    *  .::. :. .*:.:  .. * 
+
+geneid:Bo8g098940;contig:C8;feat      VGKLPNQGQGQGQVHHHHQPSNYMMPFATNQPSPNGCYY---PPQPPPSGGNQQWLIPVM
+seqstart:33982841;seqstop3398551      -GMLSERSWEAAKPRSRSSSSTTFQLHDAFCDQPTHCKWMLLSPSASSFGRKPAMVDPCY
+                                       * *.:...  .: . . ..*. :  . :   .*. * :   .*.... * :   : *  
+
+geneid:Bo8g098940;contig:C8;feat      SPSEGLIYKPHP-----GPDPGHTGPV---------CGGYYGHFMPAPMFMGGGGGQPPP
+seqstart:33982841;seqstop3398551      VSFRRADIQTAPRSRSRSRSRAHRAGLRRVLWSFHACTNVHGWWWWSASSVSPGHGIP--
+                                       .      :. *     . . .* . :         * . :*.:  :.  :. * * *  
+
+geneid:Bo8g098940;contig:C8;feat      FHPGMGFPSHGNGYFPPYGGIMMNPYYSGQQEQQQPNEQMN-NNIQQQSSVNE--ATSQQ
+seqstart:33982841;seqstop3398551      ----ISWWLLSSIWWYHDEPLLFRTTTTQANEQQHPTTELSESDFTTTTTANEILSSGKE
+                                          :.:   .. ::     :::..  :  :***:*. ::. .::   ::.**  ::.::
+
+geneid:Bo8g098940;contig:C8;feat      QQPTKSYPRAKKSRQEGISGKKKSFQPFLAVDDVHDDKINNAAQPTEEMMTTTTTTTTTV
+seqstart:33982841;seqstop3398551      QAGGNLWEEVLSTILSG--QDQQCCTTYGNDDDNHNH--NNNCDSDNERWSRSDESDQGG
+                                      *   : :  . .:  .*   .::.  .:   ** *:   ** .:. :*  : :  :    
+
+geneid:Bo8g098940;contig:C8;feat      TQTTRDGAGVTRVIKVVPHNANLASENAARIFRSIQEERKHYYP-
+seqstart:33982841;seqstop3398551      SAQCQTG------------------EERCKNF-PVNTRRATLLPL
+                                      :   . *                  *: .. * .::  *    * 

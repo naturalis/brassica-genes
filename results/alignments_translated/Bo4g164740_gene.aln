@@ -1,0 +1,42 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo4g164740;contig:C4;feat      MSRISSDPLMVGRVIGDVVDNCLQAVKMTVTYNCDKQVYNGHELFPSAVTNKPKVEVHGG
+seqstart:44055040;seqstop4405683      MSRISSDPLMVGRVIGDVVDNCLQAVKMTVTYNCDKQVYNGHELFPSAVTNKPKVEVHGG
+                                      ************************************************************
+
+geneid:Bo4g164740;contig:C4;feat      DMRSFFTLVRKLLSYMLIQILLSRFVYLILPSLLVSCYVIHKPYNFCTKKKPYNFLSSSS
+seqstart:44055040;seqstop4405683      DMRSFFTLVRKLLSYMLIQILLSRFVYLILPSLLVSCYVIHKPYNFCTKKKPYNFLSSSS
+                                      ************************************************************
+
+geneid:Bo4g164740;contig:C4;feat      KETFLVQLLKRLTTNIEIVYFVKCQYSAYSFKIITLRHKMQKIFLTCLRKKNISKKTQLF
+seqstart:44055040;seqstop4405683      KETFLVQLLKRLTTNIEIVYFVKCQYSAYSFKIITLRHKMQKIFLTCLRKK------KHF
+                                      ***************************************************      : *
+
+geneid:Bo4g164740;contig:C4;feat      IDLVKQRNLKSKKIMTLVLRISLNYEVECIMVELLFFTDFTVVII--FKNGTYKTCFIKL
+seqstart:44055040;seqstop4405683      KNSIIHRSCKTKK----PEKKNNDFSLTDLLALSRMYNGRVVVIFHRFYRGDNFEWYIQN
+                                       : : :*. *:**      . . ::.:  ::.   ::.. .***:  * .*     :*: 
+
+geneid:Bo4g164740;contig:C4;feat      LFFRFSLHFRESLFYINVPYSLFFFGKIRTYSLLLSNGEFFVANTCVSLCRYLFVS--RV
+seqstart:44055040;seqstop4405683      LFHKTPIF---QIFAFSGIFILYCSGELRILCF------FLVKERILCFCKATANSLLQI
+                                      **.. .:.   .:* :.  : *:  *::*  .:      *:* :  :.:*.    *  .:
+
+geneid:Bo4g164740;contig:C4;feat      DMFMIHEYRICQSGHDSCSWTSLSEGALALVKFIPSFFGETCDCI--HMQFLQYMSGLLP
+seqstart:44055040;seqstop4405683      HVFLYVDIYLC---HVICSFMNIEYVNQVMTD--PDVPGPSDPYLREHLHWNLFLPFLVK
+                                       :*:  :  :*   *  **: .:.    .:..  *.. * :   :  *:::  ::. *: 
+
+geneid:Bo4g164740;contig:C4;feat      ------ISQGQPTHLVSHIY-FSKSNKH--YIIYAFF-------IRFIYDP---------
+seqstart:44055040;seqstop4405683      KHVIVYICNSFCNDICQDCYRYPRDNRRDIWVIYTLVNQTNDITYKYMHSSLGLYMIQIC
+                                            *.:.  . : .  * :...*..  ::**::.        .:::..         
+
+geneid:Bo4g164740;contig:C4;feat      DLPKSLYLLSTFKPKFREHANLFQYKIPKKKHSISRHSLVSYGLDLYVCLYCHRCSKNKV
+seqstart:44055040;seqstop4405683      NLRVCIYYNLLLNQSFVNMPIYFSIKFQKKKHSISRHSLVSYGLDLYVCLYCHRCSKNKV
+                                      :*  .:*    :: .* : .  *. *: ********************************
+
+geneid:Bo4g164740;contig:C4;feat      SPPCYNRSGSLETVRGTANYSNQCRRQKYLISFTCQLVIFSSKKYKTGKEIVGYEMPRPN
+seqstart:44055040;seqstop4405683      SPPCYNRSGSLETVRGTANYSNQCRRQKYLISFTCQLVIFSSKKYKTGKEIVGYEMPRPN
+                                      ************************************************************
+
+geneid:Bo4g164740;contig:C4;feat      IGIHRFVYLLFKQNRRGSLVSVPSYRDQFNTRMFAYENDLGLPVAAVFFNCQRETAARRR
+seqstart:44055040;seqstop4405683      IGIHRFVYLLFKQNRRGSVVSVPSYRDQFNTRMFAYENDLGLPVAAVFFNCQRETAARRR
+                                      ******************:*****************************************

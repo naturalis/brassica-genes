@@ -1,0 +1,46 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g009990;contig:C5;feat      VKTCQALGRATPPRAQGGQDTALGSLRRPPLMQSSTLTSRNQAAPLTTQPRSASPDPLWR
+seqstart:3722893;seqstop3724964+      VKTCQALGRATPPRAQGGQDTALGSLRRPLLTQSSTLISRSQAAPLTTQPRSASPDPVWR
+                                      ***************************** * ***** **.****************:**
+
+geneid:Bo5g009990;contig:C5;feat      TSRQGLTRPPPISITYRRENFSPSVVCSPWMRRPSKSLPTARTPPSSRWPVMRFPALANR
+seqstart:3722893;seqstop3724964+      TSRQGLTRPRLISITYRRESFSPSVVCSPWMRRPSKSLPTARTPPSSRWPVMRFPALANR
+                                      *********  ********.****************************************
+
+geneid:Bo5g009990;contig:C5;feat      VLAGRTGASSLLLAPLRCRKRDSVTSPCTPFSCIARLPQSPSTRLCTGSQGASSSTSNRS
+seqstart:3722893;seqstop3724964+      VLAGRTGASSLLLAPLRCRKRDSVTSPCTPFSCIARLPQSPSTRLCTGSQGASSSTSNRS
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      LTKFPLLLVLCNRTSLQRRSLGCSLCPAGAWRGSATRWFRRFSSSPGMTEWLISFTTMIT
+seqstart:3722893;seqstop3724964+      LTKFPLLLVLCNRTSLQRRSLGCSLCPAGAWRGSATRWFRRFSSSPGMTEWLISFTTMIT
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      ERSSPRSQSLVSLTLVSIIQPRTSLKRLVFSLRTRFGSLTATQNMGCFKTKSFPLISPCA
+seqstart:3722893;seqstop3724964+      ERSSPRSQSLVSLTLVSIIQPRTSLKRLVFSLRTRFGSLTATQNMGCFKTKSFPLISPCA
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      APRLERLTAVICSTWPTWILLHLLLWRLWTRRTEEKGTPPPLIPPRLGRGRGYGVWWFVT
+seqstart:3722893;seqstop3724964+      APRLERLTAVICSTWPTWILLHLLLWRLWTRRTEEKGTPPPLIPPRLRRERGCGDWWFVT
+                                      *********************************************** * ** * *****
+
+geneid:Bo5g009990;contig:C5;feat      TQLRGSSRFLSGTLVSFRKCLRYTSTRRWSWRTRLLRRTSCARRRSCAICCVTLRWGLSR
+seqstart:3722893;seqstop3724964+      TRLRGSSRFLSGTLVSFRKCLRYTSTRRWSWRTRLLRRTSCARRRSCAICCVTLPWGLSR
+                                      *.**************************************************** *****
+
+geneid:Bo5g009990;contig:C5;feat      RAPT-WTLNAMEQLSCTKTRYGSWGLRASSISRRLRGCASTTLTRLVALIACTTLGFLEL
+seqstart:3722893;seqstop3724964+      RAPTLWTLNAMEQLSCTKTRYGSWGLRASSISRRLRGCASTTLTRLVALIACTTLGFLEL
+                                      **** *******************************************************
+
+geneid:Bo5g009990;contig:C5;feat      LLETRSAEWRLGSRRKTSSGSVLTPLGKDGEVRSMIQTIGMTRGECTRGLPSRPSSKW-K
+seqstart:3722893;seqstop3724964+      LLETRSAEWRLGSRRKTSSGSALTPLGKDGEVRSMIQSIETTRGECTRGHRSRLFLKWSR
+                                      *********************.***************:*  ********  **   ** .
+
+geneid:Bo5g009990;contig:C5;feat      QGVYLGRTMRWMPYTPCSLFGTLSRMGKLPMIRRSFTRSLMIRLMVYKSKLSLARWFVSR
+seqstart:3722893;seqstop3724964+      RGVCLGRTTRWMPYTPCSLFGMLSRMGKLPMIRRSFTRS-MIRLMVYKSKLSLARWFVSR
+                                      .** **** ************ ***************** ********************
+
+geneid:Bo5g009990;contig:C5;feat      LPLCRYWRLILMDWLMVGTRRLLSLVFLLMKQSGSISSHMLRILQLKSLRGCKMHK
+seqstart:3722893;seqstop3724964+      QLLCRYWRLILMDWLMVGTRRLLSLVFLLMKQ-GSISSHLLKILQLKSLRGCKMH-
+                                        ****************************** ******:*.************* 

@@ -1,0 +1,62 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo6g038300;contig:C6;feat      MFFVTVTCFVPSVRLIFLLLLRARRTLRFLCFIIGFLLLSFCEIVFADILFFGFQIINDR
+seqstart:9358014;seqstop9360516+      MFFVTVTCFV--LSLIFLLLLRARKMLRFLCFIIAF-LLSFCEIVFADILFFGFQIINDR
+                                      **********  : **********. ********.* ***********************
+
+geneid:Bo6g038300;contig:C6;feat      EMGRSRGFGFVTFKDEKSMKDAIDEMNGKELDGRTITVNESQSRGKEAA-----------
+seqstart:9358014;seqstop9360516+      ETRRSRGFGFVTFKDEKSTRDAIDEMNGKELDGRTITVNEAKSRGSGGGGGRGGGGYGGR
+                                      *  *************** .********************::***. ..           
+
+geneid:Bo6g038300;contig:C6;feat      -----------VEEAVVEVDTVAVEVAVHFLFRFINDFIYKI--VRPNILTFSRYKISGL
+seqstart:9358014;seqstop9360516+      GGGGMTLLAFPIYERLIYIDCTMAKLDSHYL--SLIDFWVMILWVQPPKSMYGRIQICYP
+                                                 : * :: :* . .::  *:*   : **   *  *.*    :.* :*.  
+
+geneid:Bo6g038300;contig:C6;feat      SLLVSTPKINAWRDSDLLSSCNFKLVLSLLYLFATLLSCLCVCLFVDCGSLDQHGFAWDK
+seqstart:9358014;seqstop9360516+      HVILSFSHYCIFSH----EYCN---VVCVYVLF------LTVDHWINMG-LQGTKYG-SM
+                                       :::* .:   :      . **   *:.:  **      * *  ::: * *:   :. . 
+
+geneid:Bo6g038300;contig:C6;feat      IWAIDDNLPPQVLKIIISSSSQTIRRGLKAMVLQVKVKPSSSFYVLYLYRFILCVCLL--
+seqstart:9358014;seqstop9360516+      IIYLHEFLKSSLVDLHLKPTEEDLKQWSDGK----NNRHPFMFFIFIDSEFYVCVSFLSS
+                                      *  : : * ..::.: :..:.: :..  ..     : . .  *:::    * :**.:*  
+
+geneid:Bo6g038300;contig:C6;feat      -FEFWVSLAIDAHSTLISLETSMANPSDSYLHIILTSLSQIGNLYSL-NIYHQQNILCLM
+seqstart:9358014;seqstop9360516+      GFHLLI-LKIDFFRNINGKPFRFLFAYHTYL-----AVSDI-RLYSLSNIYYKQNILFLM
+                                       * : : * ** . .: .    :  .  :**     ::*:* .**** ***::**** **
+
+geneid:Bo6g038300;contig:C6;feat      NHSTIEGLETFEHLENLSKKEL-LTEQGDINNLIGKDVIIDSDEQVSLVNAYQNVIFISD
+seqstart:9358014;seqstop9360516+      NHSTIEGLEKRALREPQQKGAFNRTRRQQPLNLRG----CNHRTKYRWL-THIRMLFLFQ
+                                      *********.    *  .*  :  * . :  ** *     :   :   : :: .::*: :
+
+geneid:Bo6g038300;contig:C6;feat      GPDLPWRY-PKMVAVLDNERKRTHVIGKELLNTVKNHRNFFFCYYLFTRYGFHLCSCMTM
+seqstart:9358014;seqstop9360516+      MDQTYFGYCPKWQFLIMNGKEHMLLEKNDF--TRRIIRFVFFSLLALHTIWFSLIMIVMM
+                                        :  : * **   :: * .:.  :  :::  * .  * .**.   :    * *   : *
+
+geneid:Bo6g038300;contig:C6;feat      ------GR---IGTMSTKTYFVWMVITLKPEEWTSQAVCFSLLRSVSALINLNNREKDSD
+seqstart:9358014;seqstop9360516+      QLYVNHGKGEFRGQVQKHTLCGWLLLS---HEKNGPASLYSLLRSVSALINLNNRAKDSD
+                                            *.    * :..:*   *::::    *... *  :*************** ****
+
+geneid:Bo6g038300;contig:C6;feat      SVCFGIPSKKSSTTEIMQKNKLDNVFHNLIAGAGFFLPVLQERPSSKKLSWKNSQAAQRG
+seqstart:9358014;seqstop9360516+      SVCFGITSKKSSTTEIMQRNKLDNLFHNFIADAGFFLPVLQERPSSKKLSWKNSQAAQRG
+                                      ******.***********.*****:***:**.****************************
+
+geneid:Bo6g038300;contig:C6;feat      VYNLRRNDQMCGNKK--RLSYLLPHKFQRSKLVICFIQVRVISYDSVISIT-EIMVKY--
+seqstart:9358014;seqstop9360516+      VYNL-RNEKMCGNKKGYHISYCISN-FKDQNYALCEYEFLITPLSASLKLCWNTWLKYYP
+                                      **** **::******  .:** :.: *: .: .:*  :. : . .: :.:  :  :**  
+
+geneid:Bo6g038300;contig:C6;feat      -----------MAEILPVRSATVKSPPSLDSFPSSPGRIDRYNILNQPNG--------NA
+seqstart:9358014;seqstop9360516+      FDQLELSLLRPLIHLVPVQAA-LTLIISTNQMGTRAKWCKYHNVFLDHYTCTWKWRSIDS
+                                                 :  ::**.:* :.   * :.: : . . . :*:: :           ::
+
+geneid:Bo6g038300;contig:C6;feat      SKMVIPQCFLIGPLHMYLEMEKHRLKHITRMNGLRKMRLTSTSFLQPPVVLPTSNVSVSG
+seqstart:9358014;seqstop9360516+      TREMRERC---ARRHHSYSLSQWCYRP-------QTCPFQVQSYISPRKTL----VVVLL
+                                      :. :  .*   .  *   .:.:.  .        ..  :   *::.*  .*    * *  
+
+geneid:Bo6g038300;contig:C6;feat      TIIFYFPKNI-SCSFADSSILQPKSEKQTWWPDNRGRVYEQYNIRMVDKTSTEMPHDSFT
+seqstart:9358014;seqstop9360516+      TVLFYVSRKVRNKRNSGCQITEEESTNNTILR----------MVTMVDKTSTETPHDSFT
+                                      *::**...:: .   :...* : :* ::*              : ******** ******
+
+geneid:Bo6g038300;contig:C6;feat      QPLLFSQAPEASECKYWDI
+seqstart:9358014;seqstop9360516+      QSLLFSQAPEASECKYWDI
+                                      *.*****************

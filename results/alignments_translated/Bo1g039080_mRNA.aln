@@ -1,0 +1,62 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo1g039080;contig:C1;feat      MTREKIRIKKIDNLTARQVTFSKRRRGIIKKANELSILCDADVALIIFSATGKLFEFSSS
+seqstart:11775851;seqstop1177850      MAREKIRIKKIDNLTARQVTFSKRRRGIIKKANELSILCDADVALIIFSATGKLFEFSSS
+                                      *:**********************************************************
+
+geneid:Bo1g039080;contig:C1;feat      RYVYFHFIKFLSFLFSIFGLRDDNIVKICNYMRLLVIFYSLKFILGLGEIIYVVSCVSRH
+seqstart:11775851;seqstop1177850      RYVYFHFIKFLSFLFSIFGLRDDNIVKICNYMRLLVIFYSLKFILGLGEIIYVVSCVSRH
+                                      ************************************************************
+
+geneid:Bo1g039080;contig:C1;feat      NLIIYIEAVKIKDSDDLTLYLLLSLSSNKNIRIMFTMTLLILLRYVTKHNYIIKYRLFTF
+seqstart:11775851;seqstop1177850      NLMIYIEAVKIKDSDDLTLYLLLSLSSNKNIRIMFTMTLLILLRYVTKHNYIIKYRLFTF
+                                      **:*********************************************************
+
+geneid:Bo1g039080;contig:C1;feat      LNHFHLDILFYNLKGESIIFFLLCVMQASVYIWIHGTYHNNGLLFLFLLLYFVLQKSLTV
+seqstart:11775851;seqstop1177850      LNHFHLDILFYNLKGESIIFFLLCVMQASVYIWIHGTYHNNGLLFLFLLLYFVLQKSLTV
+                                      ************************************************************
+
+geneid:Bo1g039080;contig:C1;feat      TFGLIVDVLITRLFIVISIYYHNSNGVIQISSAHVLDTFDFFLLFGNKKGSSVFFRLLII
+seqstart:11775851;seqstop1177850      TFGLIGDVLITRLFIVISIYYHNSNGVIQISSAHVLDTFDFFFFL--VVYSLDYFNKLHI
+                                      ***** ************************************:::     *  :*. * *
+
+geneid:Bo1g039080;contig:C1;feat      ----AYMDEGKLYERWIVCYVYERHLGKVSSCKHQQNDGSTFSVSPGILIITHSLLLFYQ
+seqstart:11775851;seqstop1177850      WTKESFMKDGLFVDTCSMRDILGRYNLHASNINKMMGPPSPYH-----QVFSLSLTLFYS
+                                          ::*.:* : :   :  :  *:  :.*. ::  .  *.:       ::: ** ***.
+
+geneid:Bo1g039080;contig:C1;feat      TLVLSLYYPLIFTFYARLFE-LFGVSPHIE------TSYKVNLASMQHSSMLRTWFNISV
+seqstart:11775851;seqstop1177850      YFIKPLSCLYIIRSSLVMRDCLNCLVVHIRHEVTKLTSHQCSINLEACNYVLGSTYQLQN
+                                       :: .*    *:     : : *  :  **       **:: .:     . :* : :::. 
+
+geneid:Bo1g039080;contig:C1;feat      TEPENVDFASSSRIVTSPDVRKSKTKPSSSGMASSICYADKQIFHDKLFF---------M
+seqstart:11775851;seqstop1177850      LKMLTLHLAARELPLPTKGSRRQNQAAQVWLHLYAMLINKSFILQEINYFMCGFYVLKTM
+                                       :  .: :*: .  :.: . *..:  ..      ::   .. *:::  :*         *
+
+geneid:Bo1g039080;contig:C1;feat      FRQCMNVAYMFNL-----FIEKEAISFHGFFRCLIYQVVKIISKAKSLVVFKYDPFSFYQ
+seqstart:11775851;seqstop1177850      YECCLYVLESIHLRKRSYFISWVVFSMSYLSGCKNYFSLKEFSSFQIPIIL---LLSNFI
+                                      :  *: *   ::*     **.. .:*:  :  *  *  :* :*. :  :::    :* : 
+
+geneid:Bo1g039080;contig:C1;feat      TLYRYNIYFTLVLREFNTK------LQSYVPYLRR-SWILYDVSLVSSSMDFFQYPYYCM
+seqstart:11775851;seqstop1177850      SLHLVLVYIAGIAVQYKSSKLCTLLVEAFVDIIRRLGFFLFYVRFFSISILVILYAYLCV
+                                      :*:   :*:: :  ::::.      ::::*  :** .::*: * :.* *: .: *.* *:
+
+geneid:Bo1g039080;contig:C1;feat      ---LNVCDVGLRASLTKCI---------------------------KCDFHVVLCNPRQM
+seqstart:11775851;seqstop1177850      RCGFKSFVMNLKMYIKNVIFMWYSNEILDKEGKILKDTKSCSGWRNRLNLDLVVCLKRRF
+                                         ::   :.*.  :.: *                           . :: :*:*  *.:
+
+geneid:Bo1g039080;contig:C1;feat      RGEDLEGLNLEELQRLEKSL---------------ECGLSRVSEKKVHYIIDQAHFCNVT
+seqstart:11775851;seqstop1177850      ITKSTNNKHIFVTHIVTISCINIKCNIVVVFFVNGECVMSQISSLEKRVISTICVMDNIM
+                                        :. :. ::   : :  *                ** :*.:*. : . *   . : *: 
+
+geneid:Bo1g039080;contig:C1;feat      YSNYKLYKYIKMHCCCCFCLGRMCDEPDIFTETGNKYNLCYGHNDAYMVCILISEVNTRR
+seqstart:11775851;seqstop1177850      IKPTCKYAYVRTHAGIRVGGEQKTEGASMALEPSKQFHI-------YSISILIHYNNTNI
+                                       .    * *:. *.   .   .  : ..:  *..:::::       * :.***   **. 
+
+geneid:Bo1g039080;contig:C1;feat      DQSWWMRIEDGSKYGSCTFIETIPYLYYSDSLYKYLVTLEMAKTMALKEAVETESATTNV
+seqstart:11775851;seqstop1177850      SRWKWLK-------------------RWRRRLWRQSRRPQMCQAMTVELPLKM---TSQI
+                                      .. .*:.                    :   *:.     :*.::*::: .::    *:::
+
+geneid:Bo1g039080;contig:C1;feat      SSYDSG-APIEDDFSDTSLKLGYNLIQWRYTFSVWNMSMLLIVLVSFILLGFHLGN
+seqstart:11775851;seqstop1177850      LPLSLGIINFSEDIHSVCGICRRYLLCW-------------FLLFCASILGM----
+                                       . . *   :.:*: ...      *: *             ::*..  :**:    

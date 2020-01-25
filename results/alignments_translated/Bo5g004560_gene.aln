@@ -1,0 +1,62 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g004560;contig:C5;feat      MATNRKTIVWFRRDLRIEDNPALAAAAREGSVFPVFIW------QFHPGRASRWWMKQSL
+seqstart:1314357;seqstop1317010+      MATNRKTIVWFRRDLRIEDNPALAATAREGSVFPVFIWCPEEEGQFHPGRASRWWMKQSL
+                                      *************************:************      ****************
+
+geneid:Bo5g004560;contig:C5;feat      AHLNQSLKSLGSHLTFIKTHSTVSAILDCVRSTGATKVVFNHLYGTTLFFSHLLFVYTAV
+seqstart:1314357;seqstop1317010+      AHLNQSLKSLGSHLTFIKTHSTVSAILDCVRSTGATKVVFNHLYGTTLFFSHLLFVYTAV
+                                      ************************************************************
+
+geneid:Bo5g004560;contig:C5;feat      LTSYGFLGCRSCFASGPRKGETCGTWDLCARLQWRSIVALGDKLRKWQTFYEFCSLLEEM
+seqstart:1314357;seqstop1317010+      LTSYGFLGCRSCFTSGPRKGETCGTWDLCARLQWRSIVALGDKLRKWQTFYEFCSLLEEM
+                                      *************:**********************************************
+
+geneid:Bo5g004560;contig:C5;feat      LRHVGIRYASSSLAFDASNCRNPDFLEHVGDLVKVSTKNCFYKFGGLYLNHFHSVLSRTG
+seqstart:1314357;seqstop1317010+      LRHVGIRYASSSLAFDASNCRNPDFLEPVGDLVKVSTKKNFTNL-GVYIIIFIRFFP--G
+                                      *************************** **********: * :: *:*:  *  .:.  *
+
+geneid:Bo5g004560;contig:C5;feat      PSKTLDEYVKRTNIFDFYGDTTVEKVCVFPCSLAAEGVWACSVEELGLENEAEKPSNALL
+seqstart:1314357;seqstop1317010+      PVLVKPTNMKEPKTFSTFMGTQLLKKCVFLCSLAAEGVWACSIEELGLENEAEKPSNALL
+                                      *  .    :* .: *. : .* : * *** ************:*****************
+
+geneid:Bo5g004560;contig:C5;feat      TRAWSPGWSNADKILTEFIEKQLIDYAKNSKKVVGNSTSMLSPYLHFGEISVRRVFQCVR
+seqstart:1314357;seqstop1317010+      TRAWSPGWSNADKILTEFIEKQLIDYAKNSKKVVGNSTSMLSPYLHFGEISVRRVFQCVR
+                                      ************************************************************
+
+geneid:Bo5g004560;contig:C5;feat      MKKIIWARDKNSEGEESADLFLRGIGQREYSRYICFNFPFTHEQSLLSHLRFFPWDADVG
+seqstart:1314357;seqstop1317010+      MKKIIWARDKNSEGEESADLFLRGIGQREYSRYICFNFPFTHEKSLLSHLRFFPWDADVG
+                                      *******************************************:****************
+
+geneid:Bo5g004560;contig:C5;feat      KFKAWSQGRTGYPLVDAGMRELWATGWMHNRIRVIVSSFAVKFLLLPWKWGMKYFWDTLL
+seqstart:1314357;seqstop1317010+      KFKAWSQGRTGYPLVDAGMRELWATGWMHNRIRVIVSSFAVKFLLLPWKWGMKYFWDTLL
+                                      ************************************************************
+
+geneid:Bo5g004560;contig:C5;feat      DADLECDIIGWQYISGSLPDGHELDRLDNPAVNLHIFYYRTWFSGLRF-KYRSHLIIYKF
+seqstart:1314357;seqstop1317010+      DADLECDIIGWQYISGSLPDGHELDRLDNPAVNLHIFYYRTWFSGFRFYRYRNHFIIYKF
+                                      *********************************************:** .**.*:*****
+
+geneid:Bo5g004560;contig:C5;feat      WFGNFGFRSGINVRNRLISHKFLVSIRFRFSVNFGKIFFSFSDI----LITINFNISNKN
+seqstart:1314357;seqstop1317010+      WFGNFGSRS-----VRSFGYQCEPANIQTFGFNSVPVFSFWLKINIFQLFGLNIDNSDKF
+                                      ****** **      * :.::   :    *..*   :*  : .*    *: :*:: *:* 
+
+geneid:Bo5g004560;contig:C5;feat      YLR-------SSRFGYFKIFGIKKYSDIWVFWVLGSILKYLVILKLNKINIFKYIFCFGF
+seqstart:1314357;seqstop1317010+      YFEQKLFAFGSSGFGYFKIFWIKKYSDIWVFWVLGSILKYLVILKLNKINIFVYILC-RF
+                                      *:        ** ******* ******************************* **:*  *
+
+geneid:Bo5g004560;contig:C5;feat      GFFSFQNIGT----VNFSFIFGFVFFCSGWVLGLYAQTYLRVCSLVDKSQNMSV-LVSDT
+seqstart:1314357;seqstop1317010+      WFFSFQNIGTVQLSVNFSLIFGFVFFV---LVRFSVSDPLKSMFSRQVSEHVCFGFRYKV
+                                       *********    ****:*******    :: : ..  *.     : *:::.. :  ..
+
+geneid:Bo5g004560;contig:C5;feat      RRKVSRRRVHKAMAS-RAGENANGMDPSPMGRTFDCTQSFWSGTRSKLRETHRRYRHSSA
+seqstart:1314357;seqstop1317010+      RNMIQKESTGNGFPSWRECQRNGSITHGTLLQLYSKLLEWNSEQTTRNPSISTQLVSCLP
+                                      *. :..  . :.:.* *  :. ..:  ..: . :.   .:.*   :.  .   .   . .
+
+geneid:Bo5g004560;contig:C5;feat      ANQSHIKNSRGTDH--------DRSRADCSLRGLRGYRSTWSSLPLCVFPASTFGGSLQW
+seqstart:1314357;seqstop1317010+      KPYQELARHRSSEQRLMRLLIATRPRVIIPLKYLVFFA------PLRLLMTSEY---LRW
+                                         . : . *.:::         *.*.  .*. *  :       ** :: :* :   *.*
+
+geneid:Bo5g004560;contig:C5;feat      --VKESETCGRRRRREGDEEMRRKRLVFNCVIFFWL---
+seqstart:1314357;seqstop1317010+      FVTMGRENLQKKKKKRGRRDVEKKETCFQLLSLLLLLMV
+                                        .   *.  ..... *  :: .*   *: : :: *   

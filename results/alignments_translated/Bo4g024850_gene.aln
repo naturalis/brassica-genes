@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo4g024850;contig:C4;feat      MVRGKTQMKRIENATSRQVTFSKRRNGLLKKAFELSVLCDAEVSLIIFSPKAKLYEFASS
+seqstart:4026082;seqstop4028537+      MVRGKTQMKRIENATSRQVTFSKRRNGLLKKAFELSVLCDAEVSLIIFSPKAKLYEFASS
+                                      ************************************************************
+
+geneid:Bo4g024850;contig:C4;feat      KYVLLFMLYIYISSTDKRDKFFCLYTLVYMDLL------AVYGIISLRLLRESVRFLVST
+seqstart:4026082;seqstop4028537+      KYVLLFILYIYKSSTDKRDKFFCLYTLVYIWICWRFTESYLFDVCLERVLTVKVSWFLQL
+                                      ******:**** *****************: :        ::.:   *:*  .* :::. 
+
+geneid:Bo4g024850;contig:C4;feat      IVSIIKVKPSTSSYLFLVNYYIILFNPIRCLFLIFSLVMINVKTQKNSLASTLHLLYVCM
+seqstart:4026082;seqstop4028537+      CLLLKNQVHHLIYFLLTTTSSCLILLDVSFSCLVYELTLKHKRILWQVLCTC--YMYVCT
+                                       : : :       :*: ..   :::  :    *::.*.: : .  .: *.:    :*** 
+
+geneid:Bo4g024850;contig:C4;feat      YNSSWIVLEIIITHWTTPVL-YTLSWFVQKYLCCNHSFVLTYTIWL---NQSALSL----
+seqstart:4026082;seqstop4028537+      IDH----LGLFRSSHTGQLLEFCIKLFLGSF---KNDIYVAISILLFHDTQSGTNLPCHC
+                                       :     * :: : .*  :* : :. *: .:   ::.: :: :* *   .**. .*    
+
+geneid:Bo4g024850;contig:C4;feat      LKKIID-CSNLGTFFISVLKDKSGTFYFMLIPNIVQLNCMFCSYCFSTFFAVKLKPESKC
+seqstart:4026082;seqstop4028537+      LKKLIALTDNWELFFISVLKDKSGTFYFMLIPNIVQLNCMFCSYCFSTFFAVKLKPESKC
+                                      ***:*   .*   ***********************************************
+
+geneid:Bo4g024850;contig:C4;feat      RLFELERTYLILLGRRETKCTFDESLITSVNRKGQLLIRCFRRFVVLLSLNLLNLKRDSH
+seqstart:4026082;seqstop4028537+      RLFELERTYLILLGRRETKCTFDESL--HLIEKASFSDVSHDLLYFFLSTYLIS--KETH
+                                      **************************   :  *..:   ..  : .:**  *:.  .::*
+
+geneid:Bo4g024850;contig:C4;feat      VF-GFSKKLGAKTIYTTFVMSLRLVISSPKKVFMFLTCHFVQEKNDLVSCIVLIQSVKLF
+seqstart:4026082;seqstop4028537+      MFLVFPKIWGQKPYSTRLSKCPDLYLHLRKFLRSLVTFEFKKK-------MIWFLALCLF
+                                      :*  *.*  * *.  * :  .  * :   * :  ::*  * ::       :: : :: **
+
+geneid:Bo4g024850;contig:C4;feat      --QCFNSMQDTIDRYLRHTKDRVSTKPVSEENLQVNYDIVCLLIQKIGIRKSIIHCLYII
+seqstart:4026082;seqstop4028537+      NLNCFNVLTVCKIPIVIGIPRIVSAPNLFLKKICRLIMILCANFYKNKLAEKVSYTVCIS
+                                        :*** :       :      **:  :  :::     *:*  : *  : :.: : : * 
+
+geneid:Bo4g024850;contig:C4;feat      STSHISTQCHFSQATYRSHAITFCDLTYSINMRQQTRKLNNSKLPNGWSN-----TTQII
+seqstart:4026082;seqstop4028537+      QRHILVLSVTFLKLHIKDNHMQHFVIPTAFETGSKHDEENTTRSFQTVGDPIQHKSTIIV
+                                      .   :  .  * :   ..: : .  :. :::  .:  : *.:.  :  .:     :* *:
+
+geneid:Bo4g024850;contig:C4;feat      DLNYCIYIIEFDHIKSFFTIISKLLGEG---IGSCSIEELQQIEQQLEKSVKCIRARKVY
+seqstart:4026082;seqstop4028537+      YTSYSRSLI----ILSLFLLLVNSWEKADHVRRSCS-----KLSNNLRK-VSNVSELERY
+                                        .*.  :*    * *:* :: :   :.     ***     ::.::* * *. :   : *
+
+geneid:Bo4g024850;contig:C4;feat      ISSPHYDFY--STHNSNLVTRFFTQVFKEQIEQLKQKVMRRKWWNTPTSSCACFLLLETL
+seqstart:4026082;seqstop4028537+      IYRPHIMIFIEAFIILTLLVSFRLKCLRNKLSSSSKRDASGGILQLDNLLVLAFYYWNKL
+                                      *  **  ::  :    .*:. *  : :.:::.. .:.       :  .    .*   :.*
+
+geneid:Bo4g024850;contig:C4;feat      QEKALAAENKKLAEKVQYILTNISYGSLVRVALAHFLLKTNIPYGSQGTIALAHRFFYSL
+seqstart:4026082;seqstop4028537+      CRRKLLQKTRSSLKRYNIFYKRIYPMVLLGLHLHIFFLK-RISHMVLKVRLHLHTVSFIL
+                                        . *  :...  :. : : ..*    *: : *  *:** .*.:    .    * . : *
+
+geneid:Bo4g024850;contig:C4;feat      MVVKSALFLGLFDRRDSPSSMCLFYLICIYSCVYILIIIFYYSGDLMKSKSGRIRTKKVE
+seqstart:4026082;seqstop4028537+      LLKVRLFFLGLFDRRDSPSSMCLFYLICIYSCVYILIIIFYYSGDLMKSKSGRIRTKKVE
+                                      ::    :*****************************************************
+
+geneid:Bo4g024850;contig:C4;feat      EATTRVAQVLKRQSCSLGYLVLQES
+seqstart:4026082;seqstop4028537+      EVTKRVAQVPKRQSCSLGYLVLQES
+                                      *.*.***** ***************

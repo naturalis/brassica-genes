@@ -1,0 +1,10 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g009990;contig:C5;feat      NNAYRSWVARVFAKPNVWNGRYV-GRTKLDGPEASEADEWRCSVLETSWEVEFYHHCRTR
+seqstart:3721348;seqstop3721549+      NNAYRSWVARVFAKPNVWNGRYVGGRTKLDGQEASEADEWRCSVLETSWEVEFYHHCRTR
+                                      *********************** ******* ****************************
+
+geneid:Bo5g009990;contig:C5;feat      CSKQV
+seqstart:3721348;seqstop3721549+      CSKQV
+                                      *****

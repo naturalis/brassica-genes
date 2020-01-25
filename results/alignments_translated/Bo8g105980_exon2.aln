@@ -1,0 +1,18 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo8g105980;contig:C8;feat      RHRTVRGTNAKVGIEVDVAITEFTWRQRRRHMGQGQFRFKLGPICPPAKPLPGLSTRSDY
+seqstart:37457692;seqstop3745827      RHRTVRGTNAKVGIEVDVAITEFTWRQRRRHMGQGQFRFKLGPICPPAKPLPGLSTRSDY
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      GSSTPYRLHPLDHTLPEQYRRSPSISSWLGHRATGSWLARGQCWSFPYSIQRFVKRDSPC
+seqstart:37457692;seqstop3745827      GSSTPYRLHPLDHTLPEQYRRSPSISSWLGHRATGSWLARGQCWSFPYSIQRFVKRDSPC
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      SGPNQIPVIRSFPLGSTVRYKDITCTKTGSIAFISIGHMGRVSPNKSNPLQGSFNDKSQR
+seqstart:37457692;seqstop3745827      SGPNQIPVIRSFPLGSTVRYKDITCTKTGSIAFISIGHMGRVSPNKSNPLQGSFNDKSQR
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      EI
+seqstart:37457692;seqstop3745827      EI
+                                      **

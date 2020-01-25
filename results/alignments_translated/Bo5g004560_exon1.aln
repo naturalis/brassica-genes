@@ -1,0 +1,14 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g004560;contig:C5;feat      IQGAKYDPEGEYIRQWLPELARMPTEWIHHPWDAPSTVLKASGVELGANYAKPIVDIDTA
+seqstart:1314357;seqstop1314842+      IQGAKYDPEGEYIRQWLPELARMPTEWIHHPWDAPSTVLKASGVELGANYAKPIVDIDTA
+                                      ************************************************************
+
+geneid:Bo5g004560;contig:C5;feat      RELLTKAISRTREAQIMIGAAPDEIVADSYEALEGNNTVKVPGLLCPSASSNDQRVPSAV
+seqstart:1314357;seqstop1314842+      RELLTKAISRTREAQIMIGAAPDEIVADSYEALEGNHTVKVPGLLCPSASSNDQRVPSVV
+                                      ************************************:*********************.*
+
+geneid:Bo5g004560;contig:C5;feat      RYSGSKRVKPAEEEEEEREMKRCREERDLFSTAE-SSSSDG
+seqstart:1314357;seqstop1314842+      RYNGLKRVKPAEEEEEEREMKRCREERDLFSTAESSSSSDG
+                                      **.* ***************************** ******

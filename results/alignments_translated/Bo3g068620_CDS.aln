@@ -1,0 +1,10 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g068620;contig:C3;feat      NGVSRRSTSRAGPRHVPRQQVDEPRVRSKRMEDSEAHERGSIHSRVRTLLFPHHSTPRSS
+seqstart:27101626;seqstop2710186      NGVSRRSTSRAGPRHVPRQQVDEPRVRSKRMEDSEAHERGSIHSRVRTLLFPHHSTPRSS
+                                      ************************************************************
+
+geneid:Bo3g068620;contig:C3;feat      FVNSWRRHDVDDGI
+seqstart:27101626;seqstop2710186      FVNSWRRHDVDDGI
+                                      **************

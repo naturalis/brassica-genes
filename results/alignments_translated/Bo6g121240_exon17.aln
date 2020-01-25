@@ -1,0 +1,54 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo6g121240;contig:C6;feat      MDCKENGVSDPSGDENLTSAAMDIGGSFSEKSMDLVTSLETAQAASVINPAMEEDQRECF
+seqstart:38453060;seqstop3845531      MDCKENGVSDPSGDENLTSAAMDIGGSFSEKSMDLVTSLETAQAASVINPAMEEDQRECF
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      VEAEQMGEGNSVGKELEENSDAVCCVDAEQAQGSVSDAIVLGGGGTVLPKGGRETDAESG
+seqstart:38453060;seqstop3845531      VEAEQMGEGNSVSKELEENSDAVCCVDAEQAQGSVSDAIVLGGGGTVLPKGGRETDAESG
+                                      ************.***********************************************
+
+geneid:Bo6g121240;contig:C6;feat      FLNDAPEKVESSETAKDIENDKAGSDGFDGGNNEPSSDDVSLIRSCPFPDTVLDSGGLGC
+seqstart:38453060;seqstop3845531      FLNDAPEKVESSETAKDIENDKAGSDGFDGGNNEPSSDDVSLIRSCPFPDTVLDSGGLGC
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      SETENRVKSSSDGDGNIPLVVSSSSAVPEMLSNSDGGLRSCDLDDIVDKETIDPDSRLVH
+seqstart:38453060;seqstop3845531      SETENRVKSSSDGDGNIPLVVSSSSAVPEMLSNSDGGLRSCDLDDIVDKETIDPDSRLVH
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      EDELHTDLSDKNETLLKNHVGNTSSESDVAGMNDDVAVVHEDELHTDLSDKNETLLKNHV
+seqstart:38453060;seqstop3845531      EDELHTDLSDKNETLLKNHVGNTSSESDVAGMNDDVAVVHEDELHTDLSDKNETLLKNHV
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      GSSSSESDVAGMNDDVAADPRGQSFSRTSPIEENTSGVEANAPITDPSLVRSFPLKFGNG
+seqstart:38453060;seqstop3845531      GSSSSESDVAGMNDDVAADPRGQSFSRTSPIEENTSGVEANAPITDPSLVRSFPLKFGNG
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      VIGARNPENAVESIRIVDGNGRIGGEVASASGTSESSPRRRSRVGKQGNLSQTNLSAPLP
+seqstart:38453060;seqstop3845531      VIGARNPENAVESIRIVDGNGRIGGEVASASGTSESSPRRRSRVGKQGNLSQTNLSAPLP
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      RKSSRKKQSERNLESIFNCSKQKRSSVSKPDRSSQWGLPCRTAEIFLQSNNIPYGRPPHH
+seqstart:38453060;seqstop3845531      RKSSRKKQSERNLESIFNCSKQKRSSVSKPDRSSQWGLPCRTAEIFLQSNNIPYGRPPHH
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      ETKQPQNSPKNGEHNTQASSGSCLRLKVKFGKSGGQNPLNITVSKVSGNSLPAGGIVKAG
+seqstart:38453060;seqstop3845531      ETKQPQNSPKNGEHNTQASSGSCLRLKVKFGKSGGQNPLNITVSKVSGNSLPAGGIVKAG
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      KGLEFPGPADIVEDKLQIVETREQLKEKNNPLEKLSCRLLSVSITDEKKNQDAGGLCRKL
+seqstart:38453060;seqstop3845531      KGLEFPGPADIVEDKLQIVETREQLKEKNNPLEKLSCRLLSDSITDEKKNQDAGGLCRKL
+                                      ***************************************** ******************
+
+geneid:Bo6g121240;contig:C6;feat      GGDVLDEGTHLSSSIVVEEGERANGTRPLDSETSPDSEVINSVQKDLPHGFSSTAEDLVN
+seqstart:38453060;seqstop3845531      GGDVLDEGTHLSSSIVVEEGERANGTRPLDSETSPDSEVINSVQKDLPHGFSSTAEDLVN
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      TNRGLEKQDELLASVSPLENGSHLIPNAKKGKHPNKSKGNGTRKGNSKSKSAKGGRKNES
+seqstart:38453060;seqstop3845531      TNRGLEKQDELLASVSPLENGSHLIPNAKKGKHPNKSKGNGTRKGNSKSKSAKGGRKNES
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      HEGLEKHSFINRSAGSDDSKDHEVGRAESNETT
+seqstart:38453060;seqstop3845531      HEGLEKHSFINRSAGSDDSKDHEVGRAESNETT
+                                      *********************************

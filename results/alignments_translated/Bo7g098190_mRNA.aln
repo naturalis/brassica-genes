@@ -1,0 +1,74 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo7g098190;contig:C7;feat      MGRGRVQLKRIENKINRQVTFSKRRSGLLKKAHEISVLCDAEVALVIFSSKGKLFEYSTD
+seqstart:38368158;seqstop3837077      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo7g098190;contig:C7;feat      SWLFSSINHILYYLYSHRSYPYLLSFSIRFVFLFVRLHLDCRQSLDPNLIPVCCIYTVDL
+seqstart:38368158;seqstop3837077      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo7g098190;contig:C7;feat      FVPEVAREIRVFFGILRIWTHEKAGYVYFPLLYPNENSIKLYLVHRLTILPLFMYRSTCS
+seqstart:38368158;seqstop3837077      -------------------------HVY----------------HLMTI-----------
+                                                               :**                * :**           
+
+geneid:Bo7g098190;contig:C7;feat      QDVRLCICIHVHFHTKKKTCITLNDIYLKERLINKEIKHIQGCAIIQWTIHNVQHICKFV
+seqstart:38368158;seqstop3837077      ----------------------------KKGFETKKINHLQGCAIIQWTITRSTYMLGRT
+                                                                  *: : .*:*:*:********** .  ::   .
+
+geneid:Bo7g098190;contig:C7;feat      LIMRFCMFTYVLLVLSYRLLLSQYSNLDIEFVPIISIMLCGLTMNQVLYTFLFYVLYFRS
+seqstart:38368158;seqstop3837077      DINVFLMFIYVLLVLFYRLLLSQYSNLDIEFVPIISIMLCGLTMNQVLYTFLFYVLYFRS
+                                       *  * ** ****** ********************************************
+
+geneid:Bo7g098190;contig:C7;feat      FVNISSKVNFWLNTLQINVTNYNVLNYSLI--YGSNLSKFLFLLNFLKSSMERILERYDR
+seqstart:38368158;seqstop3837077      FVSISNKVNFWLNTLQINVTNYNVLNYSMIYMYGSNLSKFLFLLNFLKSSMERILERYDR
+                                      **.**.**********************:*  ****************************
+
+geneid:Bo7g098190;contig:C7;feat      YLYSDKQLVGREISQSVSFKIWFYVLFMFISLNPNVYQFCRKIGFLNMLSSRLELRYSRR
+seqstart:38368158;seqstop3837077      YLYSDKQLVGREISQSVSFKIWFYFLFMFISLNPNVYQFCRKIGFLNMLSSRLELRYSRR
+                                      ************************.***********************************
+
+geneid:Bo7g098190;contig:C7;feat      TKGIYYLVVHNAKLRLLHNLCACQLAIKRIYTRVVLTELDFGTISNASNLLPHLSLKILT
+seqstart:38368158;seqstop3837077      TKGMYYLVVHNAKLRLLHNLCACQLAIKRIYTRVVLTELDFGTISNASNLLPHLSLKILT
+                                      ***:********************************************************
+
+geneid:Bo7g098190;contig:C7;feat      HNTAGGMHYVKTYFSQLKITSTSLKISSSSKSFINIWSGNLLFVSLDPHNILFFFENPHN
+seqstart:38368158;seqstop3837077      HNTAGGMHYVKTYFSKLIITSTSLKISSSSKSFINIWSGNLLFVSLDPHNILFFWNEILT
+                                      ***************:* ************************************:::  .
+
+geneid:Bo7g098190;contig:C7;feat      IHFLGNLSVIPARNITHVARNKKKAQCLY-----NKKLQK-----KCAGILFFGKIMCRN
+seqstart:38368158;seqstop3837077      IFIFCK-EITYLRVISHMQGTKRKHNAYIIRSCKNENVQEFCFLVKCAGIL-WGKILIRA
+                                      *.:: : .:   * *:*:  .*.* :.       *:::*:     ****** :***: * 
+
+geneid:Bo7g098190;contig:C7;feat      FMGEDLDSLSLKDLQSLEHQLHAAIKSIRSRKVILERTFIIGVEICDGLFNKFVIFAEPS
+seqstart:38368158;seqstop3837077      RSSKAWNISSMLLSRALGQERY----NVHSYE--LELKFVMAFLIN--------LYLQNQ
+                                        .:  :  *:   .:* :: :    .:.* :  ** .*::.. *         :: : .
+
+geneid:Bo7g098190;contig:C7;feat      YVRIHIGAPKEGIVSQPSRPSFIYAYLFYLISSGGLARSQQCASQKGYTTSFYVF-SGYI
+seqstart:38368158;seqstop3837077      AMFESISALQKKVCRNQADHHFRFKLTCFIFHQDKALQDHNNALLKKVIQLLFMYLVVTF
+                                       :   *.* :: :  : :   * :    ::: ..   ..:: *  *     ::::    :
+
+geneid:Bo7g098190;contig:C7;feat      CIKNGTESCKV----NYTSMSSHQNLQKIITKYIIALNIRMFKYNLFTIEFSSSFYTTIL
+seqstart:38368158;seqstop3837077      VLKMGLKVAKIIQVCHLTKIYSKRLFEQNILHYKIYVCLNIIYLRNSRVAFILLFYKNI-
+                                       :* * : .*:    : *.: *:. ::: * :* * : :.::  .   : *   **..* 
+
+geneid:Bo7g098190;contig:C7;feat      QKYLHNYYINVEKCFYISIVYDIYIICVGNSLHASDTLLFIYCFYSISIRNGYLFFYYCT
+seqstart:38368158;seqstop3837077      --CIIN--INIMRNVSILVLFTTYIYYMCRQSSRPDTLLFIYCLYSISIRNGYLFVYYCT
+                                         : *  **: . . * :::  **  : ..   .********:***********.****
+
+geneid:Bo7g098190;contig:C7;feat      TKYQCKHLYALGQSVVSFF--MKPSQLEADFKKQHI------FDRLIDLVLEPFYLTKCI
+seqstart:38368158;seqstop3837077      TKYQCKHLYALGQSVVSFFYEAKPIRSRLVLKTTYIVSINPSFGTLIVLFNMYSLFENFS
+                                      *******************   ** .    :*. :*      *. ** *.     : :  
+
+geneid:Bo7g098190;contig:C7;feat      VYLKTFKVVILYLYKIHYKNYIYIVIYKTEHIRASVYQQKLYDRLRRGRRTRFSKEDNSN
+seqstart:38368158;seqstop3837077      CYFILINTLELYLYSNLNRTYSCICIVLT-MTKVMIIKEREKNTVQQGGQLI----QCSN
+                                       *:  ::.: ****.   ..*  * *  *   .. : ::.  : :..* .      : **
+
+geneid:Bo7g098190;contig:C7;feat      APTILQFFSPNTAPPPGIVSLSVVIQIRFIEFDSLCNVHILMILINSLNGQ---RWLR-G
+seqstart:38368158;seqstop3837077      SSSILQ---------PQYCLTSSRYRLSFRSIPNIYRVFIVCTYLAVNDSDLVIKWAEMA
+                                      :.:***         *     *   .: * .: .: .*.*:   :   :.:   .*   .
+
+geneid:Bo7g098190;contig:C7;feat      GWG----RERRSIITGGTKLSSSGLDVTPYHEI
+seqstart:38368158;seqstop3837077      SWGGLGKRTAHHHWRNQTLFFRLGCYALPRMN-
+                                      .**    *  .    . * :   *  . *  : 
