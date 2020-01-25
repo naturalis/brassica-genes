@@ -13,11 +13,6 @@
 #   identifier.
 # 10-OCT-2019: added support for multi-line fasta-files.
 # 30-SEP-2019: added predicted framework and documentation.
-#
-# Current issues:
-# Script can not accept external variables for genome filepath, GFF3-
-# filepath and output filepath. An argument parser will have to be
-# added at a later date.
 
 from Bio import SeqIO
 from Bio.Seq import Seq
