@@ -1,0 +1,226 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g014400;contig:C9;feat      ATGGGAAGGGGTAGGGTTCAGCTGAAGAGGATAGAGAACAAGATCAATAGGCAAGTTACT
+seqstart:4331016;seqstop4333328+      ATGGGAAGGGGTAGGGTTCAGCTGAAGAGGATAGAGAACAAGATCAATAGGCAAGTTACT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TTCTCAAAGAGAAGGTCTGGTTTGCTCAAGAAAGCTCATGAGATCTCTGTTCTCTGCGAT
+seqstart:4331016;seqstop4333328+      TTCTCAAAGAGAAGGTCTGGTTTGCTCAAGAAAGCTCACGAGATCTCTGTTCTCTGCGAT
+                                      ************************************** *********************
+
+geneid:Bo9g014400;contig:C9;feat      GCTGAGGTTGCTCTCGTTGTCTTCTCTTCCAAAGACAAACTCTTCGAATATTCCACTGAC
+seqstart:4331016;seqstop4333328+      GCTGAGGTTGCTCTCGTTGTCTTCTCTTCCAAAGGCAAACTCTTCGAATATTCCACTGAC
+                                      ********************************** *************************
+
+geneid:Bo9g014400;contig:C9;feat      TCTAGGTAATTATTATCTAATGGTTTCATTCGTAAACCATATATTATATTATATATTCAC
+seqstart:4331016;seqstop4333328+      TCTAGGTAATTATTATCTATTGGTTTCATTCGTAAACCATATATTATATTATATATTCAC
+                                      ******************* ****************************************
+
+geneid:Bo9g014400;contig:C9;feat      ATCGATCTTATTATCCATCTGTTTTCTTGATTTTTTAGTAAGATTTGTTTCATAAGCGTA
+seqstart:4331016;seqstop4333328+      ATCGATCTTATTATCCATCTGTTTTCTTGATTTTTTAGTAAGATTTGTTTCATAAGCGTA
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TGTCTCAATCTAGATCTAAATCTTGTCCCTTTGTGTTGCATATCTACTGTAGATTTGTTT
+seqstart:4331016;seqstop4333328+      TGTCTCAATCTAGATCTAAATCTTGTCCCTTTGTGTTGCATATCTACTGTAGATTTGTTT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TTTCCCTAAGAAGTGGCTCGAGAAATTAGGGTTTTTTGGGGATTTGACGTACGGACGCAT
+seqstart:4331016;seqstop4333328+      TTTCCCTAAGAAGTGGCTCGAGAAATTAGGGTTTTTTGGGGATTTGACGTACGGACGCAT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      GAAAAAGCTGTTTATGTATAGAAAATAGCATGAAATTATGATACTTTGTACACAGACTCA
+seqstart:4331016;seqstop4333328+      GAAAAAGCTGTTTATGTATAGAAAATAGCATGAAATTATGATACTTAGTACACAGACTCA
+                                      ********************************************** *************
+
+geneid:Bo9g014400;contig:C9;feat      CGATTTGATTGCCTCTTTTGATGTATGCAAGGACGTGCACACAGACACGTACGATAATAT
+seqstart:4331016;seqstop4333328+      CGATTTGATTGCCTCTTTTGATGTATGCAAGGACATGCACACAGACACGTACGATAATAT
+                                      ********************************** *************************
+
+geneid:Bo9g014400;contig:C9;feat      ATGTATATAACGTGTATAATAGTTAATCAATAACATACATTTGAAAGCAAAAGAAAGGTT
+seqstart:4331016;seqstop4333328+      ATGTATATAACGTGTGTAATAGTTAATCAATAACATACATTTGAAAGCAAAAGAAAAGTT
+                                      *************** **************************************** ***
+
+geneid:Bo9g014400;contig:C9;feat      GATTTGAAACAATGGAATAAGCATTTACAAGGATATGCTATAATCCATTGGATACTAACA
+seqstart:4331016;seqstop4333328+      GATTTGAAACAATGGAATAAGCATTTACAAGGATATGCTATAATCCATTGGATACTAACA
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TATATGTAAGTTCGTACTGATATAAATGCATTTTTGAGTCTGTACATATATCTTTTTGAG
+seqstart:4331016;seqstop4333328+      TATATGTAAGTTCGTACTGATATAAATGCATTTTTGAGTCTGTACATATATCTTTTTGAG
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TTAAAGTGTACATATATTTGTTTGTACGATCATATACATATATATCATACCGTTTGCTTA
+seqstart:4331016;seqstop4333328+      TTAAAGTGTACATATATTTGTTTGTACGATCATATACATATATATCATACCGTTTGCTTA
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      GATAACCGAGTCAGATAATTGAGATTGAATTTGTACGCATATTTCCTATGATGACTCGTG
+seqstart:4331016;seqstop4333328+      GATAACCGAGTCAGGTAATTGAGATTGAATTTGTACGCATATTTCCTATGATGACTCGTG
+                                      ************** *********************************************
+
+geneid:Bo9g014400;contig:C9;feat      GACTCACCAAAGCCAGGTTTTATATACATTTTTGTGTTATATGCTAACTTTTAGCGATCC
+seqstart:4331016;seqstop4333328+      GACTCACCAAAGCCAGGTTTTATATACATTTTTGTGTTATATGCTAACTTTTAGCGATCC
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TTTGTCAGCATACCAAACAATGTAATTAAGCTCTTGGCTAACACTTTGTGACAAATTAAT
+seqstart:4331016;seqstop4333328+      TTTGTCAGCATACCAAACAATG----TAAGCTCTTGGCTAACACTTTGTGACAAATTAAT
+                                      **********************    **********************************
+
+geneid:Bo9g014400;contig:C9;feat      GTTACACATTACAACGCGTTTGAAATCTAATCTGATATACATGGATCAAATTAATGAAGT
+seqstart:4331016;seqstop4333328+      GTTACACATTACAACGCGTTTGAAATCTAATCTGATATACATGGATCAAATTAATGAAGT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      ATATTTTGATTGTTTTTTTCTCTGAAATATAGCATGGAAAGGATACTTGAGCGATATGAT
+seqstart:4331016;seqstop4333328+      ATATTTTGATTG-TTTTTTCTCTGAAATATAGCATGGAAAAGATACTTGAGCGATATGAT
+                                      ************ *************************** *******************
+
+geneid:Bo9g014400;contig:C9;feat      CGCTATTTATATTCAGACAAACAACTTGTTGGCCGAGACATTTCACAAAGTGTAAGTTTT
+seqstart:4331016;seqstop4333328+      CGCTATTTATATTCAGACAAACAACTTGTTGGCCGAGACATTTCACAAAGTGTAAGTTTT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      AAGCTTTGTTTCTTCTAGATGTTTATGTACTCATAAGTCTTGCTCAGTTATGTATATTTT
+seqstart:4331016;seqstop4333328+      AAGCTTTGTTTCTTCTAGATGTTTATGTACTCATAAGTCTTGCTCAGTTATGTATATTTT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      GTAGTAACTAGTTTCTATCATATATATCAATTAATGTTGTAGGAAAATTGGGTTCTAGAG
+seqstart:4331016;seqstop4333328+      GTAGTAACTAGTTTCTATCATATATATCAATTAATGTTGTAGGAAAATTGGGTTCTAGAG
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      CATGCTAAGCTCAAGGCAAGAGTTGAGGTACTTGAAAAGAATAAAAGGTATATTATAAAT
+seqstart:4331016;seqstop4333328+      CATGCTAAGCTCAAGGCAAGAGTTGAGGTACTTGAAAAGAATAAAAGGTATATTATAAAT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      ACATATGTAGTGCCATATCGTCTTCAAGTGCATTATGTCAAATTAAGATTGTAGATCAAT
+seqstart:4331016;seqstop4333328+      ACATATGTAGTGCCATATCGTCTTCAAGTGCATTATGTCAAATTAAGATTGTAGATCAAT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      CTGTGCTTTAATCAAATCGCAGTTTAACGTAAACTTATTCAATTTGGTTCCTTAGTCCTA
+seqstart:4331016;seqstop4333328+      CTGTGCTTTAATCAAATCGCAGTTTAACGTAAACTTATTCAATTTGCTTCCTTAGTCCTA
+                                      ********************************************** *************
+
+geneid:Bo9g014400;contig:C9;feat      ATGGTAAAAAATCGTAACACATTACACATAAGTTAAACTAGACTTGCTATTTGTGTCTTG
+seqstart:4331016;seqstop4333328+      ATGGTAAGAAATCGTAACACATTACACATAAGTTAAACTAGACTTGCTATTTGTGTCTTG
+                                      ******* ****************************************************
+
+geneid:Bo9g014400;contig:C9;feat      GATCCTAACAATGTTCATTTTCTGTATGGAAAATTGATGGTAAAACTTGGCGTAATATCA
+seqstart:4331016;seqstop4333328+      GATCCTCACAATGTTCATTTTCTGTATGGAAAATTGATGGTAAAACTTGGCGTAATATCA
+                                      ****** *****************************************************
+
+geneid:Bo9g014400;contig:C9;feat      GATAGGTAGCGAGGTAACATAATTACAAGTACACTGGTTACATCAGTAATCACTAATCAG
+seqstart:4331016;seqstop4333328+      GATAGGTAGCGAGGTAACATAATTACAAGTACACTGGTTACATCAGTGATCACTAATCAG
+                                      *********************************************** ************
+
+geneid:Bo9g014400;contig:C9;feat      AAAACTGAAATGTGCAGGAATTTTATGGGGGAAGATCTTGATTCCTTGAGCCTAAAGGAG
+seqstart:4331016;seqstop4333328+      AAAACTGAAACGTGCAGGAATTTTATGGGGGAAGATCTTGATTCCTTGAGCCTAAAGGAG
+                                      ********** *************************************************
+
+geneid:Bo9g014400;contig:C9;feat      CTTCAAAGCTTGGAGCATCAGCTCGACGCTGCTATCAAGAGCATTAGGTCAAGAAAGGTA
+seqstart:4331016;seqstop4333328+      CTTCAAAGCTTGGAGCATCAGCTCGACGCTGCTATCAAGAGCATTAGGTCAAGAAAGGTA
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      ATACGAGAACGTTAGTACACATCTACATGTCTATGTAAATATTTAGATCGAAAAGTGAGG
+seqstart:4331016;seqstop4333328+      ATACGAGAACGTTAGTACACATCTACATGTCTATGTAAATATTTAGATCGAAAAGTGAGG
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TTTTTGGCTATGAGTTTGAGCTGAAATCTGTGATAGTTTTGTTTAATGAATTTGTAATAT
+seqstart:4331016;seqstop4333328+      TTTTTGGCTATGAGTTTGAGCTGAAATCTGTGATAGTTTTGTTTAATGAATTTGTAATAT
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TTGCAGAACCAAGCTATGTTCGAATCCATATCAGCGCTCCAGAAGAAGGTAAAGTGTCTC
+seqstart:4331016;seqstop4333328+      TTGCAGAACCAAGCTATGTTCGAATCCATATCAGCGCTCCAGAAGAAGGTAAAGTGTCTC
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      AATTAGATACATCATCAAAACAATTTATT--TATATATATATAACTTGCTTATTTTATTT
+seqstart:4331016;seqstop4333328+      AATTAGATACATCATCAAAACAATTTATTTATATATATATATAACTTGCTTATTTTATTT
+                                      *****************************  *****************************
+
+geneid:Bo9g014400;contig:C9;feat      GTGTTCCAC--AAAAAAAAGAATAATAATAAAAATACTTTATTTCATTTAAATGTATCAG
+seqstart:4331016;seqstop4333328+      GTGTTCCACAAAAAAAAAAGAATAATAATAAAAATACTTTATATCATTTAAATGTATCAG
+                                      *********  ******************************* *****************
+
+geneid:Bo9g014400;contig:C9;feat      GATAAGGCCTTGCAAGATCACAATAATACGCTTCTCAAAAAGGTTAGTTTTTGAATTAAA
+seqstart:4331016;seqstop4333328+      GATAAGGCCTTGCAAGATCACAATAATACGCTTCTCAAAAAGGTTAGTTTTTGAATTAAA
+                                      ************************************************************
+
+geneid:Bo9g014400;contig:C9;feat      TGGTTATAATTAATTTAAAACGGGACTAAAGGTTGAAAATGAAATAATTTACAATAATAT
+seqstart:4331016;seqstop4333328+      TGGTTATATGTAATTTAAAACGGGACTAAAGGTTGAAAATGAAATAATTTACAATAATAT
+                                      ********  **************************************************
+
+geneid:Bo9g014400;contig:C9;feat      ATTATATCAGTATCTCACCAAATTTTACATCTAAAGATTATTTTAACTATATTACTATAG
+seqstart:4331016;seqstop4333328+      GTTATATCAGTATCTCACCAAATTTTACATCTAAAGATTATTTTAACTATATTACTATAG
+                                       ***********************************************************
+
+geneid:Bo9g014400;contig:C9;feat      CATAAGAATATATATATATATATGAACATATGTCTCTAAAATATTAATTTACTAAATAAT
+seqstart:4331016;seqstop4333328+      CATAAGA------ATATAAATATGAACATATGTCTCTAAAATATTAATTTAGTAAATAAT
+                                      *******      ***** ******************************** ********
+
+geneid:Bo9g014400;contig:C9;feat      TCTCTACAAGTTTTATAAAAATATCAGCAATAGAAGTGGTTAATTTGTATTTATTTATTA
+seqstart:4331016;seqstop4333328+      TCTCTAAGAGTTTTATAAAAATATCAGCAATAGAAGTGGTTAAT----------------
+                                      ******  ************************************                
+
+geneid:Bo9g014400;contig:C9;feat      GTAGTGTTTTTAATACCCTTTTAGCAATACAAAGTGATTATTTATTTATTATTAATATTT
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      CTAATAAATACCAATGTTGAAAACATAGATATAAAGGCACTAACAGTACAATCGTTTGTA
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      CTTTTTGATACAGCCAACTAAACACCGATTAGTTGCAAAACTATGGGGGTGATTGGTAGT
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      TGATAGGTGGTATCCACGTCCCTATTTATTTTTAAAGCATTAAATTTAAAGCAATCAAGC
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      TTTATTTTTTTTTTCTGAAACCACGGTTCTTGAAATAACCTACAGCTGTACAAGTGCTCT
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      ACAGAGCCAAATATCCAAAGCAATTGTTTAGTACTTTGCATAAAATTCTACAGCAATAAA
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      ATCTAAAGCTACAGTCATTACCAATCGGACCCTATATTATACAGTTTGGTACATTAATTG
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      ATCTAATATTTAGAACCTTGATAAACATACAAATATCTATTGCTTTTGCTAACTTTTGGG
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      TATTATATTCAACTATACGCAACTATACTTGTAAACTTCAGAGTGGTTATGTTTTTACTG
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      TATAGAACATATAATACTAATATATAATACTAATTATATATATATAGTAAGTAAATATGA
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      AACAAAACATGCAATTCGTACATCTGTAGTATTAACAACGACTAAAACTATAATAATGAT
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      AGATTAAGGAGAAGGAAAAGGAGAAGAACACGGGTCAGCAAGAAGGACAATTAATCCAAT
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      GCTCCAACAATTCTTCAGTTCTTCAGCCCCAGTACTGCGTAACCTCCTCCAGGTTTCCTC
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      TCTCTCCCTCTCAGTAGCATTCTAAATTACATTTAGATTATGATTAATACATCTCTAGCT
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      ATGGAAGATTCTGATTCATAATTATTTAATGGGCAGAGATGGCCTTGTGGAGAGAGTTGG
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      GGGAGAGAACGGAGGTGCATCGTCGTTGATTGGACCAAACTCTCTTCTTCCAGCTTGGAT
+seqstart:4331016;seqstop4333328+      ------------------------------------------------------------
+                                                                                                  
+
+geneid:Bo9g014400;contig:C9;feat      GCTACGTCCTGCTACCAATGAGTAA
+seqstart:4331016;seqstop4333328+      -------------------------
+                                                               

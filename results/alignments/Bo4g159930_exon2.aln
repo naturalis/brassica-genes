@@ -1,0 +1,34 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo4g159930;contig:C4;feat      CCTTGTGGGGTGGAGAGAAACTTGACTTCCCAGCATCTTGATTCTTCAGCTTCTGGCCAT
+seqstart:43379642;seqstop4338011      CCTTGTGCGGTGGAGAGAAACTTGACTTCCCAGAATCTTGATTCTTCAGCTTCTGGCCAT
+                                      ******* ************************* **************************
+
+geneid:Bo4g159930;contig:C4;feat      GTAACCCAAATGTCCTCCATGGAAAATGTGACAACTTTAGCACATCGTCGTGGTGATCAA
+seqstart:43379642;seqstop4338011      GTAACCCAAATGTCCTCCATGGAAAATGTGACAACTTTAGCACATCGTCGTGGTGATCAA
+                                      ************************************************************
+
+geneid:Bo4g159930;contig:C4;feat      AGGAAAACGCTAAGAGAGGAAGATGATTTTGCGGTTCCTGTATATGATAATGATAGCTCA
+seqstart:43379642;seqstop4338011      AGGAAAACGCTAAGAGAGGAAGATGATTTTGCGGTTCCTGTATATGATAATGATAGCTCA
+                                      ************************************************************
+
+geneid:Bo4g159930;contig:C4;feat      AGAAGATTTCAATGTCCTCTTGAAAAGTCAGCATCGGGTTGTGAAAGAGTTAATGCTTCC
+seqstart:43379642;seqstop4338011      AGAAGATTTCAATGTCCTCTTGAAAAGTCAGCATCGGGTTGTGAAAGAGTTAATGCTTCC
+                                      ************************************************************
+
+geneid:Bo4g159930;contig:C4;feat      TTGTTGAGACAAGAGTCTACAAGTAGTAGGTTAGA---------------CCATGAAACT
+seqstart:43379642;seqstop4338011      ---TTGAGACAAGAGTCTACAAGTAGTAGGTTAGAGTTAGACCAAGATGGTGATGAAACT
+                                         ********************************                 ********
+
+geneid:Bo4g159930;contig:C4;feat      GGA---GTGATGGAAACTGATGATGGAGTTGAATCTCATGGCAATCCTAATGACGTCGAT
+seqstart:43379642;seqstop4338011      GGAGTCGTGATGGAAACTGATGATGGAGTTGAATCTCATGGCGATCCTAATGTCGTGGAC
+                                      ***   ************************************ ********* *** ** 
+
+geneid:Bo4g159930;contig:C4;feat      GATGA------------------TGATGATTCGATATCCAGCATAGACGTCTCTCCTGAT
+seqstart:43379642;seqstop4338011      GATGATGATAATGATGATGTTTCTGATGATTCTATATCCAGCGTGGACGTCTCTCCTGAT
+                                      *****                  ********* ********* * ***************
+
+geneid:Bo4g159930;contig:C4;feat      GAAGTTGTGGGAGTATTAGGTCAAAAACGTTTCTGGAGAGCAAGGAAAGCTATTGCCAA
+seqstart:43379642;seqstop4338011      GAAGTTGTGGGAGTATTAGGTCAAAAACGTTTCTGGAGAGCAAGGAAAGCTATTGCCAA
+                                      ***********************************************************

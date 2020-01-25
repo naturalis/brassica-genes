@@ -1,0 +1,42 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g183540;contig:C9;feat      ATGGCGTCGTACCGGCCGCCGCCTCCTCCGTCTCCTCTCCCACCGCCGCCTCAAAATCCC
+seqstart:54307427;seqstop5430799      ATGGCGTCGTACCGGCCGCCGCCTCCTCCGTCTCCTCTCCCACCGCCGCCTCAAAATCCC
+                                      ************************************************************
+
+geneid:Bo9g183540;contig:C9;feat      CCACCCCCACCACCTCTTCCTCCGTCGTTACCTCCTCCCGTCCCTCCCCCACCGCCGTCG
+seqstart:54307427;seqstop5430799      CCACCCCCACCACCTCTTCCTCCTTCGTTACCTCCTCCCGTCCCTCCCCCACCGCCGTCG
+                                      *********************** ************************************
+
+geneid:Bo9g183540;contig:C9;feat      CATCAACCTTACGCTTATCCTCCTCATACTTACTATCAACAGCCGTCTCACTATCCTCCT
+seqstart:54307427;seqstop5430799      CATCAACCTTACGCTTATCCTCCTCATACTTACTATCAACAGCCGTCTCACTATCCTCCT
+                                      ************************************************************
+
+geneid:Bo9g183540;contig:C9;feat      CCTCAATTCAACCAGCTTCAAGCTCCTCCG------CCTCCTCCTCCCCCGTCAGCACCT
+seqstart:54307427;seqstop5430799      CCTCAATTCAACCAGCATCAAGCTCCCCCGTCAGCACCTCCGCCTCCCCCGTCAGCACCT
+                                      **************** ********* ***      ***** ******************
+
+geneid:Bo9g183540;contig:C9;feat      CCTCCTACCGTACCGGATCCTCCTCGGAACCAAGCGGCCAATGACCGCCACAAAGCGGCC
+seqstart:54307427;seqstop5430799      CCTCCTACCGTACCGGATCCTCCTCGGAACCAAGCGGCCAATGACCGCCACAAAGCGGCC
+                                      ************************************************************
+
+geneid:Bo9g183540;contig:C9;feat      TCCAAGCCGCCGCGGGAGCGTCCTCCATCGAAGCAGCACCACAGGCCTCATCATCATCCG
+seqstart:54307427;seqstop5430799      TCCAAGCCGCCGCGGGAGCGTCCTCCATCGAAGCAGCACCACAGGCCTCACCATCATCCG
+                                      ************************************************** *********
+
+geneid:Bo9g183540;contig:C9;feat      CATAGTAAGAATCCGGAAGAGGAGAGGAGGCAAAGGAAGAAGAGGGAGGCAGAGAAAGAG
+seqstart:54307427;seqstop5430799      CATAGTAAGAATCCGGAAGAGGAGAGGAGGCAAAGGAAGAAGAGGGAGGCAGAGAAAGAG
+                                      ************************************************************
+
+geneid:Bo9g183540;contig:C9;feat      AAAGAGAGGCAGCAGATGAAATCGTCGTCTCACAAGTCTCAGGTTCCCAAGGGGCACACG
+seqstart:54307427;seqstop5430799      AAAGAGAGGCAGCAGATGAAATCGTCGTCTCACAAGTCTCAGGTTCCCAAGGGGCACACG
+                                      ************************************************************
+
+geneid:Bo9g183540;contig:C9;feat      GAGGAGAGGAAGCCTACGCCTCTTCTCACAGCCGATAGGGTCGAGAATCGGTTAAAGAAA
+seqstart:54307427;seqstop5430799      GAGGAGAGGAAGCCTACGCCTCTTCTCACAGCCGATAGGGTCGAGAATCGGTTAAAGAAA
+                                      ************************************************************
+
+geneid:Bo9g183540;contig:C9;feat      CCAACCACCTTCATCTGCAAGCTCAA
+seqstart:54307427;seqstop5430799      CCAACCACCTTCATCTGCAAGCTCAA
+                                      **************************

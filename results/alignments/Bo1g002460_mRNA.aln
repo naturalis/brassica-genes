@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo1g002460;contig:C1;feat      ATGTCTGCAGAAGTTGAGTACCGGTGCTTCGTCGGGGGCCTAGCATGGGCCACCGGAGAT
+seqstart:205775;seqstop206557+        ---------GAAGTTGAGTACCGGTGTTTCGTCGGCGGCCTAGCATGGGCCACCGGAGAT
+                                               ***************** ******** ************************
+
+geneid:Bo1g002460;contig:C1;feat      GCTGAGCTAGAGAGGACGTTCTCACAGTTCGGCGAAGTTATCGATTCAAAGGTCCGTTAC
+seqstart:205775;seqstop206557+        GCTGAGCTAGAGAGGACGTTCTCACAGTTCGGCGAAGTTATCGATTCAAAGGTCCGTTAC
+                                      ************************************************************
+
+geneid:Bo1g002460;contig:C1;feat      ACGAGAGATCGGACTCCAGGATGGTTCTGATCCTCGGCGGATCTGATTCCGATCTGTGTA
+seqstart:205775;seqstop206557+        ACGAGAGATCGGACTCGAGGATGGTTCTGATCCTCGGCGGATCTGATTCCGATCTGTGTA
+                                      **************** *******************************************
+
+geneid:Bo1g002460;contig:C1;feat      TCTCTGTTACTT-----------TCTGTTACTATGTTCTTTGTTACTACTGTTACTTGCT
+seqstart:205775;seqstop206557+        TCTCTGTTACTTGATTCGATTACTCTGTTACTATGTTCTTTGTTACTACTGTTACTTGCT
+                                      ************           *************************************
+
+geneid:Bo1g002460;contig:C1;feat      TTGTCCCATCGGTACGTTTAATCTTCCTGCTGCTTTTACGAGCCCGGAGAACGTTCGATT
+seqstart:205775;seqstop206557+        TTGTCCCATCGGTACGTTTAATCTTCCTGCTGCTTTTACGAGCCCGGAGAACGTTCGATT
+                                      ************************************************************
+
+geneid:Bo1g002460;contig:C1;feat      TTTTCTTGTTTCATCCATCGCTTTTTTTTGATTCATTCAGCTTTAATGATTGCTCTGTTG
+seqstart:205775;seqstop206557+        TCT--TTGTTTCATCCATCGCTTTTTTTTGATTCATTCAGCTTTAATGATTGCTCTTTTG
+                                      * *  *************************************************** ***
+
+geneid:Bo1g002460;contig:C1;feat      CTTATTATTTTGTTTTGATTTGGTTTTTGACAGATCATTAACGATCGTGAGACTGGGAGA
+seqstart:205775;seqstop206557+        CTGATTAATGT-TTTTGATTTGGTTTTTGACAGATCATTAACGATCGTGAGACTGGGAGA
+                                      ** **** * * ************************************************
+
+geneid:Bo1g002460;contig:C1;feat      TCAAGGGGATTCGGATTCGTGACCTTCAAGGATGAGAAATCCATGAGGGATGCTATCGAT
+seqstart:205775;seqstop206557+        TCGAGGGGATTCGGATTCGTGACCTTCAAGGATGAGAAGTCCATGAAGGATGCCATCGAT
+                                      ** *********************************** ******* ****** ******
+
+geneid:Bo1g002460;contig:C1;feat      GAGATGAACGGGAAGGAGCTCGACGGTCGTACCATCACCGTCAACGAGGCTCAGTCCAGA
+seqstart:205775;seqstop206557+        GAGATGAACGGGAAGGAGCTCGACGGTCGTACCATCACCGTCAACGAGGCTCAGTCCAGA
+                                      ************************************************************
+
+geneid:Bo1g002460;contig:C1;feat      GGAAGCGGCGGTGGAGGAGGCC------------------GTGGCCGTGGAGGTGGTGGA
+seqstart:205775;seqstop206557+        GGAGGCGGCGGTGGAGGAGGCCGTGGTGGAGGTGGATACGGTGGCCGTGGAGGTGGTGGA
+                                      *** ******************                  ********************
+
+geneid:Bo1g002460;contig:C1;feat      TACGGTGGAGGCGGCGGTGGATACGGTGATAGACGTGGAGGCGGCGGTTACGGATCTGGA
+seqstart:205775;seqstop206557+        TACGGTGGAGGCGGCGGTGGATACGGTGACAGACGTGGAGGCGGCGGTTACGGATCTGGA
+                                      ***************************** ******************************
+
+geneid:Bo1g002460;contig:C1;feat      GGTGGCGGCCGTGGAGGTGGCGGTTACGGATCTGGAGGTGGAGGATACGGTGGTGGTGGT
+seqstart:205775;seqstop206557+        GGTGGCGGCCGTGGAGGCGGCGGTTACGGATCTGGAGGTGGAGGATACGGTGGTGGTGGT
+                                      ***************** ******************************************
+
+geneid:Bo1g002460;contig:C1;feat      GGCAGACGTGATGGAGGTGGTTACGGAGGTGGTGATGGTGGCTACGGAGGAGGAAGTGGA
+seqstart:205775;seqstop206557+        GGCAGACGTGATGGAGGTGGCTACGGAGGTGGTGACGGTGGCTACGGAGGAGGAAGTGGA
+                                      ******************** ************** ************************
+
+geneid:Bo1g002460;contig:C1;feat      GGCGGTGGATGGTAA
+seqstart:205775;seqstop206557+        GGCGGTGGATGGTAA
+                                      ***************

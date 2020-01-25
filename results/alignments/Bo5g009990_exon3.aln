@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g009990;contig:C5;feat      GAACCGAGGAGCAGAATGTCCAATTTGAGATCAAGACGCATCTGTCAAGAGCTGATGCTG
+seqstart:3721995;seqstop3722811+      GAACTGAGGAGCAGAATGTCCAATTTGAGATCAAGACGCATCTGTCAAGAGCTGATGCTG
+                                      **** *******************************************************
+
+geneid:Bo5g009990;contig:C5;feat      GACCAATAAGTCTAGTGGTAAACGCATGCGCAAGTAGAGATCTCCATGAAAACGTGGTTG
+seqstart:3721995;seqstop3722811+      GACCAATAAGTCTAGTGGTAAACGCATGCGCAAGTAGAGACCTCCATGAAAACGTGGCTG
+                                      **************************************** **************** **
+
+geneid:Bo5g009990;contig:C5;feat      GTGTGTGCTTTGTAGCTCATGATCTCACCGGACAGAAGACTGTGATGGACAAGTTCACTC
+seqstart:3721995;seqstop3722811+      GGGTGTGCTTTGTAGCTCATGATCTCACCGGACAGAAGACTGTGATGGACAAGTTCACTC
+                                      * **********************************************************
+
+geneid:Bo5g009990;contig:C5;feat      GCATTGAAGGTGATTACAAGGCCATCATCCAGAATCCAAACCCTCTGATCCCTCCCATAT
+seqstart:3721995;seqstop3722811+      GCATTGAAGGTGATTACAAGGCCATCATCCAGAATCCAAATCCTCTGATCCCTCCCATAT
+                                      **************************************** *******************
+
+geneid:Bo5g009990;contig:C5;feat      TCGGCACCGACGAGTTCGGGTGGTGCACGGAGTGGAATCCAGCGATGTCAAAGCTAACCG
+seqstart:3721995;seqstop3722811+      TCGGCACCGACGAGTTCGGGTGGTGCACGGAGTGGAATCCAGCGATGTCAAAGCTAACCG
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      GTCTGAAGCGAGAGGAAGTGATGGACAAGATGCTGCTGGGAGAAGTGTTCGGGACGCAGA
+seqstart:3721995;seqstop3722811+      GTCTGAAGCGAGAGGAAGTGATGGACAAGATGCTGCTGGGAGAAGTGTTCGGGACGCAGA
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      AGTCGTGTTGCCGTCTGAAGAATCAAGAAGCGTTTGTGAACCTTGGGATTGTGCTGAACA
+seqstart:3721995;seqstop3722811+      AGTCGTGTTGCCGTCTGAAGAATCAAGAAGCGTTTGTGAACCTTGGGATTGTGCTGAACA
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      ACGCTGTGACTAGCCAGGAGGCAGAGAAAGTGCCATTTGCTTTTTTTACGAGAGGTGGAA
+seqstart:3721995;seqstop3722811+      ACGCTGTGACTAGCCAGGAGGCAGAGAAAGTGCCATTTGCTTTTTTTACGAGAGGTGGAA
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      AGTATGTGGAGTGTCTGCTGTGTGTGAGTAAGAAGCTAGACAGGGAAGGTGTGGTGACGG
+seqstart:3721995;seqstop3722811+      AGTATGTGGAGTGTCTGCTGTGTGTGAGTAAGAAGCTAGACAGGGAAGGTGTGGTGACGG
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      GCGTCTTCTGTTTCCTGCAGCTCGCTAGCCATGAGCTGCAGCAAGCCTTACATGTTCAGC
+seqstart:3721995;seqstop3722811+      GCGTCTTCTGTTTCCTGCAGCTCGCTAGCCATGAGCTGCAGCAAGCCTTACATGTTCAGC
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      GTCTAGCTGAGCGAACCGCGTTGAAGAGATTAAAGGCCTTAGCCTACATTAAAAGACAGA
+seqstart:3721995;seqstop3722811+      GTCTAGCTGAGCGAACCGCGTTGAAGAGATTAAAGGCCTTAGCTTACATTAAAAGACAGA
+                                      ******************************************* ****************
+
+geneid:Bo5g009990;contig:C5;feat      TAAGGAATCCGCTCTCCGGTATCATGTTTACTAGAAAAATGATGGAAGGGTCTGAGTTAG
+seqstart:3721995;seqstop3722811+      TAAGGAATCCGCTCTCCGGTATCATGTTTACTAGAAAAATGATGGAAGGGTCTGAGTTAG
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      GACCAGAGCAGAGAAGGATTTTGCAAACTAGCGCTTTGTGTCAGAAGCAGCTCAGCAAGA
+seqstart:3721995;seqstop3722811+      GACCAGAGCAGAGAAGGATTTTGCAAACTAGCGCTTTGTGTCAGAAGCAGCTCAGCAAGA
+                                      ************************************************************
+
+geneid:Bo5g009990;contig:C5;feat      TCCTGGATGATTCTGATCTCGAAAGCATCATTGAAGG
+seqstart:3721995;seqstop3722811+      TCCTGGATGATTCTGATCTCGAAAGCATCATTGAAGG
+                                      *************************************

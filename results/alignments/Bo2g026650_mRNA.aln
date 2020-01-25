@@ -1,0 +1,58 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g026650;contig:C2;feat      ATGGTTAAAAACGCAAGTATTGATGGTGAGTGGACAGTGGTCTTACCTAGTAAACGAAGA
+seqstart:7846605;seqstop7847429+      ATGGTTAAAAACGCAAGTATTGATGGTGAGTGGACAGTGGTCTTACCTAGTAAACGAAGA
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      CAGGGGAGAAGAAAACCTAAACCTAAGATTCAG---GAAGAAGAAGAAGAAGAGAAGCCA
+seqstart:7846605;seqstop7847429+      CAGGGGAGAAGAAAACCTAAACCTAAGATTCAGGAAGAAGAAGAAGAAGAAGAGAAGCCA
+                                      *********************************   ************************
+
+geneid:Bo2g026650;contig:C2;feat      TGGAAGTCAGATGATCTTGAGATCGATCCTCAAAGGCAAGCAAGAGTGAAGCTGAAGATG
+seqstart:7846605;seqstop7847429+      TGGAAGTCAGATGATCTTGAGATCGATCCTCAAAGGCAAGCAAGAGTGAAGCTGAAGATG
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      GAAAACTCTATCAAGAAAGTCGAGAGCTCAAAATTCTACACTACATTCTTAGAACAGCTC
+seqstart:7846605;seqstop7847429+      GAAAACTCTATCAAGAAAGTCGAGAGCTCAAAATTCTACACTACATTCTTAGAACAGCTC
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      AAGTGCCCCGAGGTTTCGGACCAGTTCCGCCTCGTGTTGGGAACCGAAACACAGCTTCAG
+seqstart:7846605;seqstop7847429+      AAGTGCCCCGAGGTTTCGGACCAGTTCCGCCTCGTGTTGGGAACCGAAACACAGCTTCAG
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      ATGGTGATGTATGGTATAGGAAGCATCGAGTCTTATGAATCTCCTAGGTTTCAGCTCAGC
+seqstart:7846605;seqstop7847429+      ATGGTGATGTATGGTATAGGAAGCATCGAGTCTTATGAATCTCCTAGGTTTCAGCTCAGC
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      ATTGCGATCTTGATGAAGAGGGAGTTTGATTGGGTTGGTAACATTGAAGTGTTCGATCCG
+seqstart:7846605;seqstop7847429+      ATTGCGATCTTGATGAAGAGGGAGTTTGATTGGGTTGGTAACATTGAAGTGTTCGATCCG
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      GTTCTCTCAGCAACTGAATCTAGTGTCCTAGAATCGTTTGGATGTACTGTTTTGTCTGTG
+seqstart:7846605;seqstop7847429+      GTTCTCTCAGCAACTGAATCTAGTGTCCTAGAATCGTTTGGATGTACTGTTTTGTCTGTG
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      AATGAGCAGGCTCGTAGAGAAGCCTTGAAGCCTACTCTTTTCTTCATGCCACACTGTGAG
+seqstart:7846605;seqstop7847429+      AATGAGCAGGCTCGTAGAGAAGCCTTGAAGCCTACTCTTTTCTTCATGCCACACTGTGAG
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      GCCAATCTGTACAATAACCTGTTGCAAGCAAACTGGAGGATGGATAGGTTGTCGAGAATA
+seqstart:7846605;seqstop7847429+      GCCAATCTGTACAATAACCTGTTGCAAGCAAACTGGAGGATGGATAGGTTGTCGAGAATA
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      GCATTGTTTGGGAACAGCTTTCAGATGTATGAGGAGCAGGTGACGTTAGACCCGGAAGTC
+seqstart:7846605;seqstop7847429+      GCATTGTTTGGGAACAGCTTTCAGATGTATGAGGAGCAGGTGACGTTAGACCCGGAAGTC
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      ATCCGAGCCACCAAACGGGTCATAGCTGCACGAAGAATCACTAGTGAGTTTGCTATTGAG
+seqstart:7846605;seqstop7847429+      ATCCGAGCCACCAAACGGGTCATAGCTGCACGAAGAATCACTAGTGAGTTTGCTATTGAG
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      ACGGTATCTGATGATTATTTTCCAGCCTTCCATGATTCAAGCTGGCATTTTTTCAGCTCC
+seqstart:7846605;seqstop7847429+      ACGGTATCTGATGATTATTTTCCAGCCTTCCATGATTCAAGCTGGCATTTTTTCAGCTCC
+                                      ************************************************************
+
+geneid:Bo2g026650;contig:C2;feat      TGTTTAGATTCGGAGCTGCCATTGTTGGTTTCAGAGGGATTATAG
+seqstart:7846605;seqstop7847429+      TGTTTAGATTCGGAGCTGCCATTGTTGGTTTCAGAGGGATTATAG
+                                      *********************************************

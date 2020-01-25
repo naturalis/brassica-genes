@@ -1,0 +1,30 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g139490;contig:C9;feat      ATGGGGGCACCCGTTAAAAACGTAAGTAGTGATGGTGAGTGGACAGTGGTCTTACCTAGT
+seqstart:42484855;seqstop4248525      ATGGGGGCACCTGTTAAAAACTC---TAGTGATGGTGAGTGGACAGTGGTCTTACCTAGT
+                                      *********** *********     **********************************
+
+geneid:Bo9g139490;contig:C9;feat      AAAAGAAGACAAGGGAGAAGAAAACCAAAACCTAAGGTTCATGAAGAAGAAGAAGAGAAA
+seqstart:42484855;seqstop4248525      AAAAGAAGACAAGGGAGAAGAAAACCAAAAC------------AAGAAGAAGAAGAGAAA
+                                      *******************************            *****************
+
+geneid:Bo9g139490;contig:C9;feat      CCATGGAAGTCTGATGATCTTGAAGTTGATCCGCAGAGGCAAGCGAGATTAAAGAAGAAG
+seqstart:42484855;seqstop4248525      CCATGGAAGTCTGATGATCTTGAAGTTGATCCGCAGAGGCAAGCGAGATTAAAGAAGAAG
+                                      ************************************************************
+
+geneid:Bo9g139490;contig:C9;feat      ATGGAAATCTCCATCAACAAAATCGAGAGCTCAAAGTTCTACACTGCTTTAATAGAACAG
+seqstart:42484855;seqstop4248525      ATGGAAATCTCCATCAACAAAATCGAGAGCTCAAAGTTCTACACTGCTTTAATAGAACAG
+                                      ************************************************************
+
+geneid:Bo9g139490;contig:C9;feat      CTCAAGTCTCCAGAGGTTTCAGACCAGTTTCGCCTCGTGTTAGGCACTGAAACACAGCTT
+seqstart:42484855;seqstop4248525      CTCAAGTCTCCAGAGGTTTCAGAGCAGTTTCGCCTCGTGTTAGGCACTGAAACACAGCTT
+                                      *********************** ************************************
+
+geneid:Bo9g139490;contig:C9;feat      CAGATGGTGGTGTATGGTATAGGAAGCCTCGAGTCATACGAATCTCCACGGTTTCAGCTG
+seqstart:42484855;seqstop4248525      CAGATGGTGTTGTATGGTATAGGAAGCATCGAAGCTTATGAATCTCCGAGGTTTCAGCTG
+                                      ********* ***************** ****  * ** ********  ***********
+
+geneid:Bo9g139490;contig:C9;feat      AGCATTGCGATTTTGATGAAGAGAGAGTTTGATTGGGTTGTTAACATAGAA
+seqstart:42484855;seqstop4248525      AGCATTGCGATTTTGATGAAGAGAGAGTTTGATTGGGTTGGTAACATAGAA
+                                      **************************************** **********

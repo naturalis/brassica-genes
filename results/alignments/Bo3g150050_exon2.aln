@@ -1,0 +1,30 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g150050;contig:C3;feat      ATCATTAACGATCGCGAGACTGGAAGGTCGAGGGGATTCGGATTCGTGACCTTCAAGGAT
+seqstart:53666494;seqstop5366688      ATCATTAACGATCGCGAGACTGGAAGGTCGAGGGGATTCGGATTCGTGACCTTCAAGGAT
+                                      ************************************************************
+
+geneid:Bo3g150050;contig:C3;feat      GACAAGTCAATGAGGGATGCTATTGAAGAGATGAACGGGAAAGAGCTCGATGGACGTACG
+seqstart:53666494;seqstop5366688      GACAAGTCAATGAGGGATGCTATTGAAGAGATGAACGGGAAAGAGCTCGATGGACGTACG
+                                      ************************************************************
+
+geneid:Bo3g150050;contig:C3;feat      ATTACCGTCAACGAGGCTCAGTCTAGAGGAGGCGGTGGAGGAGGCCGTGGTGGTGGTGGT
+seqstart:53666494;seqstop5366688      ATTACCGTCAACGAGGCTCAGTCTAGAGGAGGCGGTGGAGGAGGCC---GTGGTGGTGGT
+                                      **********************************************   ***********
+
+geneid:Bo3g150050;contig:C3;feat      GGTGGTTACAACAGAGGTGGCGGCGGCGGAGGATATGGTGGAGGCGGTGGTTACGGAGGA
+seqstart:53666494;seqstop5366688      GGTGGTTACAACAGAGGTGGCGGCGGCGGAGGATATGGTGGAGGCGGTGGTTACGGAGGA
+                                      ************************************************************
+
+geneid:Bo3g150050;contig:C3;feat      GCCGGTGGTGGATATGGAAGACGTGATGGAGGTGGTTACGGATCTGGTGGTGGCGGCGGA
+seqstart:53666494;seqstop5366688      GGCGGTGGTGGATATGGAAGACGTGATGGAGGTGGTTACGGATCTGGTGGTGGCGGAGGA
+                                      * ****************************************************** ***
+
+geneid:Bo3g150050;contig:C3;feat      TACGGTGGTGGTGGAAGACGTGATGGAGGTGGTTACGGAGGAGGTGACGGTGGTTACGGA
+seqstart:53666494;seqstop5366688      TACGGTGGTGGTGGAAGACGTGATGGAGGTGGTTACGGAGGAGGTGACGGTGGTTACGGA
+                                      ************************************************************
+
+geneid:Bo3g150050;contig:C3;feat      GGAAACAGCGGCGGTGGTGGTGGTGGCTGGTAA
+seqstart:53666494;seqstop5366688      GGAAACAGCGGCGGTGGTGGTGGTGGCTGGTAA
+                                      *********************************

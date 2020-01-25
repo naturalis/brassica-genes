@@ -1,0 +1,102 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g021060;contig:C5;feat      ATGCCTACAATGTTAACAGACGTCTTTCGAGGCCATCCGATCCACCTCCCACACTCTCAC
+seqstart:7332093;seqstop7333539+      ATGCCTACAATGTTAACAGACGTCTTTCGAGGCCATCCGATCCACCTCCCACACTTTCAC
+                                      ******************************************************* ****
+
+geneid:Bo5g021060;contig:C5;feat      CAACCTGACTTCACATCCCTCAGTGAGCTCCCTGATTCTTACACATGGACCCCCAAAGAC
+seqstart:7332093;seqstop7333539+      CAACCTGACTTCACATCCCTCAGTGAGCTCCCTGATTCTTACACATGGACCCCCAAAGAC
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      GATCCCCTCTTGGACGCCGCTCCTTCCCCTCCGGCCGCAAGTGAAAACATCCCTCTCATT
+seqstart:7332093;seqstop7333539+      GATCCCCTCTTGGACGCCGCTCCTTCCCCTCCGGCCGCAAGTGAAAACATCCCTCTCATT
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      GACCTGAACCACCCCGACGCGGCCAACCAAATCGGCAGCGCATGTAGAACTTGGGGTGCG
+seqstart:7332093;seqstop7333539+      GACCTGAACCACCCCGACGCGGCCAACCAAATCGGCAGCGCATGCAGAACTTGGGGTGCG
+                                      ******************************************** ***************
+
+geneid:Bo5g021060;contig:C5;feat      TTCCAGATCGCAAACCACGGCGTGCCTTTGGAACTTCTCCAAGGCATTGAGTTTCTCACA
+seqstart:7332093;seqstop7333539+      TTCCAGATCGCAAACCACGGCGTGCCTTTGGAACTTCTCCAAGGCATTGAGTTTCTCACA
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      GGCAGTCTTTTTCAGCTACCTGTCCACCGCAAGCTTAAGGCGGCTCGGTCGGAGACAGGT
+seqstart:7332093;seqstop7333539+      GGCAGTCTTTTTCAGCTACCTGTCCACCGCAAGCTTAAGGCGGCTCGGTCGGAGACAGGT
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      TTCTCTGGCTACGGCGTCGCTCGTATCTCATCTTTCTTCAATAAGCAAATGTGGTCCGAA
+seqstart:7332093;seqstop7333539+      TTCTCTGGCTACGGCGTCGCTCGTATCTCATCTTTCTTCAATAAGCAAATGTGGTCCGAA
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      GGTTTTACCATCACCGGCTCCCCTCTCAACGACTTCCGTAAACTTTGGCCCCAACATCAC
+seqstart:7332093;seqstop7333539+      GGTTTTACCATCACCGGCTCCCCTCTAAACGACTTCCGTAAACTTTGGCCCCAACATCAC
+                                      ************************** *********************************
+
+geneid:Bo5g021060;contig:C5;feat      CTTAACAACTACTGGTATATATCTATATACACACTCAACCTTATATATAGTTA-------
+seqstart:7332093;seqstop7333539+      CTTAACAACTACTGGTATATATCTATATACACACTCAACCTTATATATAGTTAATATACA
+                                      *****************************************************       
+
+geneid:Bo5g021060;contig:C5;feat      ---ATACATACATATATATATATATCAAGGACCATGAATAACAGAAGAAACCGAAAATTT
+seqstart:7332093;seqstop7333539+      TACATATATATATATATATATATATCAAGGACCATGAATAACAGAAGAAACCGAAAATTT
+                                         *** *** *************************************************
+
+geneid:Bo5g021060;contig:C5;feat      G-CATGTCATTAATGTTTAGTGGAACTAAGAGTTAAAACAAGCATGTAATGAAAATCTAG
+seqstart:7332093;seqstop7333539+      GCCATGTCATTAATGTTTAGTGGAACTAAGAGTTAAAACAAGCATGTAATGAAAATCTAG
+                                      * **********************************************************
+
+geneid:Bo5g021060;contig:C5;feat      CATAGTGGACCCACCTCTAGATTTGAAGATATATTTGTTTTAATCTTATCGGAGAAAACA
+seqstart:7332093;seqstop7333539+      CATAGTGGACCCACCTCTAGATTTGAAGATATATTTGTTTTAATCTTATCGGAGAAAACA
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      AAAAGGCCCAACTTGCTTTTGTTTTGTTTTTCTATATATTCAAATGGACGTACGAATTTT
+seqstart:7332093;seqstop7333539+      AAAAGGCCCAACTTGCTTTTGTTCTGTTTTTCTATATATTCAAATGGACGTACGAATTTT
+                                      *********************** ************************************
+
+geneid:Bo5g021060;contig:C5;feat      AATTGTGTTCATATGCAGATTGTGTATAAATCTCTTTTGCATTAATTAATGGATAAATTT
+seqstart:7332093;seqstop7333539+      AATTGTGTTCATATGCAGATTGTGTATAAATCTCATTTGCATTAATTAATGGATAAATTT
+                                      ********************************** *************************
+
+geneid:Bo5g021060;contig:C5;feat      CGTATTTTTCTTAATTAACAGCGACATCGTTGAAGAGTACGAGGAACAAATGCAAAAGTT
+seqstart:7332093;seqstop7333539+      CGTATTTTTCTTAATTAACAGCGACATCGTTGAAGAGTACGAGGAACAAATGCAAAAGTT
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      GGCATCCAAGTTGATGTGGTTATCACTAACTTCACTTGGAGTCAGCGAAGAAGACATTAA
+seqstart:7332093;seqstop7333539+      GGCATCCAAGTTGATGTGGTTATCACTAACTTCACTTGGAGTCAGCGAAGAAGACATTAA
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      ATGGGCCAGTGCCAATTCAGATTCAGACTGGGCCCAATCCGCGCTCCAGCTAAATCACTA
+seqstart:7332093;seqstop7333539+      ATGGGCCAGTGCCAATTCAGATTCAGACTGGGCCCAATCCGCGCTCCAGCTAAATCACTA
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      TCCGGTTTGTCCTGAACCGGACCGGGCCATGGGTCTAGCTGCCCATACCGACTCCACCCT
+seqstart:7332093;seqstop7333539+      TCCGGTTTGTCCTGAACCGGACCGGGCCATGGGTCTAGCTGCCCATACCGACTCCACCCT
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      CCTAACCATTCTCCACCAGAACAATACCGCAGGTCTCCAAGTATTCCGTGATGATCTAGG
+seqstart:7332093;seqstop7333539+      CCTAACCATTCTCCACCAGAACAATACCGCAGGTCTCCAAGTATTCCGTGATGATCTAGG
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      TTGGGTAACCGTGCCACCGGTTCCAGGCTCTCTCGTGGTCAACGTCGGTGATCTCTTCCA
+seqstart:7332093;seqstop7333539+      TTGGGTAACCGTGCCACCGGTTCCAGACTCTCTCGTGGTCAACGTCGGTGATCTCTTCCA
+                                      ************************** *********************************
+
+geneid:Bo5g021060;contig:C5;feat      CATCTTATCCAATGGACTGTTTAAAAGCGTGCTACACCGTGCTCGGGTTAACCAAACCAG
+seqstart:7332093;seqstop7333539+      CATCTTATCCAATGGACTGTTTAAAAGCGTGCTACACCGTGCTCGGGTTAACCAAACCAG
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      ATCCAGGTTGTCGGTAGCTTTCCTTTGGGGTCCACAATCTGATATCAAGATATCACCTGT
+seqstart:7332093;seqstop7333539+      ATCCAGGTTGTCGGTAGCTTTCCTTTGGGGTCCACAATCTGATATCAAGATATCACCTGT
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      ACCAAAACTGGTTAGTCCTGTTGGATCGCCACTATACCGATCGGTCACATGGACAGAGTA
+seqstart:7332093;seqstop7333539+      ACCAAAACTGGTTAGTCCTGTTGGATCGCCACTATACCGATCGGTCACATGGACAGAGTA
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      TCTTCGAACAAAAGCTACTCACTTCAATGAAGCTCTTTCGATGATTAGAAATCACATAGA
+seqstart:7332093;seqstop7333539+      TCTTCGAACAAAAGCTACTCACTTCAATGAAGCTCTTTCGATGATTAGAAATCACATAGA
+                                      ************************************************************
+
+geneid:Bo5g021060;contig:C5;feat      TGAATAA
+seqstart:7332093;seqstop7333539+      TGAATAA
+                                      *******

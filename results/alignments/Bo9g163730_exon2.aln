@@ -1,0 +1,30 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g163730;contig:C9;feat      GCATACAATCCATCAATGGAAACTGACTTTGTGCCGGAGCAGACAGCACCTGACACAACA
+seqstart:48319656;seqstop4832001      GCATACAATCCATCAATGGAAACTGACTTTGTGCCGGAGCAGACAGCACCTGACACAACA
+                                      ************************************************************
+
+geneid:Bo9g163730;contig:C9;feat      GTTTCACATCCAAAAACGCACAAAGGGAAGACAGCACAACTACCTGAACCTCTAATTCAG
+seqstart:48319656;seqstop4832001      GTTTCACATCCAAAAACGCACAAAGGGAAGATAGCACAACTACCTGAACCTCTAATTCAG
+                                      ******************************* ****************************
+
+geneid:Bo9g163730;contig:C9;feat      ATTCTCAGTCCAATGGACAGAGAAGCTAGAGTCCTGAGATACAGAGAGAAGAAGAAGAGA
+seqstart:48319656;seqstop4832001      ATTCTCAGTCCAATGGACAGAGAAGCTAGAGTCCTGAGATACAGAGAGAAGAAGAAGAGA
+                                      ************************************************************
+
+geneid:Bo9g163730;contig:C9;feat      AGAAAGTTTGAGAAGACAATAAGGTATGCTTCAAGGAAGGCATATGCAGAGAGAAGACCG
+seqstart:48319656;seqstop4832001      AGAAAGTTTGAGAAGACAATAAGGTATGCTTCAAGGAAGGCATATGCAGAGAGAAGACCG
+                                      ************************************************************
+
+geneid:Bo9g163730;contig:C9;feat      AGGATAAATGGACGGTTTGCAAAGATGAGTGAAACCGAAGTAGAGGACCAAGAGTACAAC
+seqstart:48319656;seqstop4832001      AGGATAAATGGACGGTTTGCAAAGATGAGTGAAACCGAAGTAGAGGACCAAGAGTACAAC
+                                      ************************************************************
+
+geneid:Bo9g163730;contig:C9;feat      ACAATGCTAATGTACTGCGACACAGGATATGGCATTGTTCCTTCATTCTATGGCCAAAAA
+seqstart:48319656;seqstop4832001      ACAATGCTAATGTACTGCGACACAGGATATGGCATTGTTCCTTCATTCTATGGCCAAAAA
+                                      ************************************************************
+
+geneid:Bo9g163730;contig:C9;feat      TAA
+seqstart:48319656;seqstop4832001      TAA
+                                      ***

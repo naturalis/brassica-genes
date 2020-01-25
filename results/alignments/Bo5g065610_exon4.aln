@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo5g065610;contig:C5;feat      GTATTATCCTGGTCCTCCTCCTATTCGTCCAGCTGGTCCTGGATGGCCTATGCCTCCTCC
+seqstart:20771630;seqstop2077196      GTATTATCCTGGTCCTCCTCCTATTCGTCCAGCTGGTCCTGGATGGCCTATGCCTCCTCC
+                                      ************************************************************
+
+geneid:Bo5g065610;contig:C5;feat      CCGTCCACAACAATGGTATCCACCAGGTTCTGTTCCTCCACCTCCCCATTTAGGTTATCG
+seqstart:20771630;seqstop2077196      CCGTCCACAACAATGGTATCCACCAGGTTCTGTTCCTCCACCTCCCCATTTAGGTTATCG
+                                      ************************************************************
+
+geneid:Bo5g065610;contig:C5;feat      ACCACCACAACTCTTTCCTGTTCATGGTATGGGGATGACTATGCCATCATCATCATCTCC
+seqstart:20771630;seqstop2077196      ACCACCACAACTCTTTCCTGTTCATGGTATGGGGATGACTATGCCATCATCATCATCTCC
+                                      ************************************************************
+
+geneid:Bo5g065610;contig:C5;feat      TGCTCCTCCTGGGATTCAACCATCATCTCCCGCAATGCCCGTTTCTCAGCCTCTGTTCCC
+seqstart:20771630;seqstop2077196      TGCTCCTCCTGGGATTCAACCATCATCTCCCGCAATGCCCGTTTCTCAGCCTCTGTTCCC
+                                      ************************************************************
+
+geneid:Bo5g065610;contig:C5;feat      TGTTGTGAATAGCATCACTCCTTCTCAAGCTTCACCTTTCTCTGCTCCCCTTCCCGTTGG
+seqstart:20771630;seqstop2077196      TGTTGTGAATAGCATCACTCCTTCTCAAGCTTCACCTTTCTCTGCTCCCCTTCCCGTTGG
+                                      ************************************************************
+
+geneid:Bo5g065610;contig:C5;feat      TGCGTCTCAGCAGCCGCCTAACAACTCATTTCCAG
+seqstart:20771630;seqstop2077196      TGCGTCTCAGCAGCCGCCTAACAACTCATTTCCAG
+                                      ***********************************

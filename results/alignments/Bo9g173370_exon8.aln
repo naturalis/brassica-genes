@@ -1,0 +1,30 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g173370;contig:C9;feat      ATTTATGCAGCGTGGGACAGTTCTTCCGGTGGCTGTGGAATTGGAGGCATTTTCTCAGGA
+seqstart:51055937;seqstop5105635      ATTTATGCAGCGTGGGACAGTTCTTCCGGTGGCTGTGGAATTGGAGGCATTTTCTCAGGA
+                                      ************************************************************
+
+geneid:Bo9g173370;contig:C9;feat      AATAACCTAAAGCGCATACCAAACCTGAGCGAGCCTCGCTCCCATGTATCTTCAGCTCTT
+seqstart:51055937;seqstop5105635      AATAACCTAAAGCGCATACCGAACCTGAGCGAGCCTCGCTCCCATGTATCTTCAGCTCTT
+                                      ******************** ***************************************
+
+geneid:Bo9g173370;contig:C9;feat      ATGGCAGAGGCCATAGCTGTTCGCCTCGCGGTTGTTACATCCGTCTATTCAA--------
+seqstart:51055937;seqstop5105635      ATGGCAGAGGCCATAGCTGTTCGCCTCGCGGTTGTTACATCCGTCTATTCAAACGGCCAG
+                                      ****************************************************        
+
+geneid:Bo9g173370;contig:C9;feat      ----ACGTCCGATCCCTGGCCGTTCTAACCGATTCGCTCTCCCTCGTCTCTCTACCGAAG
+seqstart:51055937;seqstop5105635      GGATACGTCCGATCCCTGGCCGTTCTAACCGATTCGCTCTCCCTCGTCTCTCTACTGAAG
+                                          *************************************************** ****
+
+geneid:Bo9g173370;contig:C9;feat      AAGGAAGCCACTCAACCTGAACTGTTCGGTATCATGTTTGATATCTATCATGCTTTGTCG
+seqstart:51055937;seqstop5105635      AAGGAAGCCACTCAACCTGAACTGTTCGGTATCATGTTTGATATCTATCATGCTTTGTCG
+                                      ************************************************************
+
+geneid:Bo9g173370;contig:C9;feat      TACTTTGATCGGATTTCTTTTCACTTTATCTCTAGGACCTTTAATGGCGAGGCTGACTTG
+seqstart:51055937;seqstop5105635      TACTTTGATCGGATTTCTTTTCACTTTATCTCTAGGACCTTTAATGGCGAGGCTGACTTG
+                                      ************************************************************
+
+geneid:Bo9g173370;contig:C9;feat      GTGGCAAAGTCTGCTCTCACTCTGCTTTCTGTAAACTCCTCTGTTGGAGGATAA
+seqstart:51055937;seqstop5105635      GTGGCAAAGTCTGCTCTCACTCTGCTTTCTGTAAACTCCTCTGTTGGAGGATAA
+                                      ******************************************************

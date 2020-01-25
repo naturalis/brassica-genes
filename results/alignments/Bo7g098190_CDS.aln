@@ -1,0 +1,18 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo7g098190;contig:C7;feat      ATGGGAAGGGGTAGGGTTCAGCTGAAGAGGATAGAAAACAAGATCAATAGGCAAGTTACT
+seqstart:38371170;seqstop3837135      ATGGGAAGGGGTAGGGTTCAGCTGGAGAGGATAGAAAACAAGATCAATAGGCAAGTTACT
+                                      ************************ ***********************************
+
+geneid:Bo7g098190;contig:C7;feat      TTCTCAAAGAGAAGGTCTGGTTTGCTCAAGAAAGCTCATGAGATCTCTGTTCTCTGCGAT
+seqstart:38371170;seqstop3837135      TTCTCTAAAAGAAGGTCTGGTTTGCTCAAGAAAGCTCATGAGATCTCTGTTCTCTGCGAT
+                                      ***** ** ***************************************************
+
+geneid:Bo7g098190;contig:C7;feat      GCTGAGGTTGCCCTCGTCATCTTCTCTTCCAAAGGCAAACTCTTCGAATATTCCACCGAC
+seqstart:38371170;seqstop3837135      GCTGAGGTTGCTCTCGTTATCTTCTCTTCCAAAGGCAAACTCTTCAAATATTCCACCGAC
+                                      *********** ***** *************************** **************
+
+geneid:Bo7g098190;contig:C7;feat      TCTTG
+seqstart:38371170;seqstop3837135      TCTTG
+                                      *****

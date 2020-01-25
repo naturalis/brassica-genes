@@ -1,0 +1,34 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g032410;contig:C2;feat      ATGAAGATCATATGTGCAGAGATGGGGAAAGAGAGGAAGTACACTGGTCTAGCCAAACCA
+seqstart:9225860;seqstop9226293+      ATGAAGATCATATGTGCAGAGATGGGGAAAGAGAGGAAGTACACTGGTCTAGCCAAACCA
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      AAACTCATAGAAACCCTACTCAAACTTGTGTCTCGTCCTCTCGGAGAAACCTCTCGTCCT
+seqstart:9225860;seqstop9226293+      AAACTCATAGAAACCCTACTCAAACTTGTGTCTCGTCCTCTCGGAGAAACCTCTCGTCCT
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      GACCGTAAAAACTCGAAAAAGAAACGGAAGACGACCAGTTACATCATTTGCTGCGAGAAT
+seqstart:9225860;seqstop9226293+      GACCGTAAAAACTCGAAAAAGAAACGGAAGACGACCAGTTACATCATTTGCTGCGAGAAT
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      GTAGCTTGTAGAGCTGCGCTTGGAACCGAGGATACCTTATGCAGGAAGTGTTCTTGCTGC
+seqstart:9225860;seqstop9226293+      GTAGCTTGTAGAGCTGCGCTTGGAACCGAGGATACCTTATGCAGGAAGTGTTCTTGCTGC
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      GTTTGTCAGAACTATGATGAAGATAAAGATCCGAGTCTATGGATTACTTGTGAGGCTTGT
+seqstart:9225860;seqstop9226293+      GTTTGTCAGAACTATGATGAAGATAAAGATCCGAGTCTATGGATTACTTGTGAGGCTTGT
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      GGACTGTCTTGTCATTTGGAATGCGCTTTGGAGCAAAAGAGGTATGGGATTGGGTGTGAT
+seqstart:9225860;seqstop9226293+      GGACTGTCTTGTCATTTGGAATGCGCTTTGGAGCAAAAGAGGTATGGGATTGGGTGTGAT
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      GATGATGAAGTAGGAAGAGCGCTTGATGGTAGGTTTTATTGCGTGTTTTGCGGCAAAGAT
+seqstart:9225860;seqstop9226293+      GATGATGAAGTAGGAAGAGCGCTTGATGGTAGGTTTTATTGCGTGTTTTGCGGCAAAGAT
+                                      ************************************************************
+
+geneid:Bo2g032410;contig:C2;feat      AATGACTTGCTCGG
+seqstart:9225860;seqstop9226293+      AATGACTTGCTCGG
+                                      **************

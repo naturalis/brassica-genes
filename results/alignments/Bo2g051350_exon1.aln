@@ -1,0 +1,18 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo2g051350;contig:C2;feat      ATGTCTTTAAGTAATAGAGATCCTCTTGTGGTAGGGAGAGTTGTAGGAGACGTTCTTGAA
+seqstart:14766619;seqstop1476681      ATGTCTTTAAGTAATAGAGATCCTCTTGTGGTAGGGAGAGTTGTAGGAGACGTTCTTGAA
+                                      ************************************************************
+
+geneid:Bo2g051350;contig:C2;feat      TGTTTCACAAGATCAATCGATCTAAGGGTTACTTATGGCCAAAGAGAGGTGACAAATGGG
+seqstart:14766619;seqstop1476681      TGTTTCACAAGATCAATCGATCTAAGGGTTACTTATGGCCAAAGAGAGGTGACAAATGGG
+                                      ************************************************************
+
+geneid:Bo2g051350;contig:C2;feat      TTGGATCTAAGGCCTTCTCAAGTTCTCAACAAGCCAAGAGTTGAGATTGGTGGAGAAGAC
+seqstart:14766619;seqstop1476681      TTGGATCTAAGGCCTTCTCAAGTTCTAAACAAGCCAAGAGTTGAGATTGGTGGAGAAGAC
+                                      ************************** *********************************
+
+geneid:Bo2g051350;contig:C2;feat      CTAAGGAACTTCTACACTTTG
+seqstart:14766619;seqstop1476681      CTAAGGAACTTCTACACTTTG
+                                      *********************

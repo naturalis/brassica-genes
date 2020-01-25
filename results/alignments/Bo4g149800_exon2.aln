@@ -1,0 +1,10 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo4g149800;contig:C4;feat      CATGAGGGAAGTATTAGAGAGGCATAATTTGCAGTCAAAGAACTTGGAGAAGCTTGATCA
+seqstart:40753229;seqstop4075330      CATGAGGGAAGTACTAGAGAGGCATAATTTGCAGTCAAAGAACTTGGAGAAGCTTGATCA
+                                      ************* **********************************************
+
+geneid:Bo4g149800;contig:C4;feat      GCCATCTCTTGAGTTACAG
+seqstart:40753229;seqstop4075330      GCCATCTCTTGAGTTACAG
+                                      *******************

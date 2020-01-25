@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo9g139490;contig:C9;feat      CTAGCTCGCAGGGAAGCTTTGAAGCCTACTCTTTTCTTCATGCCGCACTGTGAGGCCAAT
+seqstart:42484438;seqstop4248477      CTAGCTCGCAGGGAAGCTTTGAAGCCTACTCTTTTCTTCATGCCGCACTGTGAGGCCAAT
+                                      ************************************************************
+
+geneid:Bo9g139490;contig:C9;feat      CTGTACAACAATCTATTGCAAGCAAACTGGAGAATGGATCGATTGTGCAGAATCGCGTTG
+seqstart:42484438;seqstop4248477      CTGTACAACAATCTATTGCAAGCAAACTGGAGAATGGATCGATTGTGCAGAATCGCGTTG
+                                      ************************************************************
+
+geneid:Bo9g139490;contig:C9;feat      TTTGGGAACAGCTTTCAGATGTACGAGGAGCAAGTGACTGTTGACCCCGAAGTCATCCGT
+seqstart:42484438;seqstop4248477      TTTGGGAACAGCTTTCAGATGTACGAGGAACAAGTGACTGTTGACCCCGAAGTCATCCGT
+                                      ***************************** ******************************
+
+geneid:Bo9g139490;contig:C9;feat      GCCACTAAACGGATCATAGCTGCACGAAAAATCACTAGTGAGTTTGCTATTGAGACGGTA
+seqstart:42484438;seqstop4248477      GCCACTAAACGGATCATAGCTGCACGAAAAATCACTAGTGAGTTTGCTATTGAGACGGTA
+                                      ************************************************************
+
+geneid:Bo9g139490;contig:C9;feat      TCAGATGATTATTTTCCAGCGTTTCATGATTCAAGCTGGCATTTTTTCAGTTCTGGTTTA
+seqstart:42484438;seqstop4248477      TCAGATGATTATTTTCCAGCGTTTCATGATTCAAGCTGGCATTTTTTCAGTTCTGGTTTA
+                                      ************************************************************
+
+geneid:Bo9g139490;contig:C9;feat      GATTCCGAGCTGCCATTGTTGGTTTCAGAGGGATCATAG
+seqstart:42484438;seqstop4248477      GATTCCGAGCTGCCATTGTTGGTTTCAGAGGGATCATAG
+                                      ***************************************

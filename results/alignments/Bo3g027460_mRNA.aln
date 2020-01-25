@@ -1,0 +1,50 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g027460;contig:C3;feat      ATGAGTGAAATTTTGTGGTCCAACAACTTAAGCACCTTAAGATCCTTCCTCACTTTTGTT
+seqstart:10283341;seqstop1028400      ATGAGTGAAATTTTGTGGTCCAACAACTTAAGCACCTTAAGATCCTTCCTCACTTTTGTT
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      TCTGGGGTCCTTAAGTTCTCTTCAAACGTTTACTTTCACATCTTCTCCTCTTGTTATATC
+seqstart:10283341;seqstop1028400      TCTGGGGTCCTTAAGTTCTCTTCAAACGTTTACTTTCACATCTTCTCCTCTTGTTATATC
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      TTTCATGTGAGAGAGGAAGAGAGTAATATTTTGAAGATGAGTACGAGAAGAAGCAACGCA
+seqstart:10283341;seqstop1028400      TTTCATGTGAGAGAGGAAGAGAGTAATATTTTGAAGATGAGTACGAGAAGAAGCAACGCA
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      GAAGGGAAGAGGAGTTTAAGAGAAATGAGTGAGGAAGAGGAGGATACATTTGAAGAAGAA
+seqstart:10283341;seqstop1028400      GAAGGGAAGAGGAGTTTAAGAGAAATGAGTGAGGAAGAGGAGGATACATTTGAAGAAGAA
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      GACGGAGAAGAGCAGGAGGAAGAAGAGGCTTCAGAGAAGAAGCAGAAAGGCAAAGCTACA
+seqstart:10283341;seqstop1028400      GACGGAGAAGAGCAGGAGGAAGAAGAGGCTTCAGAGAAGAAGCAGAAAGGCAAAGCTACA
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      AGTAGTAGCAGTAATAGTGGAGTTTGTTGTCAGGTGGAGAGATGTACTGCGGATATGAGC
+seqstart:10283341;seqstop1028400      AGTAGTAGCAGTAATAGTGGAGTTTGTTGTCAGGTGGAGAGATGTACTGCGGATATGAGC
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      CGAGCCAAACAGTACCACAAACGACACAAAGTCTGTGAGTTTCATGCCAAAGCTCCTGTT
+seqstart:10283341;seqstop1028400      CGAGCCAAACAGTACCACAAACGACACAAAGTCTGTGAGTTTCATGCCAAAGCTCCTGTT
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      GTTCGGATCTCTGGTGGTTACCAACGTTTCTGCCAACAATGCAGCAGGTAACATCTCTCT
+seqstart:10283341;seqstop1028400      GTTCGGATCTCTGGTGGTTACCAACGTTTCTGCCAACAATGCAGCAGGTAACATCTCTCT
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      CTCTCATGAACTCTATCTTCCCCTCCTCCCACAACAACCAAAAACAAGAAAAAGAATGAT
+seqstart:10283341;seqstop1028400      CTCTCATGAACTCTATCTTCCCCTCCTCCCACAACAACCAAAAACAAGAAAAAGAATGAT
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      GAGACATTTTTAACTTTGGTTTCTACAAGGTTTCATGACCTCCGTGAGTTTGATGAAGCC
+seqstart:10283341;seqstop1028400      GAGACATTTTTAACTTTGGTTTCTACAAGGTTTCATGACCTCCGTGAGTTTGATGAAGCC
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      AAGCGGAGTTGCAGGAGACGCTTAGCTGGACACAATGAGAGAAGGAGGAAAAGCACAAAT
+seqstart:10283341;seqstop1028400      AAGCGGAGTTGCAGGAGACGCTTAGCTGGACACAATGAGAGAAGGAGGAAAAGCACAAAT
+                                      ************************************************************
+
+geneid:Bo3g027460;contig:C3;feat      GAATAA
+seqstart:10283341;seqstop1028400      GAATAA
+                                      ******

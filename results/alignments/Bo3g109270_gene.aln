@@ -1,0 +1,170 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g109270;contig:C3;feat      ATGGATCCTGAAGGTTTCACGAGTGGCTTATTCCGATGGAACCCAACTAGAGTAATGGTT
+seqstart:38842024;seqstop3884452      ATGGATCCTGAAGGTTTCACGAGTGGCTTATTCCGATGGAACCCAACTAGAGTAATGGTT
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      CAAGCACCAGCTCCGATTCCTCCACCGCAGCAGCAATCGCCAGCAACACCGCAGACCGCA
+seqstart:38842024;seqstop3884452      CAAGCACCAACTCCGATTCCTCCACCGCAGCAGCAATCGCCAGCAACACCGCAGACCGCA
+                                      ********* **************************************************
+
+geneid:Bo3g109270;contig:C3;feat      GCGTTTGGAATGCGACTAGGTGGTTTGGAGGGTTTGTTCGGTCCTTACGGTGTACGTTTT
+seqstart:38842024;seqstop3884452      GCGTTTGGAATGCGACTAGGTGGTTTGGAGGGTTTGTTCGGTCCTTACGGTGTACGTTTT
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      TACACGGCGGCAAAGATAGCTGAGTTAGGTTTTACGGCGAGCACACTGGTGGGCATGAAG
+seqstart:38842024;seqstop3884452      TACACGGCGGCAAAGATAGCTGAGTTAGGTTTTACGGCGAGCACACTGGTGGGCATGAAG
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      GACGAGGAGCTTGAGGATATGATGAATAGCCTCTCTCATATCTTTCGTTGGGAGCTTCTC
+seqstart:38842024;seqstop3884452      GACGAGGAGCTTGAGGATATGATGAATAGCCTCTCTCATATCTTTCGTTGGGAGCTTCTC
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      GTCGGTGAACGGTACGGCATCAAAGCTGCCGTTAGAGCTGAACGGAGACGATTGCAAGAA
+seqstart:38842024;seqstop3884452      GTCGGTGAACGGTACGGCATCAAAGCTGCCGTTAGAGCTGAACGGAGACGATTGCAAGAA
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      GAGGAAGAGGAGGAATCGTCTAGACGCCGTCATTTGCTACTCTCCGCCGCAGGTGATTCC
+seqstart:38842024;seqstop3884452      GAGGAAGAGGAGGAATCGTCTAGACGCCGTCATTTGCTACTCTCCGCCGCAGGTGATTCC
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      GGCACTCATCTTGCTCTTGATGCTCTCTCCCAAGAAGGTACGATAATAGTAAATATCTAA
+seqstart:38842024;seqstop3884452      GGCACTCATCTTGCTCTTGATGCTCTCTCCCAAGAAGGTACGATAATAGTAAATATCTAA
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      TGTATATCTATAACTTTTTTTTTTGAAAGCTGTAATATAAATATATTTCCCAACGTTTAA
+seqstart:38842024;seqstop3884452      TGTATATCTATAAC-TTTTTTTTTGAAAGCTGTAATATAAATATATTTCCCAACGTTTTA
+                                      ************** ******************************************* *
+
+geneid:Bo3g109270;contig:C3;feat      TACATGCATTGCTAATCTATTTAACTATGCAAGGCTGTCAACAAATATAGATCTATATAT
+seqstart:38842024;seqstop3884452      TACATGCATTGCTAATCTATTTAACTATGCGAGGCTGTCAACAAATATAGATCTATATAT
+                                      ****************************** *****************************
+
+geneid:Bo3g109270;contig:C3;feat      GTTCACTTGACTGGTAGATATAGGCTTATGAATCTTTGCATGATTGGTTACTAATATCAG
+seqstart:38842024;seqstop3884452      GTTCACTTGACTGGTAGATATAGGCTTATGAATCCTTGCATGATTGGTTACTAATATCAG
+                                      ********************************** *************************
+
+geneid:Bo3g109270;contig:C3;feat      CAACTATATACTTGTATGATATAGTTCTGGGCAACATTTGTTTTTTGACTGTCAAATGTA
+seqstart:38842024;seqstop3884452      CAACTATATACTTGTATGATATAGTTCTGGGCAACATTTGTTTTTTGATTGTCAAATGTA
+                                      ************************************************ ***********
+
+geneid:Bo3g109270;contig:C3;feat      ACTTCAAATACGTGTATAGTAGAACTATTTGTATAGAATATGCAATTGCAGTCTGCTTTT
+seqstart:38842024;seqstop3884452      ACTTCAAATACGTGTATAGTAGAACTATTTGTATAGAGTATGCAATTGCAGTCTGCTTTT
+                                      ************************************* **********************
+
+geneid:Bo3g109270;contig:C3;feat      TAAATTAGACCTGTTGCAAGAAGTACGAGGATTAATTATATATTGTGCAAAATCCAAATA
+seqstart:38842024;seqstop3884452      TAAATTAGACCTGTTGCAAGAAGTACGAGGATTAATTATATATTGTGCAAAATCCAAATA
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      CTGAACGTATCTTTTTAATATCTATATAAAATAAAGTTTGCGATTGTGACAAAAGTATGT
+seqstart:38842024;seqstop3884452      CTGAACGTATCTTTTTAATATCTATATAAAATAAAGTTTGCGATTGTGACAAAAGTATGT
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      ATAGATGACTGGACAGGGTTGTCACAGGAGCCGGTTCAGCACCAAGATCAGACTGATGCG
+seqstart:38842024;seqstop3884452      ATAGATGACTGGACAGGGTTGTCACAGGAGCCGGTTCAGCACCAAGATCAGACTGATGCG
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      GCGGGGATCAACGGCGGAGGAAGAGGAGGTTATTGGGAAGCAGGGCAGACGACAATAAAA
+seqstart:38842024;seqstop3884452      GCGGGGATCAACGGCGGAGGAAGAGGAGGTTATTGGGAAGCAGGGCAGACGACAATAAAA
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      AAGCAACAGCAGAGACGCAGAAAGAAAACGATTGTAACGTCAGTGGAAACTGATGATGAC
+seqstart:38842024;seqstop3884452      AAGCAACAGCAGAGACGCAGAAAGAAAGCGATTGTAACGTCAGTGGAAACTGATGATGAC
+                                      *************************** ********************************
+
+geneid:Bo3g109270;contig:C3;feat      GGCAACGAAGGTGAGGATGACGACGGGATGGATGTTGTTAACGGAAGTGGGTCAGGGATG
+seqstart:38842024;seqstop3884452      GGCAACGAAGGTGAGGATGACGACGGGATGGATATTGTTAACGGAAGTGGGTCAGGGATG
+                                      ********************************* **************************
+
+geneid:Bo3g109270;contig:C3;feat      GAGAGACAAAGGGAGCATCCGTTTATTGTAACGGAGCCAGGGGAAGTAGCACGTGGCAAA
+seqstart:38842024;seqstop3884452      GAGAGACAAAGGGAGCACCCGTTTATTGTAACGGAGCCAGGGGAAGTAGCACGTGGCAAA
+                                      ***************** ******************************************
+
+geneid:Bo3g109270;contig:C3;feat      AAGAACGGTTTGGATTATCTTTTCCACTTGTACGAACAGTGCCGCGAGTTCCTTCTTCAG
+seqstart:38842024;seqstop3884452      AAGAACGGTTTGGATTATCTTTTCCACTTGTACGAACAGTGCCGCGAGTTCCTTCTTCAG
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      GTCCAGACCATTGCTAAAGATCGTGGCGAAAAATGCCCTACCAAGGTATCTTTCGTTTAT
+seqstart:38842024;seqstop3884452      GTCCAGACCATTGCTAAAGATCGTGGCGAAAAATGCCCTACCAAGGTATCTTTCGTTTAT
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      CAACCGATCCTAGCCGTACGCTTACTTTACATTATCATTTTTATAAAATATATACATTTT
+seqstart:38842024;seqstop3884452      CAACCGATCCTAGCCGTACGCTAACTTTACATTATCATTTTTATAAAATATATACATTTT
+                                      ********************** *************************************
+
+geneid:Bo3g109270;contig:C3;feat      GGTGTCGGATTGGTAGGGAAA-CCCTAGCCATAATCATGGACAGCTGTTTTAAAGCAAGT
+seqstart:38842024;seqstop3884452      GGTGTCGGATTGGTAGGGAAACCCCTAGCCATAATCATGGACAGCTGTTTTAAAGCAAGT
+                                      ********************* **************************************
+
+geneid:Bo3g109270;contig:C3;feat      TTGACAAGTCATGAGTTCAGCGATTTTTCGTTATTATTTTTGTTTTATTTTCTTTCGCTA
+seqstart:38842024;seqstop3884452      TTGACAAGTCATGAGTTCAGAGATTTTTCGTTATTATTTTTGTTTTATTTTCTTTCGCTA
+                                      ******************** ***************************************
+
+geneid:Bo3g109270;contig:C3;feat      TGTCTGGCAAAGATTTATATAGGTTCTGATTTTATGTCTTCACTCGGAATAAATATAGTT
+seqstart:38842024;seqstop3884452      TGTCTGGCAAAGATTTATATAGGTTCTGATTTTATGTCTTCACTCGGAATAAATATAGTT
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      AGATTTCTTTTCTTTTTTTGTAACGTAAATATAGTTATATAGTTAGATTTCAATTTAATG
+seqstart:38842024;seqstop3884452      AGATTTTTTTTTTTTTTT--TAACATAAATATAGTTATATAGTTAGATTTCAATTTAATG
+                                      ****** **** ******  **** ***********************************
+
+geneid:Bo3g109270;contig:C3;feat      TTTTGTAAGAGTCACCGTACGACAACGTGTCGAGTTA-GGAAACGACACAGTCGTTCTTT
+seqstart:38842024;seqstop3884452      TTTTGTAAGAGTCACCGTACGACAACGTGTCGAGTTAGGGAAACGACACAGTCGTTCTTT
+                                      ************************************* **********************
+
+geneid:Bo3g109270;contig:C3;feat      TGTTTTTACCTAAAACGACACGAGATAGTAAGATACGATGTCCTCATGCA-TTTTTTTTT
+seqstart:38842024;seqstop3884452      TGTTTTTACCTAAAACGACACGAGATAGTAAGATACGATGTCCTCATGCATTTTTTTTTT
+                                      ************************************************** *********
+
+geneid:Bo3g109270;contig:C3;feat      TGGGGCAAATGTCCTCATGCATTTAGATTCAATATCTGCATGTATTTTACATATTTGTTG
+seqstart:38842024;seqstop3884452      TTGGGCAAATGGCCTCATGCATTTAGATTCAATATCTGCATGTATTTTACATATTTGTTG
+                                      * ********* ************************************************
+
+geneid:Bo3g109270;contig:C3;feat      ACCATTTATTAGAGATAATTGTTGTGTGCTATATGTATTTAGATACAGTCTATTACTCAG
+seqstart:38842024;seqstop3884452      ACCCTTTATTAGAGATATTTGTTGTGTGCTATATGTATTTAGATACAGTCTATTACTCAG
+                                      *** ************* ******************************************
+
+geneid:Bo3g109270;contig:C3;feat      TGGGTAATAAAGAGTCTTCTTCCCCATAGTACAGAATCCATGAGCTCTGTGCCATTTGCT
+seqstart:38842024;seqstop3884452      TGGGTAATAAAGAGTCTTCTTCCCCATAGTACAGAATCCATGAGCTCTGTGCCATTTGCT
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      TGTGCAGACGCACGTTATTAAAAATATGAGGTTTACAGATAACGTAAGCCAATAAAAGTC
+seqstart:38842024;seqstop3884452      TGTGCAGACGCACGTTATTAAAAATATGAGGTTTACAGATAACGTGAGCCAATAAAAGTC
+                                      ********************************************* **************
+
+geneid:Bo3g109270;contig:C3;feat      TAAATTTTTCTCTCTGAAGATATTACCTCCAATATATATTTAAATTATATATTGGTACTT
+seqstart:38842024;seqstop3884452      TAAATTTTTCTCTCTGAAGATATTACCTCCAATATATATTTAAATTATATATTGGTACTT
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      TTTCTATGCTAATAAAAAAGGTTGTTTTGAATTATTAAGTACTGATTTTTTATGATTTGG
+seqstart:38842024;seqstop3884452      TTTCTATGCTATTAAAAAAGGTTGTTTTGAATTATTAAGTACTGATTTTTTATGTTTTGG
+                                      *********** ****************************************** *****
+
+geneid:Bo3g109270;contig:C3;feat      AAAAATATGTAAATAGGTGACGAACCAGGTGTTCAGGTACGCTAAGAAATCGGGGGCAAA
+seqstart:38842024;seqstop3884452      AAAAATATGTAAATAGGTGACGAACCAGGTGTTCAGGTACGCTAAGAAATCGGGGGCAAA
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      TTACATAAATAAGCCAAAAATGCGACACTACGTTCATTGTTACGCACTCCATTGCCTCGA
+seqstart:38842024;seqstop3884452      TTACATAAATAAGCCAAAAATGCGACACTACGTTCATTGTTACGCACTCCATTGCCTCGA
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      CGAAGAAGCTTCAAACGCTCTCCGAAGAGCGTTTAAAGAACGCGGTGAGAACGTTGGGTC
+seqstart:38842024;seqstop3884452      CGAAGAAGCTTCAAACGCTCTCCGAAGAGCGTTTAAAGAACGCGGTGAGAACGTTGGGTC
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      GTGGCGGCAGGCTTGTTACAAGCCACTTGTGGACATTGCTTGTCGTCATGGCTGGGATAT
+seqstart:38842024;seqstop3884452      GTGGCGTCAGGCTTGTTACAAGCCACTTGTGGACATTGCTTGTCGTCATGGCTGGGATAT
+                                      ****** *****************************************************
+
+geneid:Bo3g109270;contig:C3;feat      AGACGCCGTTTTTAACGCTCATCCTCGCCTTTCCATTTGGTATGTTCCCACTAAGCTGCG
+seqstart:38842024;seqstop3884452      AGACGCCGTTTTTAACGCTCATCCTCGCCTTTCCATTTGGTATGTTCCCACTAAGCTGCG
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      TCAGCTCTGCCATTTGGAGCGGAACAATGCGGTTGCTGCGGCTGCGACTTTGGTTGGTGG
+seqstart:38842024;seqstop3884452      TCAGCTCTGCCATTTGGAGCGGAACAATGCGGTTGCTGCGGCTGCGACTTTGGTTGGTGG
+                                      ************************************************************
+
+geneid:Bo3g109270;contig:C3;feat      TATTAGCTGCGAGGGATCGCCTGCGTCTGGACGCTTTGGGGTTTAA
+seqstart:38842024;seqstop3884452      TATTAGCTGCGAGGGATCGCCTGCGTCTGGACGCTTTGGGGTTTAA
+                                      **********************************************

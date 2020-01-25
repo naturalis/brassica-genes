@@ -1,0 +1,42 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo8g105980;contig:C8;feat      CGACATCGTTGAACAGTACGAGGAACAAATGCAAAAGTTGGCATCGAAGTTGATGTGGCT
+seqstart:37457692;seqstop3745827      CGACATCGTTGAACAGTACGAGGAACAAATGCAAAAGTTGGCATCGAAGTTGATGTGGCT
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      ATCACTGAATTCACTTGGCGTCAGCGAAGAAGACATTAAATGGGCCAGGGTCAGTTCAGA
+seqstart:37457692;seqstop3745827      ATCACTGAATTCACTTGGCGTCAGCGAAGAAGACATTAAATGGGCCAGGGTCAGTTCAGA
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      TTTAAACTGGGCCCAATCTGCCCTCCAGCTAAACCACTACCCGGTTTGTCCTGAACCCGA
+seqstart:37457692;seqstop3745827      TTTAAACTGGGCCCAATCTGCCCTCCAGCTAAACCACTACCCGGTTTGTCCTGAACCCGA
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      TCGGACTATGGGTCTAGCACCCCATACCGACTCCACCCTCTTGACCATACTCTACCAGAA
+seqstart:37457692;seqstop3745827      TCGGACTATGGGTCTAGCACCCCATACCGACTCCACCCTCTTGACCATACTCTACCAGAA
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      CAATACCGCCGGTCTCCAAGTATTTCGTGATGATCTTGGTTGGGTCACCGTGCCACCGGT
+seqstart:37457692;seqstop3745827      CAATACCGCCGGTCTCCAAGTATTTCGTGATGATCTTGGTTGGGTCACCGTGCCACCGGT
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      TCCTGGCTCGCTCGTGGTCAATGTTGGTGATCTTTTCCATATTCTATCCAACGGTTTGTT
+seqstart:37457692;seqstop3745827      TCCTGGCTCGCTCGTGGTCAATGTTGGTGATCTTTTCCATATTCTATCCAACGGTTTGTT
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      TAAAAGCGTGATTCACCGTGCTCGGGTTAACCAAACCAGATCCCGGTTATCCGTAGCTTT
+seqstart:37457692;seqstop3745827      TAAAAGCGTGATTCACCGTGCTCGGGTTAACCAAACCAGATCCCGGTTATCCGTAGCTTT
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      CCTTTGGGGTCCACGGTCCGATACAAAGATATCACCTGTACGAAAACTGGTTAGTCCTGA
+seqstart:37457692;seqstop3745827      CCTTTGGGGTCCACGGTCCGATACAAAGATATCACCTGTACGAAAACTGGTTAGTCCTGA
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      TGAATCGCCTTTATATCGATCGGTCACATGGGCAGAGTATCTCCGAACAAAAGCAACCCA
+seqstart:37457692;seqstop3745827      TGAATCGCCTTTATATCGATCGGTCACATGGGCAGAGTATCTCCGAACAAAAGCAACCCA
+                                      ************************************************************
+
+geneid:Bo8g105980;contig:C8;feat      CTTCAATAAGGCTCTTTCAATGATTAGAAATCACAGAGAGAAATAA
+seqstart:37457692;seqstop3745827      CTTCAATAAGGCTCTTTCAATGATTAGAAATCACAGAGAGAAATAA
+                                      **********************************************

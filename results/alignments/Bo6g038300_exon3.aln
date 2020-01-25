@@ -1,0 +1,14 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo6g038300;contig:C6;feat      ATTGTGGATCACTGGATCAACATGGGTTTGCATGGGACAAAATATGGGCAATCGATGACA
+seqstart:34345580;seqstop3434572      --TGTGGATCACTGGATCAATATGGGTTTGCAAGGGACAAAATATGGGTAATCGATGATA
+                                        ****************** *********** *************** ********* *
+
+geneid:Bo6g038300;contig:C6;feat      ATCTACCTCCACAAGTTCTTAAAATCATCATTAGTTGATCTTCATCTCAAACCATCAGAA
+seqstart:34345580;seqstop3434572      ATCTACCTCCACGAGTTCTTAAAATCATCATTAGTTGATCTTCATCTCAAACCAACAGAA
+                                      ************ ***************************************** *****
+
+geneid:Bo6g038300;contig:C6;feat      GAGGACTTAAAGCAATGGTCTTACAG
+seqstart:34345580;seqstop3434572      GAGGACTTAAAGCAATGGTCTGACAG
+                                      ********************* ****

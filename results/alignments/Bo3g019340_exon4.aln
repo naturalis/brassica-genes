@@ -1,0 +1,26 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo3g019340;contig:C3;feat      ATGCTGGAGGAAGCAAGTGAAGGTTGCGAAAGAGACTGGGCGTGTGGATGTACTTTGTTA
+seqstart:6607906;seqstop6608213+      ATGCTGGAGGAAGCAAGTGAATGTGGCGAAGGAGACTCGGCATGTAGATGTTCTTTGTTA
+                                      ********************* ** ***** ****** *** *** ***** ********
+
+geneid:Bo3g019340;contig:C3;feat      CCGTGTTTCTCTAGGACAGAAGCTGTTGCGAGGTACAAGGAGGTATCAGAATCTGTTGGA
+seqstart:6607906;seqstop6608213+      CCGTGTTTCTTTAGGACAGAAGCTGTTGAGAGGTACAAGGAGGTATCAGAATCTGTTGGA
+                                      ********** ***************** *******************************
+
+geneid:Bo3g019340;contig:C3;feat      ACTCATGGATGAGGCGGTGCAGAAGCTGGAGGGTGATATGGGTCCGTTAGTGAGTTGGGA
+seqstart:6607906;seqstop6608213+      GCTCATGGATGAGGCGGTGAAGAAGCTGGAGGGTGATGTGGGTCCGTTAGTGAGTTGGGA
+                                       ****************** ***************** **********************
+
+geneid:Bo3g019340;contig:C3;feat      TATGAAGATGGCTCGGGAGATTGTCAATAGACTTGCTTCGGGATCACAAGTTCAGAAGCT
+seqstart:6607906;seqstop6608213+      GATGAAGATGGCTCGAGGTATCGTCAATAGACTTGCTTCGGGATCGCAAGTTCAGAAGCT
+                                       ************** *  ** *********************** **************
+
+geneid:Bo3g019340;contig:C3;feat      GTGTTCTCTGGCAATGGAAGCTCTTGACAACATGGTCTCACCATTATCAGGATCTGTTTC
+seqstart:6607906;seqstop6608213+      GTGTTATCTGGCAATGGAAGCTCTTGACAAAATGGTCTCACCATTGTCAGAATCTGTTTC
+                                      ***** ************************ ************** **** *********
+
+geneid:Bo3g019340;contig:C3;feat      AGGACAAG
+seqstart:6607906;seqstop6608213+      AGGACAAG
+                                      ********

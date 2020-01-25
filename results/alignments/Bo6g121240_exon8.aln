@@ -1,0 +1,50 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo6g121240;contig:C6;feat      GGTCAGGAGTTGACATTTGACTACAACTATGTGAGGGTTTTTGGTGCCGCTGCCAAAAAG
+seqstart:38450005;seqstop3845070      GGTCAGGAGTTGACATTTGACTACAACTATGTGAGGGTTTTTGGTGCCGCTGCCAAAAAG
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      TGTTACTGTGGATCATCACATTGCCGAGGTTACATTGGGGGAGATCCTTTGAACGGTGAT
+seqstart:38450005;seqstop3845070      TGTTACTGTGGATCATCACATTGCCGAGGTTACATTGGGGGAGATCCTTTGAACGGTGAT
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      GTAGTTGTTCAAAGTGATTCAGATGAAGAGTATCCCGAACTTGTGATCCTTGATGATGAC
+seqstart:38450005;seqstop3845070      GTAGTTGTTCAAAGTGATTCAGATGAAGAGTATCCCGAACTTGTGATCCTTGATGATGAC
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      GAAAGTGGGGAAGGAATCTTAGATGCAACGTCTAAGATCTTCATGGATGGTGCTGACATG
+seqstart:38450005;seqstop3845070      GAAAGTGGGGAAGGAATCTTAGATGCAACGTCTAAGATCTTCATGGATGGTGCTGACATG
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      CAAATGCCGCAGAACTCTACAAAGGTTGATGATTCCAAGGACCTTGCTTCTCAATCGCCT
+seqstart:38450005;seqstop3845070      CAAATGCCGCAGAACTCTACAAAGGTTGATGATTCCAAGGACCTTGCTTCTCAATCGCCT
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      AGCTCAGTATCTGTAAAACTTCCAGAGAGCGAGGTTCTTCCATCTTTTCAACCGACCGAA
+seqstart:38450005;seqstop3845070      AGCTCAGTATCTGTAAAACTTCCAGAGAGCGAGGTTCTTCCATCTTTTCAACCGACCGAA
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      GCATCCAAGGAACTTTCGACAGACATGCCTGTCATTGATGTCCAGCAGGAGGTTCTTGAA
+seqstart:38450005;seqstop3845070      GCATCCAAGGAACTTTTGACAGACATGCCTGTCATTGATGTCCAGCAGGAGGTTCTTGAA
+                                      **************** *******************************************
+
+geneid:Bo6g121240;contig:C6;feat      AAGAAGACTAAAGGCGCATCTCCCGCCTCCAAGTCTATCAGCAGACTGTCCTCGGATGGT
+seqstart:38450005;seqstop3845070      AAGAAGACTAAAGGCGCATCTCCCGCCTCCAAGTCTATCAGCAGACTGTCCTCGGATGGT
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      GCAAATTCTGATAAGACAGTAAAGCATGGATCTGGTGAAGATATAAAGATACTTTCACGA
+seqstart:38450005;seqstop3845070      GCAAATTCTGATAAGACAGTAAAGCATGGATCTGGTGAAGATATAAAGATACTTTCACGA
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      CCCCGCCCTCGTACAAAAACTTCGCGTTCATCGGGGTCCAGCAAGCAAGCTCTTCCTGGT
+seqstart:38450005;seqstop3845070      CCCCGCCCTCGTACAAAAACTTCGCGTTCATCGGGGTCCAGCAAGCAAGCTCTTCCTGGT
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      GTTAACAAAGCACAGACTACACCAGTCAAAAAGTTGCAACAGCAGCCCATCAAATCTAAA
+seqstart:38450005;seqstop3845070      GTTAACAAAGCACAGACTACACCAGTCAAAAAGTTGCAACAGCAGCCCATCAAATCTAAA
+                                      ************************************************************
+
+geneid:Bo6g121240;contig:C6;feat      GGATCAGAGGAAGTTTCTCCCAGCGGGCGTATTGAAACAT
+seqstart:38450005;seqstop3845070      GGATCAGAGGAAGTTTCTCCCAGCGGGCGTATTGAAACAT
+                                      ****************************************

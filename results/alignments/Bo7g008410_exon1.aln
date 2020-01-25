@@ -1,0 +1,110 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+geneid:Bo7g008410;contig:C7;feat      CCGGTTCTTGCAGTGTAGAGGTCCATATGCTAAAAGAAGGCATCCCTCTGTAGATTCCAC
+seqstart:2557819;seqstop2559433+      CCGGTTCTTGCAGTGTAGAGGGCCATATGCTAAAAGAAGGCATCCCTCTGTAGATTCCAC
+                                      ********************* **************************************
+
+geneid:Bo7g008410;contig:C7;feat      AGTTGTGTCAAAAATGCGACAGTGTCTAGAAAAAGGCATCGAGTTTCAGGGAGAGTTACT
+seqstart:2557819;seqstop2559433+      AGTTGTCTCCAAGATGCGACAGTGTCTAGAAAAAGGCATCGAGTTTCAGGGCGAGTTGTT
+                                      ****** ** ** ************************************** *****  *
+
+geneid:Bo7g008410;contig:C7;feat      CAACTTCAGGAAAAACGGGTCTCCTTTGATGAACAAGCTGCGTCTAGTCCCCATCCGTGA
+seqstart:2557819;seqstop2559433+      AAACTTCCGTAAAGATGGGTCTCCTCTGATGAACAAGCTGCGTCTTGTCCCTATCCGTGA
+                                       ****** * *** * ********* ******************* ***** ********
+
+geneid:Bo7g008410;contig:C7;feat      AGAAGACGAGATCACTCATTTCATAGGCGTTCTCTCCTTCACAGACGCAGAAATTGATCT
+seqstart:2557819;seqstop2559433+      AGACGACGAGATCACTCATTTCATAGGCGTTCTCTCCTTCACAGACGCAGAAATTGATCT
+                                      *** ********************************************************
+
+geneid:Bo7g008410;contig:C7;feat      CGGCCCCTTTCCAGACTTGTCTACAAAACCAATTCCAAGAAGATCTCGCTCATTTGCCTC
+seqstart:2557819;seqstop2559433+      CGGCCCCTTTCCAGACTTGTCTACAAAACCAATTCCAAGAAGATCTCGCTCATTTGCCTC
+                                      ************************************************************
+
+geneid:Bo7g008410;contig:C7;feat      TGCTTCACCAATCGGAGATCGCAACGTCTCTCGTGGACTAGGTGGTATATTTGATCTGAG
+seqstart:2557819;seqstop2559433+      TGCTTTACCAACCGGAGAGCGTAATGTTTCTCGGGGACTATGTGGAATATTCGAGCTGAG
+                                      ***** ***** ****** ** ** ** ***** ****** **** ***** ** *****
+
+geneid:Bo7g008410;contig:C7;feat      CGATGAGGTAATAGCTCTCAAGATATTGTCAAAGCTGACTCCCCCTGACATTGCATCGGT
+seqstart:2557819;seqstop2559433+      TGACGAGGTTATAGCTCTCAAGATACTGTCTCAGTTGGCTCCGTCCGATATTGCATCAGT
+                                       ** ***** *************** ****  ** ** ****  * ** ******** **
+
+geneid:Bo7g008410;contig:C7;feat      CGGTTGCGTGTGTCGGCGGCTAAATGAGTTGACAAAGAACGATGACGTGTGGAGAATGGT
+seqstart:2557819;seqstop2559433+      GGGTTGTGTGTGCCGGCGGCTTAATGAGGTTACAAAGAACGATGATGTGTGGAGAATGGT
+                                       ***** ***** ******** ****** * ************** **************
+
+geneid:Bo7g008410;contig:C7;feat      TTGTCAAAACACGTGGGGCACCGAAGCCACACGTGTTCTCGAGAGTGTTCCCGGTGCAAA
+seqstart:2557819;seqstop2559433+      TTGTCAAAACACGTGGGGCACCGAAGCTACACGTGTTCTCGAGAGTATTCCCGGTGAAAA
+                                      *************************** ****************** ********* ***
+
+geneid:Bo7g008410;contig:C7;feat      GAGGATCGGTTGGGGGAGACTGGCTCGAGAGTTCACAACGCATGAAGTAACTGCGTGGAG
+seqstart:2557819;seqstop2559433+      GAGGATTGGATGGGTGCGATTGGCCCGAGAGTTTACCACACATGAAGCAAATGCGTGGAG
+                                      ****** ** **** * ** **** ******** ** ** ******* ** *********
+
+geneid:Bo7g008410;contig:C7;feat      GAAGTTTTCGTTTGGAGGTACCGTCGAGCCTTCCCGGTGTAACTTCAGCGCTTGTGCGGT
+seqstart:2557819;seqstop2559433+      GAAGTTTACTTTTGGAGGTACTGTTGAGCCTTCCCGGTGTAACTTCAGCGCATGTGCGGT
+                                      ******* * *********** ** ************************** ********
+
+geneid:Bo7g008410;contig:C7;feat      TGGGAATAGGATTGTTATCTTCGGCGGGGAAGGTGTGAACATGCAACCGATGAATGATAC
+seqstart:2557819;seqstop2559433+      TGGGAATAAGATTGTTATCTTTGGTGGGGAAGGTGTGAACATGCAACCGATGAATGATAC
+                                      ******** ************ ** ***********************************
+
+geneid:Bo7g008410;contig:C7;feat      GTTTGTGTTGGATCTTGGGTCAACTACTCCTGAGTGGAAATCTGTTTTGGTTAGCTCTCC
+seqstart:2557819;seqstop2559433+      GTTCGTGTTGGACCTTGGCTCTAGTAGTCCCCAGTGGAAATCCGTTCTGGTTAACTCTCC
+                                      *** ******** ***** ** * ** ***  ********** *** ****** ******
+
+geneid:Bo7g008410;contig:C7;feat      TCCTCCTGGTCGCTGGGGTCATACGCTCTCTTGTGTCAACGGCTCTCGTCTAGTAGTCTT
+seqstart:2557819;seqstop2559433+      TCCTCCTGGTCGCTGGGGTCACACCCTTTCTTGTGTCGACGGATCCCATTTAGTAGTCTT
+                                      ********************* ** ** ********* **** ** * * **********
+
+geneid:Bo7g008410;contig:C7;feat      TGGAGGTTACGGGAGCCATGGATTACTCAACGATGTCTTCATGTTAGACCTTGATGCAGA
+seqstart:2557819;seqstop2559433+      TGGAGGTTACGGGAGCCATGGGTTACTCAACGATGTCTTCTTGTTAGACCTTGATGCAGA
+                                      ********************* ****************** *******************
+
+geneid:Bo7g008410;contig:C7;feat      CCCTCCTACATGGAGAGAAGTATCCGGTTTAGCCCCTCCAATACCAAGATCATGGCATAG
+seqstart:2557819;seqstop2559433+      CCCTCCTACATGGAGAGAAGTATCCGGTTTAGCCCCTCCAATACCAAGATCATGGCATAG
+                                      ************************************************************
+
+geneid:Bo7g008410;contig:C7;feat      CTCGTGCACACTTGATGGAACCAAGCTGATTGTATCTGGTGGTTGTGCTGATTCAGGAGC
+seqstart:2557819;seqstop2559433+      CTCGTGCACACTCGATGGAACCAAGCTGATTGTATCTGGTGGTTGTGCTGATTCAGGAGC
+                                      ************ ***********************************************
+
+geneid:Bo7g008410;contig:C7;feat      TTTGCTGAACGATACGTTCTTGCTTGATTTGTCAATGGATACACCAACTTGGAGGGAGAT
+seqstart:2557819;seqstop2559433+      TCTACTCAACGACACATTCTTGCTTGACCTTTCGATGGATACACCAACTTGGAGGGAGAT
+                                      * * ** ***** ** ***********  * ** **************************
+
+geneid:Bo7g008410;contig:C7;feat      ACCTGTTCCATGGTCTCCTCCATCTCGCCTTGGACATACCTTAACCGTGTACGGTGACCG
+seqstart:2557819;seqstop2559433+      ACCGGTTCCTTGGTCTCCTCCATCTCGCCTTGGACATACCTTAACCGTCTATGGTGACCG
+                                      *** ***** ************************************** ** ********
+
+geneid:Bo7g008410;contig:C7;feat      GAAGATCCTTATGTTCGGTGGTCTTGCAAAATCCGGAACTTTGAGATTCCGGTCTAACGA
+seqstart:2557819;seqstop2559433+      CAAGATCCTCATGTTTGGTGGTCTTGCGAAATTGGGAACTTTGAGATTCCGCTCTAACGA
+                                       ******** ***** *********** ****  ***************** ********
+
+geneid:Bo7g008410;contig:C7;feat      TGTCTACACGATGGATCTTAGCGAGGATGAACCGTGCTGGAGACCTGTGATTGGGTATGG
+seqstart:2557819;seqstop2559433+      TGTATTCACGATGGATCTAAGCAACGATGAACCATGCTGGAGACCTGTGATTGGGTATGG
+                                      *** * ************ *** * ******** **************************
+
+geneid:Bo7g008410;contig:C7;feat      ATCTAGCCTTCCTGGAGGCATGGCAGCTCCACCACCGAGGCTAGATCATGTGGCGGTTAG
+seqstart:2557819;seqstop2559433+      ATCTAGCCTTCCGGGAGGCATGGCAGCTCCACCACCGAGGCTAGATCATGTGGCGGTTAG
+                                      ************ ***********************************************
+
+geneid:Bo7g008410;contig:C7;feat      CCTTCCAGGTGGTAGAGTCTTGATATTTGGCGGTTCGGTTGCAGGGCTTGACTCTGCTTC
+seqstart:2557819;seqstop2559433+      CCTTCCAGGTGGTAGAGTCTTGATATTTGGTGGTTCGGTTGCAGGGCTTGCCTCGGCTTC
+                                      ****************************** ******************* *** *****
+
+geneid:Bo7g008410;contig:C7;feat      TCAGCTTTATATTCTTGATCCTACGGAGGAGACTCCGGCGTGGAGGATACTGAGTGTTAA
+seqstart:2557819;seqstop2559433+      TCAGCTTTATCTTCTTGATCCTGCAGAGGATAATCCGGCATGGAGGATATTGAGTGTTAA
+                                      ********** *********** * ***** * ****** ********* **********
+
+geneid:Bo7g008410;contig:C7;feat      GGGATGTCCACCGCAGATTGCGTGGGGGCACACCACTTGTGTGGTGGGAGGGACTAGGTT
+seqstart:2557819;seqstop2559433+      GGGAAGTCCACCACGGTTTGCGTGGGGACACACCACTTGTGTGATCGGAGGAACTAGGTT
+                                      **** ******* * * ********** *************** * ***** ********
+
+geneid:Bo7g008410;contig:C7;feat      GGTCATCTTAGGTGGTCAAACAGGAGAAGAGTGGATGCTAAATGAAGCTCATGAATTGTT
+seqstart:2557819;seqstop2559433+      GGTCATCTTAGGTGGTCAAACAGGAGAAGAGTGGATGCTAAATGAAGCTCATGAATTGTT
+                                      ************************************************************
+
+geneid:Bo7g008410;contig:C7;feat      GTTAGCTACCTCTAGTACTACATCGTCAAGACATGAAGAGAAGAGGGTCTTCTAG
+seqstart:2557819;seqstop2559433+      GTTAGCTACCTCTAGTACTACATCGTCAAGACATGAAGAGAAGAGGGTCTTCTAG
+                                      *******************************************************
