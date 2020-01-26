@@ -27,9 +27,11 @@ $ java -jar snpEff.jar build -gff3 -v own_data
 SnpEff takes a VCF (variant call format) file as input (created after a sequencing experiment). This file contains the predicted variants like SNPs, insertions, deletions and MNPs. 
 
 Annotating the VCF file is done by running the next command line:
+
 $ java -Xmx4g -jar snpEff.jar GRCh37.75 examples/test.chr22.vcf > test.chr22.ann.vcf
 
 The verbose (-v option) can be useful for debugging since it shows a lot information, if you would like to use this mode, your input will look a bit like this:
+
 $ java -Xmx4g -jar snpEff.jar -v GRCh37.75 examples/test.chr22.vcf > test.chr22.ann.vcf
 [ This mode will also create a .html page containing the basic statistics about the analyzed variants ]
 
