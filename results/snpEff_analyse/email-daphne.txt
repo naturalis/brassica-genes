@@ -1,0 +1,13 @@
+Ginneken, Daphne van <s1099617@student.hsleiden.nl>
+Mar 2, 2020, 12:11 PM
+to me
+
+Beste Rutger,
+
+Rik heeft de files voor mij op de github gezet dus dat is goed gekomen. Ik heb nu (naar mijn mening) betere output uit snpEff gekregen, zonder alternerende regels. Ik heb deze output nog niet gefilterd op genen van interesse.
+Op de github staan de bestanden onder de map results/snpeff_analyse, snpEff_genen.txt (de tabel) en snpEff_summary.html (een duidelijk overzicht van wat de tool gevonden heeft).
+Zou u mijn kunnen vertellen of ze output betrouwbaar genoeg is om mee verder te werken (dus filteren en interpreteren van de output etc)?
+
+Met vriendelijke groet,
+
+Daphne van Ginneken
