@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5211461.svg)](https://doi.org/10.5281/zenodo.5211461)
+
 # brassica-genes
 
 Analysis of flowering time paralogues in Brassica oleracea
